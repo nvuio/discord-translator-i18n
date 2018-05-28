@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgid "Box - Top Avatar"
+msgstr ""
+
+msgid "Box - Bottom Avatar"
+msgstr ""
+
+msgid "Box - No Avatar"
+msgstr ""
+
+msgid "Box - Big Avatar"
+msgstr ""
+
+msgid "Compact"
+msgstr ""
+
+msgid "Oneliner"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "Block"
+msgstr ""
