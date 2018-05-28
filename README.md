@@ -1,6 +1,7 @@
 # Discord Translator Bot - Localization
 
 This is the public localization project for **Discord Translator** - the most powerful translation bot for Discord.
+
 Based on `Google Cloud Translate` and `Discord.js`.
 
 [![Discord](https://discordapp.com/api/guilds/377112375372808193/embed.png)](https://discord.gg/uekTNPj) [![active servers](https://discordbots.org/api/widget/servers/360081866461806595.svg)](https://discordbots.org/bot/360081866461806595) [![invite](https://img.shields.io/badge/invite-Translator%20Bot-7289DA.svg)](https://discordapp.com/api/oauth2/authorize?client_id=360081866461806595&permissions=67628096&scope=bot)
@@ -57,8 +58,6 @@ Hallo %s, Wie geht's?
 
 `%d` refers to numbers (digits)
 
-If no context is provided, you are advised to provide a general translation.
-
 <br>
 
 ### Text Formatters
@@ -82,9 +81,13 @@ Some message strings contain a `context` note to help you understand the meaning
 
 ```
 context: user
+
 en: %s has been banned
+
 de: %s wurde gebannt
 ```
+
+If no context is provided, you are advised to provide a general translation.
 
 <br>
 
