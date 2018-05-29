@@ -1,0 +1,345 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"X-Generator: Poedit 2.0.7\n"
+
+#, fuzzy
+msgid "Afrikaans"
+msgstr "Afrikaanisch"
+
+msgid "Albanian"
+msgstr "Albanisch"
+
+msgid "Amharic"
+msgstr "Amharisch"
+
+msgid "Arabic"
+msgstr "Arabisch"
+
+msgid "Armenian"
+msgstr "Armenisch"
+
+#, fuzzy
+msgid "Azerbaijani"
+msgstr "Azerbaijanisch"
+
+msgid "Basque"
+msgstr "Baskisch"
+
+msgid "Belarusian"
+msgstr "Belarussisch"
+
+msgid "Bengali"
+msgstr "Bengalisch"
+
+msgid "Bosnian"
+msgstr "Bosnisch"
+
+msgid "Bulgarian"
+msgstr "Bulgarisch"
+
+msgid "Catalan"
+msgstr "Katalanisch"
+
+#, fuzzy
+msgid "Cebuano"
+msgstr "Cebuano"
+
+#, fuzzy
+msgid "Chichewa"
+msgstr "Chichewa"
+
+msgid "Simplified Chinese"
+msgstr "Vereinfachtes Chinesisch"
+
+msgid "Traditional Chinese"
+msgstr "Traditionelles Chinesisch"
+
+msgid "Corsican"
+msgstr "Korsisch"
+
+msgid "Croatian"
+msgstr "Kroatisch"
+
+msgid "Czech"
+msgstr "Tschechisch"
+
+msgid "Danish"
+msgstr "Dänisch"
+
+msgid "Dutch"
+msgstr "Niederländisch"
+
+msgid "English"
+msgstr "Englisch"
+
+msgid "Esperanto"
+msgstr "Spanisch"
+
+msgid "Estonian"
+msgstr "Estnisch"
+
+#, fuzzy
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Finnish"
+msgstr "Finnisch"
+
+msgid "French"
+msgstr "Französisch"
+
+msgid "Frisian"
+msgstr "Friesisch"
+
+msgid "Galician"
+msgstr "Galizisch"
+
+msgid "Georgian"
+msgstr "Georgisch"
+
+msgid "German"
+msgstr "Deutsch"
+
+msgid "Greek"
+msgstr "Griechisch"
+
+#, fuzzy
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgid "Haitian"
+msgstr "Haitianisch"
+
+#, fuzzy
+msgid "Hausa"
+msgstr "Hausa"
+
+# Hawaiisch/Hawaiianisch
+#, fuzzy
+msgid "Hawaiian"
+msgstr "Hawaiianisch"
+
+msgid "Hebrew"
+msgstr "Hebräisch"
+
+#, fuzzy
+msgid "Hindi"
+msgstr "Hindi"
+
+#, fuzzy
+msgid "Hmong"
+msgstr "Hmong"
+
+msgid "Hungarian"
+msgstr "Ungarisch"
+
+msgid "Icelandic"
+msgstr "Isländisch"
+
+#, fuzzy
+msgid "Igbo"
+msgstr "Igbo"
+
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+msgid "Irish"
+msgstr "Irisch"
+
+msgid "Italian"
+msgstr "Italienisch"
+
+msgid "Japanese"
+msgstr "Japanisch"
+
+msgid "Javanese"
+msgstr "Javanisch"
+
+# Kannada/Kanaresisch
+#, fuzzy
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Kazakh"
+msgstr "Kasachisch"
+
+# Khmer/Kambodschanisch/Khmer-Sprache
+#, fuzzy
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "Korean"
+msgstr "Koreanisch"
+
+msgid "Kurdish"
+msgstr "Kurdisch"
+
+msgid "Kyrgyz"
+msgstr "Kirgisisch"
+
+msgid "Lao"
+msgstr "Lao"
+
+msgid "Latin"
+msgstr "Latein"
+
+msgid "Latvian"
+msgstr "Lettisch"
+
+msgid "Lithuanian"
+msgstr "Litauisch"
+
+msgid "Luxembourgish"
+msgstr "Luxemburgisch"
+
+msgid "Macedonian"
+msgstr "Mazedonisch"
+
+#, fuzzy
+msgid "Malagasy"
+msgstr "Madagassisch"
+
+msgid "Malay"
+msgstr "Malaiisch"
+
+msgid "Malayalam"
+msgstr "Malayalam"
+
+msgid "Maltese"
+msgstr "Maltesisch"
+
+msgid "Māori"
+msgstr "Māori"
+
+msgid "Marathi"
+msgstr "Marathi"
+
+msgid "Mongolian"
+msgstr "Mongolisch"
+
+msgid "Burmese"
+msgstr "Birmanisch"
+
+# Nepali/Nepalisch/Nepalesisch
+msgid "Nepali"
+msgstr "Nepali"
+
+msgid "Norwegian"
+msgstr "Norwegisch"
+
+msgid "Pashto"
+msgstr "Paschtu"
+
+msgid "Persian"
+msgstr "Persisch"
+
+msgid "Polish"
+msgstr "Polnisch"
+
+msgid "Portuguese"
+msgstr "Portugiesisch"
+
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgid "Romanian"
+msgstr "Rumänisch"
+
+msgid "Russian"
+msgstr "Russisch"
+
+msgid "Samoan"
+msgstr "Samoanisch"
+
+msgid "Gaelic Scottish"
+msgstr "Gälisch Schottisch"
+
+msgid "Serbian"
+msgstr "Serbisch"
+
+# Sesotho/Süd-Sotho/Südliches Sotho
+msgid "Sotho Southern"
+msgstr "Süd-Sotho"
+
+msgid "Shona"
+msgstr "Shona"
+
+msgid "Sindhi"
+msgstr "Sindhi"
+
+msgid "Sinhala"
+msgstr "Singhalesisch"
+
+msgid "Slovak"
+msgstr "Slowakisch"
+
+msgid "Slovene"
+msgstr "Slowenisch"
+
+msgid "Somali"
+msgstr "Somalisch"
+
+msgid "Spanish"
+msgstr "Spanisch"
+
+msgid "Sundanese"
+msgstr "Sundanesisch"
+
+msgid "Swahili"
+msgstr "Swahili"
+
+msgid "Swedish"
+msgstr "Swedisch"
+
+msgid "Tajik"
+msgstr "Tadschikisch"
+
+# Tamil/Tamilisch
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Thai"
+msgstr "Thailändisch"
+
+msgid "Turkish"
+msgstr "Türkisch"
+
+msgid "Ukrainian"
+msgstr "Ukrainisch"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "Uzbek"
+msgstr "Usbekisch"
+
+msgid "Vietnamese"
+msgstr "Vietnamesisch"
+
+msgid "Welsh"
+msgstr "Walisisch"
+
+msgid "Xhosa"
+msgstr "Xhosa"
+
+msgid "Yiddish"
+msgstr "Jiddisch"
+
+msgid "Yoruba"
+msgstr "Yoruba"
+
+msgid "Zulu"
+msgstr "Zulu"
