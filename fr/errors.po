@@ -46,7 +46,7 @@ msgstr "Arguments de langue invalides"
 
 msgid "Incorrect format for from/to argument, please edit to fix."
 msgstr ""
-"Format incorrect de l'argument from/to, merci d'éditer pour corriger le problème."
+"Format incorrect de l'argument source/cible, merci d'éditer pour corriger le problème."
 
 msgid "Missing Permissions"
 msgstr "Permissions manquantes"
