@@ -12,9 +12,8 @@ msgstr ""
 "Language: de\n"
 "X-Generator: Poedit 2.0.7\n"
 
-#, fuzzy
 msgid "Afrikaans"
-msgstr "Afrikaanisch"
+msgstr "Afrikaans"
 
 msgid "Albanian"
 msgstr "Albanisch"
@@ -28,9 +27,8 @@ msgstr "Arabisch"
 msgid "Armenian"
 msgstr "Armenisch"
 
-#, fuzzy
 msgid "Azerbaijani"
-msgstr "Azerbaijanisch"
+msgstr "Aserbaidschanisch"
 
 msgid "Basque"
 msgstr "Baskisch"
@@ -173,10 +171,8 @@ msgstr "Kannada"
 msgid "Kazakh"
 msgstr "Kasachisch"
 
-# Khmer/Kambodschanisch/Khmer-Sprache
-#, fuzzy
 msgid "Khmer"
-msgstr "Khmer"
+msgstr "Kambodschanisch"
 
 msgid "Korean"
 msgstr "Koreanisch"
@@ -299,7 +295,7 @@ msgid "Swahili"
 msgstr "Swahili"
 
 msgid "Swedish"
-msgstr "Swedisch"
+msgstr "Schwedisch"
 
 msgid "Tajik"
 msgstr "Tadschikisch"
