@@ -640,7 +640,7 @@ msgstr "Ne marche pas si l'utilisateur a le rôle %s"
 
 msgctxt "example"
 msgid "Hello World"
-msgstr "Hello World"
+msgstr "Bonjour tout le monde"
 
 msgctxt "example"
 msgid "result:"
