@@ -1,0 +1,134 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgid "t"
+msgstr ""
+
+msgid "translate"
+msgstr ""
+
+msgid "translator"
+msgstr ""
+
+msgid "about"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "commands"
+msgstr ""
+
+msgid "version"
+msgstr ""
+
+msgid "invite"
+msgstr ""
+
+msgid "install"
+msgstr ""
+
+msgid "join"
+msgstr ""
+
+msgid "contact"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "language"
+msgstr ""
+
+msgid "languages"
+msgstr ""
+
+msgid "vip"
+msgstr ""
+
+msgid "perks"
+msgstr ""
+
+msgid "custom"
+msgstr ""
+
+msgid "last"
+msgstr ""
+
+msgid "detect"
+msgstr ""
+
+msgid "voice"
+msgstr ""
+
+msgid "speak"
+msgstr ""
+
+msgid "settings"
+msgstr ""
+
+msgid "server"
+msgstr ""
+
+msgid "group"
+msgstr ""
+
+msgid "groups"
+msgstr ""
+
+msgid "stop"
+msgstr ""
+
+msgid "style"
+msgstr ""
+
+msgid "mode"
+msgstr ""
+
+msgid "set"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "remove"
+msgstr ""
+
+msgid "rename"
+msgstr ""
+
+msgid "basics"
+msgstr ""
+
+msgid "bot"
+msgstr ""
+
+msgid "bots"
+msgstr ""
+
+msgid "react"
+msgstr ""
+
+msgid "reaction"
+msgstr ""
+
+msgid "emoji"
+msgstr ""
+
+msgid "user"
+msgstr ""
+
+msgid "delete-commands"
+msgstr ""
+
+msgid "prefix"
+msgstr ""
+
+msgid "allow"
+msgstr ""
+
+msgid "ban"
+msgstr ""
+
+msgid "unban"
+msgstr ""
