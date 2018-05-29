@@ -50,7 +50,7 @@ Hello %s, how are you?
 
 German
 ```
-Hallo %s, Wie geht's?
+Hallo %s, wie gehts?
 %d Nachrichten heute übersetzt.
 ```
 
