@@ -8,7 +8,7 @@ Based on `Google Cloud Translate` and `Discord.js`.
 
 <br>
 
-## Translation Reuirements
+## Translation Requirements
 
 * Must be a member of the official nvu.io Discord server (`i18n role`)
 * Must have Poedit
