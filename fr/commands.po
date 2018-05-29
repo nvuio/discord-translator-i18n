@@ -22,7 +22,7 @@ msgid "translator"
 msgstr "traducteur"
 
 msgid "about"
-msgstr "à propos"
+msgstr "informations"
 
 msgid "help"
 msgstr "aide"
