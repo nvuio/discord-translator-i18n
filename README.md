@@ -97,6 +97,12 @@ If your locale language translates `you` or `your` to a specific gender, then pl
 
 <br>
 
+### Translating Commands
+
+The commands strings in `commands.po` must be translated as one word and all lowercase.
+
+<br>
+
 ### Main English Texts
 
 If you feel that the original English texts can be better, you are welcome to suggest improvements.
@@ -109,6 +115,7 @@ If you feel that the original English texts can be better, you are welcome to su
 * Keep punctuation (`,.`) and newlines (`\n`)
 * Use context when translating
 * Gender-neutral translation
+* Commands as lowercase and one word
 
 <br>
 
