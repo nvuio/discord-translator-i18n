@@ -368,7 +368,7 @@ msgstr ""
 msgid "Stats"
 msgstr ""
 
-msgid "(bot invidation link)"
+msgid "(bot invite link)"
 msgstr ""
 
 msgid "(official server)"

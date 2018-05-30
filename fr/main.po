@@ -413,7 +413,7 @@ msgstr "Liens"
 msgid "Stats"
 msgstr "Statistiques"
 
-msgid "(bot invidation link)"
+msgid "(bot invite link)"
 msgstr "(lien d'invitation du bot)"
 
 msgid "(official server)"
