@@ -43,7 +43,7 @@ msgid ""
 " Or visit the **[wiki](%s)** or join the **[support server](%s)**."
 msgstr ""
 "Per più info su questo comando, scrivi %s\n"
-"o visita la **[wiki](%s)** o unisciti al **[server di supporto](%s)**."
+"o visita la **[wiki](%s)** oppure unisciti al **[server di supporto](%s)**."
 
 msgid "This message will self-destruct in 1 minute"
 msgstr "Questo messaggio si autodistruggerà tra 1 minuto"
@@ -317,7 +317,7 @@ msgstr "Per consentire la traduzione di altri robot, è sufficiente creare un nu
 msgid "Stop Channel Automatic Translation"
 msgstr "Interrompi traduzione automatica del canale"
 
-msgid "Go to channel and wirte:"
+msgid "Go to channel and write:"
 msgstr "Vai nel canale e scrivi:"
 
 msgid "or"
