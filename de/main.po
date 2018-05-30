@@ -320,7 +320,7 @@ msgstr ""
 msgid "Stop Channel Automatic Translation"
 msgstr ""
 
-msgid "Go to channel and wirte:"
+msgid "Go to channel and write:"
 msgstr ""
 
 msgid "or"

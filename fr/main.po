@@ -364,7 +364,7 @@ msgstr ""
 msgid "Stop Channel Automatic Translation"
 msgstr "Arrêter la traduction automatique d'un salon"
 
-msgid "Go to channel and wirte:"
+msgid "Go to channel and write:"
 msgstr "Allez sur le salon en question et écrire :"
 
 msgid "or"
