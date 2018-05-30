@@ -150,7 +150,7 @@ msgstr "Traduction refusée par Google."
 msgid "Role Assignment Failed"
 msgstr "L'assignation du rôle a échoué"
 
-msgid "Could not update user's role duo to a Discord error."
+msgid "Could not update user's role due to a Discord error."
 msgstr ""
 "Impossible de mettre à jour le rôle de l'utilisateur dû à une erreur de Discord."
 
@@ -255,7 +255,7 @@ msgstr "Impossible de traiter votre requête."
 msgid "Bad Data"
 msgstr "Données invalides"
 
-msgid "Could not handle your request duo to an internal error."
+msgid "Could not handle your request due to an internal error."
 msgstr "Impossible de traiter votre requête dû à une erreur interne."
 
 msgid "Your server has reached its **maxiumum allowed** auto groups quota."

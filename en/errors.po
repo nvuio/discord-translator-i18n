@@ -116,7 +116,7 @@ msgstr ""
 msgid "Role Assignment Failed"
 msgstr ""
 
-msgid "Could not update user's role duo to a Discord error."
+msgid "Could not update user's role due to a Discord error."
 msgstr ""
 
 msgid "Send Error"
@@ -203,7 +203,7 @@ msgstr ""
 msgid "Bad Data"
 msgstr ""
 
-msgid "Could not handle your request duo to an internal error."
+msgid "Could not handle your request due to an internal error."
 msgstr ""
 
 msgid "Your server has reached its **maxiumum allowed** auto groups quota."
