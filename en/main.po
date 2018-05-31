@@ -618,6 +618,10 @@ msgctxt "user"
 msgid "Messages by %s will now be auto translated to **%s**"
 msgstr ""
 
+msgctxt "to"
+msgid "channel's default language"
+msgstr ""
+
 msgctxt "user"
 msgid "**Stopped** auto translating messages by %s."
 msgstr ""

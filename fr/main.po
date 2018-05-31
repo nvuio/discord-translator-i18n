@@ -681,6 +681,10 @@ msgctxt "user"
 msgid "Messages by %s will now be auto translated to **%s**"
 msgstr "Les messages par %s seront maintenant automatiquement traduits en **%s**"
 
+msgctxt "to"
+msgid "channel's default language"
+msgstr ""
+
 msgctxt "user"
 msgid "**Stopped** auto translating messages by %s."
 msgstr "**Arrêt** de la traduction automatique des messages de %s."
