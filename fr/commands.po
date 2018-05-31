@@ -143,3 +143,9 @@ msgstr "bannir"
 
 msgid "unban"
 msgstr "débannir"
+
+msgid "channel"
+msgstr "canal"
+
+msgid "auto"
+msgstr "auto"

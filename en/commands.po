@@ -132,3 +132,9 @@ msgstr ""
 
 msgid "unban"
 msgstr ""
+
+msgid "channel"
+msgstr ""
+
+msgid "auto"
+msgstr ""
