@@ -320,7 +320,7 @@ msgstr ""
 msgid "Stop Channel Automatic Translation"
 msgstr ""
 
-msgid "Go to channel and wirte:"
+msgid "Go to channel and write:"
 msgstr ""
 
 msgid "or"
@@ -616,6 +616,10 @@ msgstr ""
 
 msgctxt "user"
 msgid "Messages by %s will now be auto translated to **%s**"
+msgstr ""
+
+msgctxt "to"
+msgid "channel's default language"
 msgstr ""
 
 msgctxt "user"

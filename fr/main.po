@@ -69,8 +69,7 @@ msgstr "Pour une liste complète des langues supportées, [cliquez ici](%s)."
 
 msgid "If you need help with that, you can visit the **[support server](%s)**."
 msgstr ""
-"Si vous avez besoin d'aide avec cela, vous pouvez visiter le **[serveur de "
-"support](%s)**."
+"Si vous avez besoin d'aide, vous pouvez visiter le **[serveur de support](%s)**."
 
 msgid "Do you want it back? Share your opinion at the **[support server](%s)**."
 msgstr ""
@@ -216,7 +215,7 @@ msgstr ""
 "drapeau. Par exemple : %s, %s, %s, %s"
 
 msgid "To disable this in certain channels, do the following:"
-msgstr "Pour désactiver ceci sur certains salons, faites cela :"
+msgstr "Pour désactiver ceci sur certains salons, faites ceci :"
 
 msgid "Channel Settings > Topic Description > Write %s and save."
 msgstr "Paramètres du salon > Sujet du salon > Écrivez %s et enregistrez."
@@ -237,7 +236,7 @@ msgid "language(s) to translate to"
 msgstr "langue(s) dans lesquelles traduire"
 
 msgid "explicitly translate from this language"
-msgstr "traduire explicitement depuis cette langue"
+msgstr "traduire depuis cette langue"
 
 msgid "forward message to specific channel"
 msgstr "transférer le message sur un salon spécifique"
@@ -296,22 +295,22 @@ msgstr ""
 "connecté dans le même groupe automatique. Supporte les modes personnalisés*."
 
 msgid "Current Channel Info"
-msgstr "Informations sur ce salon"
+msgstr "Informations sur un salon"
 
 msgid "Set channel's language"
-msgstr "Définir la langue du salon"
+msgstr "Définir la langue d'un salon"
 
 msgid "Set auto group"
-msgstr "Définir le groupe automatique"
+msgstr "Définir un groupe automatique"
 
 msgid "Stop/remove group"
-msgstr "Interrompt / retire un groupe"
+msgstr "Interrompre / Retirer un groupe"
 
 msgid "Set sending mode"
 msgstr "Définir le mode d'envoi"
 
 msgid "Set channel text style"
-msgstr "Définir le style de texte du salon"
+msgstr "Définir le style de texte d'un salon"
 
 msgid "Shortcut command"
 msgstr "Raccourci de commandes"
@@ -320,7 +319,7 @@ msgid ""
 "**Modes** set a channel to send messages only, receive only or be fully "
 "synchronized (both send and receive)."
 msgstr ""
-"**Modes** définit un salon pour envoyer uniquement des messages, les recevoir "
+"**Mode** définit un salon pour envoyer uniquement des messages, les recevoir "
 "uniquement ou être complètement synchronisés (à la fois envoyer et recevoir)."
 
 msgid "Auto Translate Users"
@@ -365,7 +364,7 @@ msgstr ""
 msgid "Stop Channel Automatic Translation"
 msgstr "Arrêter la traduction automatique d'un salon"
 
-msgid "Go to channel and wirte:"
+msgid "Go to channel and write:"
 msgstr "Allez sur le salon en question et écrire :"
 
 msgid "or"
@@ -469,7 +468,7 @@ msgid ""
 "the bots you wish to translate."
 msgstr ""
 "Ceci étant dit, si vous voulez toujours traduire les messages venant d'autres "
-"bots, vous pouvez le faire en créant un **rôle** nommé **can-translate** et "
+"bots, vous pouvez le faire en **créant un rôle** nommé **can-translate** et "
 "l'assigner aux bots que vous voulez traduire."
 
 msgid "Disable/Stop"
@@ -488,7 +487,7 @@ msgstr ""
 "serveur."
 
 msgid "Current Server Info"
-msgstr "Informations sur ce serveur"
+msgstr "Informations sur le serveur"
 
 msgid "Set servers's default language"
 msgstr "Définir la langue par défaut du serveur"
@@ -682,6 +681,10 @@ msgctxt "user"
 msgid "Messages by %s will now be auto translated to **%s**"
 msgstr "Les messages par %s seront maintenant automatiquement traduits en **%s**"
 
+msgctxt "to"
+msgid "channel's default language"
+msgstr ""
+
 msgctxt "user"
 msgid "**Stopped** auto translating messages by %s."
 msgstr "**Arrêt** de la traduction automatique des messages de %s."
@@ -820,11 +823,11 @@ msgstr "Fait avec `❤` par %s"
 
 msgctxt "language"
 msgid "to"
-msgstr "pour"
+msgstr "cible"
 
 msgctxt "language"
 msgid "from"
-msgstr "de"
+msgstr "source"
 
 msgctxt "function"
 msgid "Stopping"
