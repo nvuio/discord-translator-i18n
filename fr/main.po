@@ -683,7 +683,7 @@ msgstr "Les messages par %s seront maintenant automatiquement traduits en **%s**
 
 msgctxt "to"
 msgid "channel's default language"
-msgstr ""
+msgstr "langue par défaut du salon"
 
 msgctxt "user"
 msgid "**Stopped** auto translating messages by %s."
