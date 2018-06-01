@@ -138,3 +138,12 @@ msgstr ""
 
 msgid "auto"
 msgstr ""
+
+msgid "both"
+msgstr ""
+
+msgid "send"
+msgstr ""
+
+msgid "receive"
+msgstr ""

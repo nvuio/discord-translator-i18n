@@ -145,7 +145,16 @@ msgid "unban"
 msgstr "débannir"
 
 msgid "channel"
-msgstr "canal"
+msgstr "salon"
 
 msgid "auto"
 msgstr "auto"
+
+msgid "both"
+msgstr "bidirectionnel"
+
+msgid "send"
+msgstr "envoyer"
+
+msgid "receive"
+msgstr "recevoir"
