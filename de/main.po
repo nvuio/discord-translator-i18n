@@ -1,815 +1,881 @@
 msgid ""
-msgstr "Content-Type: text/plain; charset=utf-8\n"
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"X-Generator: Poedit 2.0.7\n"
 
 msgid "Prefer talking with a human?"
-msgstr ""
+msgstr "Bevorzugst du es, lieber mit einem Menschen zu reden?"
 
 msgid "We'll help you at the official server"
-msgstr ""
+msgstr "Wir helfen dir im offiziellen Server"
 
 msgid "Join the official Translator bot server"
-msgstr ""
+msgstr "Tritt dem offiziellen Server vom Translator-Bot bei"
 
 msgid "Get help, report bugs or submit feedback"
-msgstr ""
+msgstr "Erhalte Hilfe, melde Bugs oder reiche Feedback ein"
 
 msgid "Here's the link to add **Translator** to your server:"
-msgstr ""
+msgstr "Hier ist der Link, um **Translator** zu deinem Server hinzuzufügen:"
 
 msgid "Keep all required permissions intact for full functionality."
 msgstr ""
+"Behalte alle erforderlichen Berechtigungen bei, damit der Bot voll "
+"funktionsfähig ist."
 
 msgid "Current bot version is %s"
-msgstr ""
+msgstr "Die aktuelle Bot-Version ist %s"
 
 msgid "updates history"
-msgstr ""
+msgstr "Änderungshistorie"
 
 msgid "changelog"
-msgstr ""
+msgstr "Änderungsprotokoll"
 
 msgid ""
 "For more info on this command, write %s\n"
 " Or visit the **[wiki](%s)** or join the **[support server](%s)**."
 msgstr ""
+"Schreibe für mehr Informationen zu diesem Befehl %s\n"
+" Oder besuche unser **[Wiki](%s)** oder tritt dem **[Support-Server](%s)** bei."
 
 msgid "This message will self-destruct in 1 minute"
-msgstr ""
+msgstr "Diese Nachricht wird sich in 1 Minute selbst zerstören"
 
 msgid "This message will self-destruct in %d minutes"
-msgstr ""
+msgstr "Diese Nachricht wird sich in %d Minuten selbst zerstören"
 
 msgid ""
-"Need help with bot? Check out the **[wiki](%s)** or join the **[official "
-"server](%s)**!"
+"Need help with bot? Check out the **[wiki](%s)** or join the **[official server]"
+"(%s)**!"
 msgstr ""
+"Benötigst du Hilfe mit dem Bot? Schaue dir unser **[Wiki](%s)** an oder tritt "
+"dem **[offiziellen Server](%s)** bei!"
 
 msgid "Valid Example"
-msgstr ""
+msgstr "Gültiges Beispiel"
 
 msgid "Valid Examples"
-msgstr ""
+msgstr "Gültige Beispiele"
 
 msgid "For a full list of supported languages, [click here](%s)."
-msgstr ""
+msgstr "[Klicke hier](%s) für eine volle Liste aller unterstützten Sprachen."
 
 msgid "If you need help with that, you can visit the **[support server](%s)**."
 msgstr ""
+"Wenn du damit Hilfe brauchst, kannst du unseren **[Support-Server](%s)** "
+"besuchen."
 
 msgid "Do you want it back? Share your opinion at the **[support server](%s)**."
 msgstr ""
+"Du willst das zurückhaben? Teile deine Meinung in unserem **[Support-Server]"
+"(%s)**."
 
 msgid "Mods/Admins Command"
-msgstr ""
+msgstr "Mods/Admins Befehl"
 
 msgid "Admins Only"
-msgstr ""
+msgstr "Nur Admins"
 
 msgid "Change  **%s**  to  **%s**"
-msgstr ""
+msgstr "Ändere **%s** zu **%s**"
 
 msgid "Groups Quota"
-msgstr ""
+msgstr "Gruppen-Quote"
 
 msgid "More info on our **[website](%s)**, or the **[support server](%s)**."
-msgstr ""
+msgstr "Mehr Informationen auf unserer **[Webseite](%s)**."
 
 msgid "Linked Channels per Group Quota"
-msgstr ""
+msgstr "Verlinkte Kanäle pro Gruppen-Quote"
 
 msgid "Server Quota"
-msgstr ""
+msgstr "Server-Quote"
 
 msgid "Channel Information"
-msgstr ""
+msgstr "Kanal-Information"
 
 msgid "Language"
-msgstr ""
+msgstr "Sprache"
 
 msgid "Text Style"
-msgstr ""
+msgstr "Text-Stil"
 
 msgid "Translations"
-msgstr ""
+msgstr "Übersetzungen"
 
 msgid "messages"
-msgstr ""
+msgstr "Nachrichten"
 
 msgid "Automatic Translation"
-msgstr ""
+msgstr "Automatische Übersetzung"
 
 msgid "Auto Group"
-msgstr ""
+msgstr "Auto-Gruppe"
 
 msgid "Auto Groups"
-msgstr ""
+msgstr "Auto-Gruppen"
 
 msgid "Auto Mode"
-msgstr ""
+msgstr "Auto-Modus"
 
 msgid "no change"
-msgstr ""
+msgstr "keine Änderungen"
 
 msgid "To change language, type:"
-msgstr ""
+msgstr "Um die Sprache zu ändern, tippe:"
 
 msgid "Example:"
-msgstr ""
+msgstr "Beispiel:"
 
 msgid "Linked Channels in Group"
-msgstr ""
+msgstr "Verlinkte Kanäle in der Gruppe"
 
 msgid "To change group, type:"
-msgstr ""
+msgstr "Um die Gruppe zu ändern, tippe:"
 
 msgid "To change mode, type:"
-msgstr ""
+msgstr "Um den Modus zu ändern, tippe:"
 
 msgid "To change style, type:"
-msgstr ""
+msgstr "Um den Stil zu ändern, tippe:"
 
 msgid "%s's text style has been updated to **%s**."
-msgstr ""
+msgstr "%ss Text-Stil wurde zu **%s** geändert."
 
 msgid "Automatic group **%s** has been deleted."
-msgstr ""
+msgstr "Automatische Gruppe **%s** wurde gelöscht."
 
 msgid ""
 "Discord Translator is the most powerful translation bot for Discord.\n"
 "Based on *Google Cloud Translate* and *Discord.js*."
 msgstr ""
+"Discord Translator ist der mächtigste Übersetzungs-Bot für Discord.\n"
+"Basiert auf *Google Cloud Translate* und *Discord.js*."
 
 msgid "Read Wiki"
-msgstr ""
+msgstr "Wiki lesen"
 
 msgid "Tech support server"
-msgstr ""
+msgstr "Tech Support Server"
 
 msgid "Translate Text"
-msgstr ""
+msgstr "Text übersetzen"
 
 msgid "Translate Channel (Automatic)"
-msgstr ""
+msgstr "Kanal übersetzen (automatisch)"
 
 msgid "Translate User (Automatic)"
-msgstr ""
+msgstr "Nutzer übersetzen (automatisch)"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Statistiken"
 
 msgid "Server Settings"
-msgstr ""
+msgstr "Server-Einstellungen"
 
 msgid "Text to Speech"
-msgstr ""
+msgstr "Text-zu-Sprache"
 
 msgid "Translate by Reacting"
-msgstr ""
+msgstr "Durch Reagieren übersetzen"
 
 msgid "Translate Other Bots"
-msgstr ""
+msgstr "Andere Bots übersetzen"
 
 msgid "Premium Plans"
-msgstr ""
+msgstr "Premium-Pläne"
 
 msgid "Report Bugs / Request Features"
-msgstr ""
+msgstr "Bugs melden / Funktionen anfordern"
 
 msgid "Translate Last Message(s)"
-msgstr ""
+msgstr "Letzte Nachricht(en) übersetzen"
 
 msgid ""
 "This command has been disabled as of v.1.0 to prevent abuse.\n"
 "If you want it back please let us know at the support server.."
 msgstr ""
+"Dieser Befehl wurde seit Version 1.0 deaktiviert, um Missbrauch zu verhindern.\n"
+"Falls du ihn zurückhaben möchtest, lasse es uns bitte im Support-Server wissen.."
 
 msgid ""
-"Translates a message in the server when you react to it with a flag emoji. "
-"For example: %s, %s, %s, %s"
+"Translates a message in the server when you react to it with a flag emoji. For "
+"example: %s, %s, %s, %s"
 msgstr ""
+"Übersetzt eine Nachricht in dem Server, wenn du darauf mit einem Flaggen-Emoji "
+"reagierst. Zum Beispiel: %s, %s, %s, %s"
 
 msgid "To disable this in certain channels, do the following:"
-msgstr ""
+msgstr "Um diesen in bestimmten Kanälen zu deaktivieren, mache Folgendes:"
 
 msgid "Channel Settings > Topic Description > Write %s and save."
-msgstr ""
+msgstr "Kanal-Einstellungen > Themen-Beschreibung > Schreibe %s und speichere."
 
 msgid "Translate Custom Message"
-msgstr ""
+msgstr "Benutzerdefinierte Nachricht übersetzen"
 
 msgid "Translates a custom message entered by user."
-msgstr ""
+msgstr "Übersetzt eine benutzerdefinierte Nachricht eines Nutzers."
 
 msgid "#channel"
-msgstr ""
+msgstr "#kanal"
 
 msgid "message"
-msgstr ""
+msgstr "Nachricht"
 
 msgid "language(s) to translate to"
-msgstr ""
+msgstr "zu übersetzende Sprache(n)"
 
 msgid "explicitly translate from this language"
-msgstr ""
+msgstr "Explizit aus dieser Sprache übersetzen"
 
 msgid "forward message to specific channel"
-msgstr ""
+msgstr "Nachricht an einen bestimmten Kanal weiterleiten"
 
 msgid "TTS Text to Speech Translation (Experimental)"
-msgstr ""
+msgstr "TTS Text-zu-Sprache-Übersetzung (Experimentell)"
 
 msgid ""
 "Translates a custom message entered by user and speaks it in the user's "
 "connected voice channel."
 msgstr ""
+"Übersetzt eine vom Nutzer eingegebene Nachricht und spricht diese im "
+"Sprachkanal, mit dem der Nutzer verbunden ist."
 
 msgid "Examples"
-msgstr ""
+msgstr "Beispiele"
 
 msgid "Command"
-msgstr ""
+msgstr "Befehl"
 
 msgid "Parameters"
-msgstr ""
+msgstr "Parameter"
 
 msgid "Make sure bot has **Connect** and **Speak** permissions."
 msgstr ""
+"Stelle sicher, dass der Bot die Berechtigungen **Verbinden** und **Sprechen** "
+"besitzt."
 
 msgid "Make sure you are **connected** to a Voice Channel before writing command."
 msgstr ""
+"Stelle sicher, dass du mit einem Sprachkanal vor dem Schreiben des Befehls "
+"**verbunden** bist."
 
 msgid "View list of **Supported Voice languages**"
-msgstr ""
+msgstr "Liste der **Unterstützten TTS (Text-zu-Sprache)-Sprachen** ansehen"
 
 msgid "Auto Translate Channel (Single)"
-msgstr ""
+msgstr "Automatische Übersetzung eines Kanals (einzeln)"
 
 msgid ""
-"Add **auto-translate** inside the channel's topic description, or at the "
-"end of channel name, to automatically translate all messages in that "
-"channel to the default language."
+"Add **auto-translate** inside the channel's topic description, or at the end of "
+"channel name, to automatically translate all messages in that channel to the "
+"default language."
 msgstr ""
+"Füge **auto-translate** innerhalb der Themenbeschreibung des Kanals oder am "
+"Ende des Kanalnamens hinzu, um alle Nachrichten in diesem Kanal automatisch in "
+"die Standardsprache zu übersetzen."
 
 msgid "Auto Translate Multiple Channels"
-msgstr ""
+msgstr "Automatische Übersetzung mehrerer Kanäle"
 
 msgid ""
-"Translate new messages in channel and forward them to linked channels in "
-"the same automatic group. Supports custom modes*."
+"Translate new messages in channel and forward them to linked channels in the "
+"same automatic group. Supports custom modes*."
 msgstr ""
+"Übersetzt neue Nachrichten im Kanal und leitet diese an die verknüpften Kanäle "
+"in derselben automatischen Gruppe weiter. Unterstützt benutzerdefinierte Modi*."
 
 msgid "Current Channel Info"
-msgstr ""
+msgstr "Infos zum aktuellen Kanal"
 
 msgid "Set channel's language"
-msgstr ""
+msgstr "Sprache des Kanals einstellen"
 
 msgid "Set auto group"
-msgstr ""
+msgstr "Automatische Gruppe einstellen"
 
 msgid "Stop/remove group"
-msgstr ""
+msgstr "Gruppe stoppen/entfernen"
 
 msgid "Set sending mode"
-msgstr ""
+msgstr "Sende-Modus einstellen"
 
 msgid "Set channel text style"
-msgstr ""
+msgstr "Text-Stil des Kanals einstellen"
 
 msgid "Shortcut command"
-msgstr ""
+msgstr "Kurzbefehl"
 
 msgid ""
 "**Modes** set a channel to send messages only, receive only or be fully "
 "synchronized (both send and receive)."
 msgstr ""
+"Die **Modi** stellen einen Kanal so ein, dass nur Nachrichten gesendet, nur "
+"empfangen oder vollständig synchronisiert werden (sowohl Senden als auch "
+"Empfangen)."
 
 msgid "Auto Translate Users"
-msgstr ""
+msgstr "Automatisch Nutzer übersetzen"
 
 msgid ""
-"Automatically translates any new messages by specific users in the server "
-"(same channel)."
+"Automatically translates any new messages by specific users in the server (same "
+"channel)."
 msgstr ""
+"Übersetzt automatisch alle neuen Nachrichten von bestimmten Nutzern im Server "
+"(gleicher Kanal)."
 
 msgid "Translate user to channel's default language"
-msgstr ""
+msgstr "Übersetzt Nutzer zur Standardsprache des Kanals"
 
 msgid "Translate user to specific language"
-msgstr ""
+msgstr "Übersetzt Nutzer zu einer bestimmten Sprache"
 
 msgid "For example:"
-msgstr ""
+msgstr "Zum Beispiel:"
 
 msgid "Ban Users"
-msgstr ""
+msgstr "Nutzer sperren"
 
 msgid ""
 "This requires the bot to have **Manage Roles** and **Manage Nicknames** "
 "permissions."
 msgstr ""
+"Dies setzt voraus, dass der Bot über die Berechtigungen **Rollen verwalten** "
+"und **Nicknamen verwalten** verfügt."
 
 msgid "Allow Other Bots"
-msgstr ""
+msgstr "Andere Bots erlauben"
 
 msgid ""
 "To allow translation of other bots, simply create a new role called %s and "
 "assign it to the bots you want. (Use at your own risk)"
 msgstr ""
+"Um die Übersetzung anderer Bots zu ermöglichen, erstelle einfach eine neue "
+"Rolle namens %s und weise diese den gewünschten Bots zu. (Benutzung auf eigene "
+"Gefahr)"
 
 msgid "Stop Channel Automatic Translation"
-msgstr ""
+msgstr "Automatische Kanal-Übersetzung stoppen"
 
 msgid "Go to channel and write:"
-msgstr ""
+msgstr "Gehe zum Kanal und schreibe:"
 
 msgid "or"
-msgstr ""
+msgstr "oder"
 
 msgid "Alternatively, change the channel's mode"
-msgstr ""
+msgstr "Alternativ kann auch der Modus des Kanals geändert werden"
 
 msgid "(receives translated messages only)"
-msgstr ""
+msgstr "(empfängt nur übersetzte Nachrichten)"
 
 msgid "(sends translated messages only)"
-msgstr ""
+msgstr "(sendet nur übersetzte Nachrichten)"
 
 msgid "Stop User Automatic Translation"
-msgstr ""
+msgstr "Automatische Nutzer-Übersetzung stoppen"
 
 msgid "Ban User from using Translator"
-msgstr ""
+msgstr "Nutzer von der Verwendung des Translators ausschließen"
 
 msgid "Stop translating other Bots"
-msgstr ""
+msgstr "Übersetzen von anderen Bots stoppen"
 
 msgid "Simply remove the `%s` role from the other bots."
-msgstr ""
+msgstr "Entferne einfach die `%s` Rolle von den anderen Bots."
 
 msgid "Ignore specific messages"
-msgstr ""
+msgstr "Bestimmte Nachrichten ignorieren"
 
 msgid "Ignore specific words"
-msgstr ""
+msgstr "Bestimmte Wörter ignorieren"
 
 msgid "Miscellaneous Commands"
-msgstr ""
+msgstr "Verschiedene Befehle"
 
 msgid "Help"
-msgstr ""
+msgstr "Hilfe"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 msgid "Stats"
-msgstr ""
+msgstr "Statistiken"
 
 msgid "(bot invite link)"
-msgstr ""
+msgstr "(Bot Einladungslink)"
 
 msgid "(official server)"
-msgstr ""
+msgstr "(offizieller Server)"
 
 msgid "Detect Language of Message"
-msgstr ""
+msgstr "Sprache der Nachricht erkennen"
 
 msgid ""
 "You can detect the language of a message by reacting to it with a **globe** "
 "emoji (%s).\n"
 "Alternatively, you can use the `%s` command:"
 msgstr ""
+"Du kannst die Sprache einer Nachricht erkennen, indem du darauf mit einem "
+"**globe** Emoji (%s) reagierst.\n"
+"Alternativ kannst du auch den Befehl `%s` verwenden:"
 
 msgid "Auto Delete Bot Commands"
-msgstr ""
+msgstr "Bot-Befehle automatisch löschen"
 
 msgid ""
 "You can choose to have the bot auto delete commands in the channel. All you "
 "have to do is write %s anywhere inside the channel's topic description."
 msgstr ""
+"Du kannst wählen, ob der Bot die Befehle in diesem Kanal automatisch löschen "
+"soll. Alles, was du tun musst, ist, %s irgendwo innerhalb der "
+"Themenbeschreibung des Kanals hinzuzufügen."
 
 msgid ""
 "This will delete all commands/messages including: help commands, settings, "
 "stats and translate commands for example:"
 msgstr ""
+"Dadurch werden alle Befehle/Nachrichten gelöscht, z.B.: Hilfebefehle, "
+"Einstellungen, Statistiken und Übersetzungsbefehle:"
 
 msgid "and"
-msgstr ""
+msgstr "und"
 
 msgid "Translate other Bots"
-msgstr ""
+msgstr "Andere Bots übersetzen"
 
 msgid ""
 "By default, Translator will ignore all messages by bots, this is a common "
 "practice to avoid unpredictable behaviours and response-loops."
 msgstr ""
+"Standardmäßig ignoriert Translator alle Nachrichten von Bots, dies ist eine "
+"gängige Praxis, um unvorhersehbare Verhaltensweisen und Antwortschleifen zu "
+"vermeiden."
 
 msgid ""
-"With that said, if you still wish to translate messages by other bots, you "
-"can do so by creating a member **role** called **can-translate** then "
-"assign it to the bots you wish to translate."
+"With that said, if you still wish to translate messages by other bots, you can "
+"do so by creating a member **role** called **can-translate** then assign it to "
+"the bots you wish to translate."
 msgstr ""
+"Wenn du dennoch Nachrichten von anderen Bots übersetzen möchtest, kannst du "
+"dies tun, indem du eine **role** mit dem Namen **can-translate** erstellst und "
+"diese dann den Bots zuweist, die du übersetzen möchtest."
 
 msgid "Disable/Stop"
-msgstr ""
+msgstr "Deaktivieren/Stoppen"
 
 msgid "Simply remove the %s role from the bots. Or delete the role itself."
-msgstr ""
+msgstr "Entferne einfach die %s-Rolle von den Bots. Oder lösche die Rolle selbst."
 
 msgid "Use at your own risk and report if you experience issues."
 msgstr ""
+"Benutze dies auf eigene Gefahr und melde dich, wenn du Probleme damit hast."
 
 msgid "Server commands are available only to server administrators."
-msgstr ""
+msgstr "Serverbefehle sind nur für Server-Administratoren verfügbar."
 
 msgid "Current Server Info"
-msgstr ""
+msgstr "Aktuelle Server-Informationen"
 
 msgid "Set servers's default language"
-msgstr ""
+msgstr "Die Standardsprache des Servers festlegen"
 
 msgid "Set servers's custom prefix"
-msgstr ""
+msgstr "Benutzerdefiniertes Präfix des Servers festlegen"
 
 msgid "Set servers's default style"
-msgstr ""
+msgstr "Festlegen des Standardstils des Servers"
 
 msgid "View server's automatic groups"
-msgstr ""
+msgstr "Automatische Gruppen des Servers anzeigen"
 
 msgid "Supported Languages"
-msgstr ""
+msgstr "Unterstützte Sprachen"
 
 msgid "For a detailed list, visit the **[wiki page](%s)**."
-msgstr ""
+msgstr "Besuche die **[Wikiseite](%s)** für eine detaillierte Liste."
 
 msgid "Bot Info"
-msgstr ""
+msgstr "Bot-Info"
 
 msgid "Bot Version"
-msgstr ""
+msgstr "Bot-Version"
 
 msgid "Bot Language"
-msgstr ""
+msgstr "Bot-Sprache"
 
 msgid "Global Translation Stats"
-msgstr ""
+msgstr "Globale Übersetzungsstatistiken"
 
 msgid "Total Shards"
-msgstr ""
+msgstr "Insgesamte Shards"
 
 msgid "Total Servers"
-msgstr ""
+msgstr "Insgesamte Server"
 
 msgid "Total Channels"
-msgstr ""
+msgstr "Insgesamte Kanäle"
 
 msgid ""
 "If you enjoy using this bot then please consider helping with its growth by "
 "various promotional actions listed below:"
 msgstr ""
+"Wenn du diesen Bot gerne benutzt, dann überlege dir bitte, ob du bei seinem "
+"Wachstum durch verschiedene, unten aufgeführte Werbeaktionen helfen möchtest:"
 
 msgid "How you can help"
-msgstr ""
+msgstr "Wie du helfen kannst"
 
 msgid "Upvote bot on [DBL](%s)"
-msgstr ""
+msgstr "Vote den Bot auf [DBL](%s) hoch"
 
 msgid "Follow and share bot on [Twitter](%s)"
-msgstr ""
+msgstr "Folge und teile den Bot auf [Twitter](%s)"
 
 msgid "Follow and review bot on [Botlist.co](%s)"
-msgstr ""
+msgstr "Folge und schreibe eine Rezension über den Bot auf [Botlist.co](%s)"
 
 msgid "Make a [video review](%s)"
-msgstr ""
+msgstr "Mache eine [Video-Rezension](%s)"
 
 msgid "Share bot on [social media](%s)"
-msgstr ""
+msgstr "Teile den Bot auf den [sozialen Medien](%s)"
 
 msgid "Join [translation team](%s)"
-msgstr ""
+msgstr "Tritt dem [Übersetzungs-Team](%s) bei"
 
 msgid "Other [ads/promotional acts](%s)"
-msgstr ""
+msgstr "Andere [Anzeigen/Werbeaktionen](%s)"
 
 msgid "Supporters will be given VIP status and interesting perks"
-msgstr ""
+msgstr "Unterstützer erhalten VIP-Status und interessante Vorteile"
 
 msgid "Special roles on the official bot server"
-msgstr ""
+msgstr "Spezielle Rollen auf dem offiziellen Bot-Server"
 
 msgid "Access to beta features"
-msgstr ""
+msgstr "Zugang zu den Beta-Funktionen"
 
 msgid "Discounts on premium plans"
-msgstr ""
+msgstr "Rabatte auf Premiumpläne"
 
 msgid "The detected language is **%s** ( %s / `%s` )."
-msgstr ""
+msgstr "Die erkannte Sprache ist **%s** ( %s / `%s`)."
 
 msgid "Command Prefix"
-msgstr ""
+msgstr "Befehl-Präfix"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanäle"
 
 msgid "Character Quotas / Limits"
-msgstr ""
+msgstr "Zeichen-Quoten/-Limits"
 
 msgid "Today"
-msgstr ""
+msgstr "Heute"
 
 msgid "Month"
-msgstr ""
+msgstr "Monat"
 
 msgid "Total"
-msgstr ""
+msgstr "Insgesamt"
 
 msgid "Server's default language is **%s**"
-msgstr ""
+msgstr "Die Standard-Sprache des Servers ist **%s**"
 
 msgid "Updated server's language to **%s**"
-msgstr ""
+msgstr "Die Sprache des Servers wurde auf **%s** geändert"
 
 msgid "Server's current text style is **%s**"
-msgstr ""
+msgstr "Der aktuelle Text-Stil des Servers ist **%s**"
 
 msgid "Server's text style has been updated to **%s**"
-msgstr ""
+msgstr "Der Text-Stil des Servers wurde zu **%s** geändert"
 
 msgid "Server's current prefix is **`%s`**"
-msgstr ""
+msgstr "Das aktuelle Präfix des Servers ist **%s**"
 
 msgid "To change prefix, type:"
-msgstr ""
+msgstr "Um das Präfix zu ändern, tippe:"
 
 msgid "Server's prefix has been updated to **`%s`**"
-msgstr ""
+msgstr "Das Präfix des Servers wurde zu **%s** geändert"
 
 msgid "Linked Channels"
-msgstr ""
+msgstr "Verlinkte Kanäle"
 
 msgid "This server does **not** have any automatic translation groups"
-msgstr ""
+msgstr "Dieser Server hat **keine** automatischen Übersetzungsgruppen"
 
 msgid "To create an automatic group, type:"
-msgstr ""
+msgstr "Um eine automatische Gruppe zu erstellen, gib ein:"
 
 msgid "List of Server Auto Groups"
-msgstr ""
+msgstr "Liste der automatischen Server-Gruppen"
 
 msgid "No Limit"
-msgstr ""
+msgstr "Kein Limit"
 
 msgid "Will not work in **auto-translated** channels"
-msgstr ""
+msgstr "Funktioniert nicht in **auto-übersetzten** Kanälen"
 
 msgid "Will not work in **ignored / blocked** channels"
-msgstr ""
+msgstr "Funktioniert nicht in **ignorierten / blockierten** Kanälen"
 
 msgid "Will not work if user has %s role"
-msgstr ""
+msgstr "Funktioniert nicht, wenn der Benutzer die Rolle %s hat"
 
 msgctxt "example"
 msgid "Hello World"
-msgstr ""
+msgstr "Hallo Welt"
 
 msgctxt "example"
 msgid "result:"
-msgstr ""
+msgstr "Ergebnis:"
 
 msgctxt "example"
 msgid "I love you"
-msgstr ""
+msgstr "Ich liebe dich"
 
 msgctxt "example"
 msgid "how are you?"
-msgstr ""
+msgstr "Wie geht's dir?"
 
 msgctxt "auto mode"
 msgid "Send and Receive"
-msgstr ""
+msgstr "Senden und empfangen"
 
 msgctxt "auto mode"
 msgid "Send only"
-msgstr ""
+msgstr "Nur senden"
 
 msgctxt "auto mode"
 msgid "Receive only"
-msgstr ""
+msgstr "Nur empfangen"
 
 msgctxt "quota"
 msgid "Would you like to extend it? Consider advanced **Premium** plans."
 msgstr ""
+"Möchtest du es verlängern? Betrachte die fortgeschrittene **Premium**-Pläne."
 
 msgctxt "voice"
 msgid "Please wait for bot to finish speaking the current TTS message.."
 msgstr ""
+"Bitte warte, bis der Bot die aktuelle TTS-Nachricht zu Ende gesprochen hat.."
 
 msgctxt "user"
 msgid "%s said:"
-msgstr ""
+msgstr "%s sagte:"
 
 msgctxt "user"
 msgid "Messages by %s will now be auto translated to **%s**"
-msgstr ""
+msgstr "Nachrichten von %s werden nun automatisch in **%s** übersetzt"
 
 msgctxt "to"
 msgid "channel's default language"
-msgstr ""
+msgstr "Standardsprache des Kanals"
 
 msgctxt "user"
 msgid "**Stopped** auto translating messages by %s."
-msgstr ""
+msgstr "Automatische Übersetzung von Nachrichten von %s **gestoppt**."
 
 msgctxt "user"
 msgid "%s is **not** being auto translated."
-msgstr ""
+msgstr "%s wird **nicht** automatisch übersetzt."
 
 msgctxt "user"
 msgid "%s is already banned from using **Translator** bot."
-msgstr ""
+msgstr "%s ist bereits von der Verwendung des **Translator**-Bots ausgeschlossen."
 
 msgctxt "user"
 msgid "%s has been **banned** from using the **Translator** bot."
-msgstr ""
+msgstr "%s wurde von der Verwendung des **Translator**-Bots ausgeschlossen."
 
 msgctxt "user"
 msgid "%s is now allowed to use **Translator** bot."
-msgstr ""
+msgstr "%s darf nun den **Translator**-Bot verwenden."
 
 msgctxt "user"
 msgid "%s is already allowed to use **Translator** bot."
-msgstr ""
+msgstr "%s darf bereits den **Translator**-Bot verwenden."
 
 msgctxt "value"
 msgid "%s - Server Default"
-msgstr ""
+msgstr "%s - Serverstandard"
 
 msgctxt "value"
 msgid "(default)"
-msgstr ""
+msgstr "(Standard)"
 
 msgctxt "value"
 msgid "Not Set"
-msgstr ""
+msgstr "Nicht gesetzt"
 
 msgctxt "value"
 msgid "new language"
-msgstr ""
+msgstr "neue Sprache"
 
 msgctxt "value"
 msgid "group name"
-msgstr ""
+msgstr "Gruppen-Name"
 
 msgctxt "channels"
 msgid "%d linked"
-msgstr ""
+msgstr "%d verlinkt"
 
 msgctxt "messages"
 msgid "Translated"
-msgstr ""
+msgstr "Übersetzt"
 
 msgctxt "channel"
 msgid "%s **updated**:"
-msgstr ""
+msgstr "%s **aktualisiert**:"
 
 msgctxt "channel"
 msgid "%s's current language is **%s**"
-msgstr ""
+msgstr "%ss aktuelle Sprache ist **%s**"
 
 msgctxt "channel"
 msgid "Updated %s's language to **%s**"
-msgstr ""
+msgstr "Die Sprache von %s wurde auf **%s** aktualisiert"
 
 msgctxt "channel"
 msgid "%s's current group is **%s**"
-msgstr ""
+msgstr "%ss aktuelle Gruppe ist **%s**"
 
 msgctxt "channel"
 msgid "%s has been added to the **%s** group."
-msgstr ""
+msgstr "%s wurde der Gruppe **%s** hinzugefügt."
 
 msgctxt "channel"
 msgid "%s's current mode is **%s**"
-msgstr ""
+msgstr "der aktuelle Modus von %s ist **%s**"
 
 msgctxt "channel"
 msgid "%s's auto mode has been updated to **%s**"
-msgstr ""
+msgstr "Der automatische Modus von %s wurde auf **%s** aktualisiert"
 
 msgctxt "channel"
 msgid "%s's current text style is **%s**"
-msgstr ""
+msgstr "Der aktuelle Textstil von %s ist **%s**"
 
 msgctxt "channel"
 msgid "%s has been removed from auto group."
-msgstr ""
+msgstr "%s wurde aus der Autogruppe entfernt."
 
 msgctxt "auto"
 msgid "Group has been renamed to **%s**"
-msgstr ""
+msgstr "Gruppe wurde umbenannt in **%s**"
 
 msgctxt "auto"
 msgid "Total Groups"
-msgstr ""
+msgstr "Insgesamte Gruppen"
 
 msgctxt "feature"
 msgid "Translate custom messages"
-msgstr ""
+msgstr "Benutzerdefinierte Nachrichten übersetzen"
 
 msgctxt "feature"
 msgid "Translate messages by reacting with a flag emoji"
-msgstr ""
+msgstr "Nachrichten übersetzen, indem du mit einem Flaggen-Emoji reagierst"
 
 msgctxt "feature"
 msgid "Translate to multiple languages at once"
-msgstr ""
+msgstr "In mehrere Sprachen gleichzeitig übersetzen"
 
 msgctxt "feature"
 msgid "Automatic translation of channels"
-msgstr ""
+msgstr "Automatische Übersetzung von Kanälen"
 
 msgctxt "feature"
 msgid "Automatic translations of specific users"
-msgstr ""
+msgstr "Automatische Übersetzung von bestimmten Nutzen"
 
 msgctxt "feature"
 msgid "Supports custom prefixes"
-msgstr ""
+msgstr "Unterstützt benutzerdefinierte Präfixe"
 
 msgctxt "feature"
 msgid "Supports 110+ languages"
-msgstr ""
+msgstr "Unterstützt 110+ Sprachen"
 
 msgctxt "feature"
 msgid "Disable"
-msgstr ""
+msgstr "Deaktivieren"
 
 msgctxt "website"
 msgid "Certified by %s"
-msgstr ""
+msgstr "Von %s zertifiziert"
 
 msgctxt "company"
 msgid "Made with `❤` by %s"
-msgstr ""
+msgstr "Mit `❤` von %s gemacht"
 
 msgctxt "language"
 msgid "to"
-msgstr ""
+msgstr "zu"
 
 msgctxt "language"
 msgid "from"
-msgstr ""
+msgstr "von"
 
 msgctxt "function"
 msgid "Stopping"
-msgstr ""
+msgstr "Anhalten"
 
 msgctxt "notice"
 msgid "Important"
-msgstr ""
+msgstr "Wichtig"
 
 msgctxt "mention"
 msgid "@user"
-msgstr ""
+msgstr "@nutzer"
 
 msgctxt "keyword"
 msgid "Any message ending with `%s` or `%s` will be ignored by the bot."
-msgstr ""
+msgstr "Jede Nachricht, die auf `%s` oder `%s` endet, wird vom Bot ignoriert."
 
 msgctxt "brackets"
 msgid "Any words inside %s or %s will be ignored by the bot."
-msgstr ""
+msgstr "Jedes Wort innerhalb von %s oder %s wird vom Bot ignoriert."
 
 msgctxt "command"
 msgid "Default Prefix"
-msgstr ""
+msgstr "Standardpräfix"
 
 msgctxt "translated"
 msgid "Characters Today"
-msgstr ""
+msgstr "Zeichen heute"
 
 msgctxt "translated"
 msgid "Characters this Month"
-msgstr ""
+msgstr "Zeichen in diesem Monat"
 
 msgctxt "translated"
 msgid "Characters Total"
-msgstr ""
+msgstr "Zeichen insgesamt"
 
 msgctxt "translated"
 msgid "Messages Total"
-msgstr ""
+msgstr "Nachrichten insgesamt"
 
 msgctxt "premium"
 msgid "Plan"
-msgstr ""
+msgstr "Plan"
 
 msgctxt "characters"
 msgid "Per Message"
-msgstr ""
+msgstr "Pro Nachricht"

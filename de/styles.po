@@ -13,25 +13,25 @@ msgstr ""
 "X-Generator: Poedit 2.0.7\n"
 
 msgid "Box - Top Avatar"
-msgstr ""
+msgstr "Box - Avatar oben"
 
 msgid "Box - Bottom Avatar"
-msgstr ""
+msgstr "Box - Avatar unten"
 
 msgid "Box - No Avatar"
-msgstr ""
+msgstr "Box - Kein Avatar"
 
 msgid "Box - Big Avatar"
-msgstr ""
+msgstr "Box - Großer Avatar"
 
 msgid "Compact"
-msgstr ""
+msgstr "Kompakt"
 
 msgid "Oneliner"
-msgstr ""
+msgstr "Einzeiler"
 
 msgid "Header"
-msgstr ""
+msgstr "Kopfzeile"
 
 msgid "Block"
-msgstr ""
+msgstr "Block"
