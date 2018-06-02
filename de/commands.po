@@ -57,7 +57,7 @@ msgid "vip"
 msgstr "vip"
 
 msgid "perks"
-msgstr "Vorteile"
+msgstr "vorteile"
 
 msgid "custom"
 msgstr "benutzerdefiniert"
@@ -75,7 +75,7 @@ msgid "speak"
 msgstr "sprechen"
 
 msgid "settings"
-msgstr "einstellung"
+msgstr "einstellungen"
 
 msgid "server"
 msgstr "server"
