@@ -81,7 +81,7 @@ msgid "English"
 msgstr "Englisch"
 
 msgid "Esperanto"
-msgstr "Spanisch"
+msgstr "Esperanto"
 
 msgid "Estonian"
 msgstr "Estnisch"
