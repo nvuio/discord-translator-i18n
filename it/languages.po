@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Project-Id-Version: languages\n"
+"Language: it\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Afrikaans"
+msgstr "Africano"
+
+msgid "Albanian"
+msgstr "Albanese"
+
+msgid "Amharic"
+msgstr "Amarico"
+
+msgid "Arabic"
+msgstr "Arabo"
+
+msgid "Armenian"
+msgstr "Armenio"
+
+msgid "Azerbaijani"
+msgstr "Azera"
+
+msgid "Basque"
+msgstr "Basco"
+
+msgid "Belarusian"
+msgstr "Bielorusso"
+
+msgid "Bengali"
+msgstr "Bengalo"
+
+msgid "Bosnian"
+msgstr "Bosniaco"
+
+msgid "Bulgarian"
+msgstr "Bulgaro"
+
+msgid "Catalan"
+msgstr "Catalano"
+
+msgid "Cebuano"
+msgstr "Cebuano"
+
+msgid "Chichewa"
+msgstr "Chewa"
+
+msgid "Simplified Chinese"
+msgstr "Cinese semplificato"
+
+msgid "Traditional Chinese"
+msgstr "Cinese tradizionanle"
+
+msgid "Corsican"
+msgstr "Corsico"
+
+msgid "Croatian"
+msgstr "Croato"
+
+msgid "Czech"
+msgstr "Ceca"
+
+msgid "Danish"
+msgstr "Danese"
+
+msgid "Dutch"
+msgstr "Tedesco"
+
+msgid "English"
+msgstr "Inglese"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonian"
+msgstr "Estone"
+
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Finnish"
+msgstr "Finlandese"
+
+msgid "French"
+msgstr "Francese"
+
+msgid "Frisian"
+msgstr "Frisone"
+
+msgid "Galician"
+msgstr "Gallego"
+
+msgid "Georgian"
+msgstr "Georgiana"
+
+msgid "German"
+msgstr "Germanica"
+
+msgid "Greek"
+msgstr "Greco"
+
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgid "Haitian"
+msgstr "Haitiano"
+
+msgid "Hausa"
+msgstr "Hausa"
+
+msgid "Hawaiian"
+msgstr "Hawaiano"
+
+msgid "Hebrew"
+msgstr "Ebreo"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hmong"
+msgstr "Hmong"
+
+msgid "Hungarian"
+msgstr "Ungherese"
+
+msgid "Icelandic"
+msgstr "Islandese"
+
+msgid "Igbo"
+msgstr "Igbo"
+
+msgid "Indonesian"
+msgstr "Indonesiano"
+
+msgid "Irish"
+msgstr "Irlandese"
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Japanese"
+msgstr "Giapponese"
+
+msgid "Javanese"
+msgstr "Giavanese"
+
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Kazakh"
+msgstr "Kazako"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "Korean"
+msgstr "Koreno"
+
+msgid "Kurdish"
+msgstr "Curda"
+
+msgid "Kyrgyz"
+msgstr "Chirghisa"
+
+msgid "Lao"
+msgstr "Laotiano"
+
+msgid "Latin"
+msgstr "Latino"
+
+msgid "Latvian"
+msgstr "Lettone"
+
+msgid "Lithuanian"
+msgstr "Lituana"
+
+msgid "Luxembourgish"
+msgstr "Lussemburghese"
+
+msgid "Macedonian"
+msgstr "Macedone"
+
+msgid "Malagasy"
+msgstr "Malgascia"
+
+msgid "Malay"
+msgstr "Malese"
+
+msgid "Malayalam"
+msgstr "Malayalam"
+
+msgid "Maltese"
+msgstr "Maltese"
+
+msgid "Māori"
+msgstr "Māori"
+
+msgid "Marathi"
+msgstr "Marathi"
+
+msgid "Mongolian"
+msgstr "Mongola"
+
+msgid "Burmese"
+msgstr "Birmana"
+
+msgid "Nepali"
+msgstr "Nepalese"
+
+msgid "Norwegian"
+msgstr "Norvegese"
+
+msgid "Pashto"
+msgstr "Pashtu"
+
+msgid "Persian"
+msgstr "Persiani"
+
+msgid "Polish"
+msgstr "Polacco"
+
+msgid "Portuguese"
+msgstr "Portoghese"
+
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgid "Romanian"
+msgstr "Rumeno"
+
+msgid "Russian"
+msgstr "Russo"
+
+msgid "Samoan"
+msgstr "Samoana"
+
+msgid "Gaelic Scottish"
+msgstr "Gaelica Scozzese"
+
+msgid "Serbian"
+msgstr "Serbo"
+
+msgid "Sotho Southern"
+msgstr "Sotho del Sud"
+
+msgid "Shona"
+msgstr "Shona"
+
+msgid "Sindhi"
+msgstr "Sindhi"
+
+msgid "Sinhala"
+msgstr "Singalese"
+
+msgid "Slovak"
+msgstr "Slovacchia"
+
+msgid "Slovene"
+msgstr "Slovena"
+
+msgid "Somali"
+msgstr "Somalo"
+
+msgid "Spanish"
+msgstr "Spagnolo"
+
+msgid "Sundanese"
+msgstr "Sundanese"
+
+msgid "Swahili"
+msgstr "Kiswahili"
+
+msgid "Swedish"
+msgstr "Svedese"
+
+msgid "Tajik"
+msgstr "Tagica"
+
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Thai"
+msgstr "Thailandese"
+
+msgid "Turkish"
+msgstr "Turco"
+
+msgid "Ukrainian"
+msgstr "Ucraino"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "Uzbek"
+msgstr "Uzbeka"
+
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+msgid "Welsh"
+msgstr "Gallese"
+
+msgid "Xhosa"
+msgstr "Xhosa"
+
+msgid "Yiddish"
+msgstr "Yiddish"
+
+msgid "Yoruba"
+msgstr "Yoruba"
+
+msgid "Zulu"
+msgstr "Zulu"
