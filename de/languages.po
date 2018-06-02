@@ -246,7 +246,7 @@ msgid "Portuguese"
 msgstr "Portugiesisch"
 
 msgid "Punjabi"
-msgstr "Punjabi"
+msgstr "Panjabi"
 
 msgid "Romanian"
 msgstr "Rumänisch"
