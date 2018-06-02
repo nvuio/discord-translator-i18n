@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"X-Generator: Poedit 2.0.7\n"
+
+msgid "about"
+msgstr "o-botach"
+
+msgid "allow"
+msgstr "zezwalać"
+
+msgid "ban"
+msgstr "ban"
+
+msgid "basics"
+msgstr "podstawy"
+
+msgid "bot"
+msgstr "bot"
+
+msgid "bots"
+msgstr "boty"
+
+msgid "commands"
+msgstr "komendy"
+
+msgid "contact"
+msgstr "kontakt"
+
+msgid "custom"
+msgstr "niestandardowy"
+
+msgid "delete"
+msgstr "usuń"
+
+msgid "delete-commands"
+msgstr "komendy-usuwania"
+
+msgid "detect"
+msgstr "wykryć"
+
+msgid "emoji"
+msgstr "emotki"
+
+msgid "group"
+msgstr "grupa"
+
+msgid "groups"
+msgstr "grupy"
+
+msgid "help"
+msgstr "pomoc"
+
+msgid "install"
+msgstr "zainstaluj"
+
+msgid "invite"
+msgstr "zaproś"
+
+msgid "join"
+msgstr "dołącz"
+
+msgid "language"
+msgstr "język"
+
+msgid "languages"
+msgstr "języki"
+
+msgid "last"
+msgstr "ostatni"
+
+msgid "list"
+msgstr "lista"
+
+msgid "mode"
+msgstr "tryb"
+
+msgid "perks"
+msgstr "profity"
+
+msgid "prefix"
+msgstr "prefiks"
+
+msgid "react"
+msgstr "reaguj"
+
+msgid "reaction"
+msgstr "reakcja"
+
+msgid "remove"
+msgstr "usuń"
+
+msgid "rename"
+msgstr "przemianuj"
+
+msgid "server"
+msgstr "serwer"
+
+msgid "set"
+msgstr "ustawić"
+
+msgid "settings"
+msgstr "ustawienia"
+
+msgid "speak"
+msgstr "rozmawiać"
+
+msgid "stop"
+msgstr "stop"
+
+msgid "style"
+msgstr "styl"
+
+msgid "t"
+msgstr "t"
+
+msgid "translate"
+msgstr "tłumaczyć"
+
+msgid "translator"
+msgstr "tłumacz"
+
+msgid "unban"
+msgstr "unban"
+
+msgid "user"
+msgstr "użytkownik"
+
+msgid "version"
+msgstr "wersja"
+
+msgid "vip"
+msgstr "vip"
+
+msgid "voice"
+msgstr "głos"
+
+msgid "channel"
+msgstr "kanał"
+
+msgid "auto"
+msgstr "automatyczny"
+
+msgid "both"
+msgstr "obie"
+
+msgid "send"
+msgstr "wysłać"
+
+msgid "receive"
+msgstr "otrzymywać"
