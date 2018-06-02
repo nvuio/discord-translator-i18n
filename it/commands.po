@@ -21,7 +21,7 @@ msgid "translator"
 msgstr "traduttore"
 
 msgid "about"
-msgstr "informazione"
+msgstr "informazioni"
 
 msgid "help"
 msgstr "aiuto"
@@ -108,7 +108,7 @@ msgid "rename"
 msgstr "rinomina"
 
 msgid "basics"
-msgstr "basilare"
+msgstr "basi"
 
 msgid "bot"
 msgstr "bot"
@@ -142,3 +142,18 @@ msgstr "ban"
 
 msgid "unban"
 msgstr "unban"
+
+msgid "auto"
+msgstr "automatico"
+
+msgid "channel"
+msgstr "canale"
+
+msgid "both"
+msgstr "entrambi"
+
+msgid "send"
+msgstr "mandare"
+
+msgid "receive"
+msgstr "ricevere"

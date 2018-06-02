@@ -12,10 +12,10 @@ msgstr ""
 "Language-Team: \n"
 
 msgid "**Embed Links** permission is required, please fix or tell an admin."
-msgstr "**Incorporamento collegamenti** è richiesta l'autorizzazione, correggi o informa un amministratore."
+msgstr "È necessario il permesso **Incorporare i link**, correggi o informa un amministratore."
 
 msgid "Interactions via Direct/Private messages with bot have been **disabled**."
-msgstr "L’interazioni via messaggio privato con il bot è stato **disabilitato**."
+msgstr "Le interazioni tramite messaggio privato con il bot sono state **disabilitate**."
 
 msgid "Missing Arguments"
 msgstr "Argomenti mancanti"
@@ -33,44 +33,44 @@ msgid ""
 "To translate a message, you *need* a message!\n"
 "Please edit your command to include text."
 msgstr ""
-"Per tradurre un messaggio, *hai* bisogno di un messaggio!\n"
+"Per tradurre un messaggio, *hai* prima bisogno di scriverne uno!\n"
 "Si prega di modificare il comando per includere il testo."
 
 msgid "Invalid languages argument"
 msgstr "Argomento delle lingue non valido"
 
 msgid "Incorrect format for from/to argument, please edit to fix."
-msgstr "Formato errato per argomenti linguistici, per favore modifica per risolvere."
+msgstr "Formato errato per l’argomento, si prega di modificare per correggere."
 
 msgid "Missing Permissions"
-msgstr "Autorizzazioni Mancanti"
+msgstr "Permessi Mancanti"
 
 msgid "Please fix that if you're an administrator."
-msgstr "Si prega di risolvere il problema se sei un amministratore."
+msgstr "Se sei un Amministratore, sei pregato di risolvere il problema."
 
 msgid "Bot does not have **Manage Roles** or **Manage Nicknames** permissions on this server."
-msgstr "Il bot non ha permessi **Manage Roles** o **Manage Nicknames** su questo server."
+msgstr "Il bot non ha permessi **Gestire i ruoli** o **Gestire i soprannomi** su questo server."
 
 msgid "Bot cannot assign the role **%s** because it is beyond the bot's highest role. You can fix it by **moving** the bot's primary role (`%s`) higher in the roles list."
-msgstr "Il bot non può assegnare il ruolo **%s** perché il ruolo è più alto del bot. Puoi aggiustarlo **spostando** il ruolo principale del bot (`%s`) più in alto nell'elenco dei ruoli."
+msgstr "Il bot non può assegnare il ruolo **%s** perché il ruolo è più importante di quello del bot. Puoi aggiustarlo **spostando** il ruolo principale del bot (`%s`) più in alto nell'elenco dei ruoli."
 
 msgid "Invalid Channel"
 msgstr "Canale non valido"
 
 msgid "The channel %s seems to be either **invalid** or **unreachable** in your server. Contact an administrator for support."
-msgstr "Il canale %s sembra essere **non valido** o **non raggiungibile** nel tuo server. Contattare un amministratore per supporto."
+msgstr "Il canale %s sembra essere **non valido** o **non raggiungibile** nel tuo server. Contatta un amministratore per ricevere supporto."
 
 msgid "Invalid Language(s)"
 msgstr "Lingua/e non valida/e"
 
 msgid "Translator could not recognize the following as valid languages:"
-msgstr "Il traduttore non ha riconosciuto le seguenti lingue valide:"
+msgstr "Il traduttore non ha riconosciuto le seguenti come lingue valide:"
 
 msgid "Missing Language"
 msgstr "Lingua mancante"
 
 msgid "Please specify a **valid language** for translation (Can be ISO code or name)."
-msgstr "Specifica una **lingua valida** per la traduzione (nome della lingua o codice ISO)."
+msgstr "Specifica una **lingua valida** per la traduzione (può essere il nome o il codice ISO)."
 
 msgid "Explain yourself"
 msgstr "Spiegati"
@@ -103,10 +103,10 @@ msgid "Looks like something went wrong while processing your request."
 msgstr "Sembra che qualcosa sia andato storto durante l'elaborazione della tua richiesta."
 
 msgid "Text is too looong"
-msgstr "Il testo è troppo luuungo"
+msgstr "Il testo è troppo luuuuuuungo"
 
 msgid "Could you please split your message into smaller chunks? Thanks!"
-msgstr "Potresti per favore dividere il tuo messaggio in blocchi più piccoli? Grazie!"
+msgstr "Potresti per favore dividere il tuo messaggio in parti più brevi? Grazie!"
 
 msgid "Google is Angry"
 msgstr "Google è arrabbiato"
@@ -178,9 +178,7 @@ msgid "Nickname Error"
 msgstr "Errore Nickname"
 
 msgid "Could not change the user's nickname while setting custom language. This usually happens if the user is an **admin** or **server owner**."
-msgstr ""
-"Impossibile modificare il nickname dell'utente durante l'impostazione della lingua personalizzata. \n"
-"Questo di solito accade se l'utente è un **admin** o il **proprietario del server**."
+msgstr "Impossibile modificare il nickname dell'utente durante l'impostazione della lingua personalizzata. Questo di solito accade se l'utente è un **admin** o il **proprietario del server**."
 
 msgid "In this case, change the user's nickname manually to add `--lang` at end like the following example:"
 msgstr "In questo caso, modificare manualmente il nickname dell'utente per aggiungere `--lang` alla fine come nell'esempio seguente:"
@@ -207,28 +205,28 @@ msgid "Your server has reached its **%s** translation quota of **%s** characters
 msgstr "Il tuo server ha raggiunto la quota di traduzione **%s** di **%s** caratteri."
 
 msgid "Voice Connection Failed"
-msgstr "Connessione Vocale Fallita"
+msgstr "Connessione vocale fallita"
 
 msgid "Bot could not join the voice channel, please check if it has the neccessary permissins."
 msgstr "Il bot non ha potuto unirsi al canale vocale, per favore controlla se ha i permessi necessari."
 
 msgid "Voice Channel Full"
-msgstr "Canale Vocale Completo"
+msgstr "Canale vocale completo"
 
 msgid "Bot could not join the voice channel, because it is **full**!"
 msgstr "Bot non ha potuto unirsi al canale vocale, perché è **pieno**!"
 
 msgid "You have to be **connected** to a **Voice Channel**  for transmitting translated TTS messages."
-msgstr "Devi essere **connesso** ad un **Canale Vocale** per trasmettere messaggi TTS tradotti."
+msgstr "Devi essere **connesso** ad un **Canale vocale** per trasmettere messaggi TTS tradotti."
 
 msgid "Text to Speech Failed"
-msgstr "Text to Speech non Riuscito"
+msgstr "Text to Speech non riuscito"
 
 msgid "Could not proccess your TTS request."
 msgstr "Impossibile elaborare la richiesta TTS."
 
 msgid "Missing Voice Permissions"
-msgstr "Autorizzazioni Vocali Mancanti"
+msgstr "Autorizzazioni vocali mancanti"
 
 msgid "Please make sure the bot has **Speak** and **Connect** permissions for the Voice Channel."
 msgstr "Assicurati che il bot abbia le autorizzazioni **Speak** e **Connect** per il canale vocale."
@@ -237,7 +235,7 @@ msgid "But wait!"
 msgstr "Ma aspetta!"
 
 msgid "It seems that **%s** is already set for **%s**."
-msgstr "Sembra che **%s** sia già impostato per **%s**."
+msgstr "Queste sono già le impostazioni attuali (%s) per %s"
 
 msgid "Free Service Disabled"
 msgstr "Servizio gratuito disabilitato"
@@ -246,7 +244,7 @@ msgid "The free translation service of Discord Translator has ended, to use the 
 msgstr "Il servizio di traduzione gratuito di Discord Translator è terminato, per utilizzare il bot, è necessario __pagare__ per un piano premium."
 
 msgid "Text to Speech Disabled"
-msgstr "Sintesi Vocale Disabilitata"
+msgstr "Sintesi Vocale Disattivata"
 
 msgid "This experimental feature has been disabled due to bad performance. It will be added back once the lag issues are resolved."
 msgstr "Questa funzione sperimentale è stata disabilitata a causa di prestazioni inadeguate. Sarà aggiunto di nuovo una volta risolti i problemi di ritardo."

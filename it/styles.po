@@ -12,13 +12,13 @@ msgstr ""
 "Language-Team: \n"
 
 msgid "Box - Top Avatar"
-msgstr "Box - Avatar Superiore"
+msgstr "Box - Avatar in alto"
 
 msgid "Box - Bottom Avatar"
-msgstr "Box - Avatar inferiore"
+msgstr "Box - Avatar in basso"
 
 msgid "Box - No Avatar"
-msgstr "Box - Senza Avatar"
+msgstr "Box - Avatar mancante"
 
 msgid "Box - Big Avatar"
 msgstr "Box - Avatar Grande"

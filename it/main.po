@@ -33,17 +33,17 @@ msgid "Current bot version is %s"
 msgstr "L'attuale versione del bot è %s"
 
 msgid "updates history"
-msgstr "aggiorna cronologia"
+msgstr "Aggiorna cronologia"
 
 msgid "changelog"
-msgstr "changelog"
+msgstr "Changelog"
 
 msgid ""
 "For more info on this command, write %s\n"
 " Or visit the **[wiki](%s)** or join the **[support server](%s)**."
 msgstr ""
 "Per più info su questo comando, scrivi %s\n"
-"o visita la **[wiki](%s)** oppure unisciti al **[server di supporto](%s)**."
+"o visita la **[wiki](%s)** o unisciti al **[server di supporto](%s)**."
 
 msgid "This message will self-destruct in 1 minute"
 msgstr "Questo messaggio si autodistruggerà tra 1 minuto"
@@ -70,13 +70,13 @@ msgid "Do you want it back? Share your opinion at the **[support server](%s)**."
 msgstr "Condividi la tua opinione nel nostro **[server di supporto](%s)**."
 
 msgid "Mods/Admins Command"
-msgstr "Comando per Moderatori/Amministratori"
+msgstr "Comando per moderatori/amministratori"
 
 msgid "Admins Only"
 msgstr "Solo per amministratori"
 
 msgid "Change  **%s**  to  **%s**"
-msgstr "Cambia  **%s**  in  **%s**"
+msgstr "Cambia **%s** in **%s**"
 
 msgid "Groups Quota"
 msgstr "Quota di gruppi"
@@ -219,7 +219,7 @@ msgid "message"
 msgstr "messaggio"
 
 msgid "language(s) to translate to"
-msgstr "lingua/e da tradurre in"
+msgstr "Lingua/e da tradurre in"
 
 msgid "explicitly translate from this language"
 msgstr "tradurre esplicitamente da questa lingua"
@@ -231,7 +231,7 @@ msgid "TTS Text to Speech Translation (Experimental)"
 msgstr "TTS Sintesi Vocale (Sperimentale)"
 
 msgid "Translates a custom message entered by user and speaks it in the user's connected voice channel."
-msgstr "Traduce un messaggio personalizzato inserito dall'utente e lo dice nel canale vocale in ci è connesso l’utente."
+msgstr "Traduce un messaggio personalizzato inserito dall'utente e lo dice nel canale vocale in cui è connesso l’utente."
 
 msgid "Examples"
 msgstr "Esempio"
@@ -363,7 +363,7 @@ msgid "Links"
 msgstr "Links"
 
 msgid "Stats"
-msgstr "Statistiche"
+msgstr "Stats"
 
 msgid "(bot invite link)"
 msgstr "(link d’invito del bot)"
@@ -575,7 +575,7 @@ msgstr "Ti voglio bene"
 
 msgctxt "example"
 msgid "how are you?"
-msgstr "come stai?"
+msgstr "Come stai?"
 
 msgctxt "auto mode"
 msgid "Send and Receive"
@@ -607,7 +607,7 @@ msgstr "I messaggi di %s verranno automaticamente tradotti in **%s**"
 
 msgctxt "to"
 msgid "channel's default language"
-msgstr ""
+msgstr "lingua default del canale"
 
 msgctxt "user"
 msgid "**Stopped** auto translating messages by %s."
@@ -647,11 +647,11 @@ msgstr "Non Impostato"
 
 msgctxt "value"
 msgid "new language"
-msgstr "nuova lingua"
+msgstr "Nuova lingua"
 
 msgctxt "value"
 msgid "group name"
-msgstr "nome del gruppo"
+msgstr "Nome del gruppo"
 
 msgctxt "channels"
 msgid "%d linked"
@@ -763,7 +763,7 @@ msgstr "Importante"
 
 msgctxt "mention"
 msgid "@user"
-msgstr "@user"
+msgstr "@utente"
 
 msgctxt "keyword"
 msgid "Any message ending with `%s` or `%s` will be ignored by the bot."
