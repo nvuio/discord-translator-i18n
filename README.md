@@ -100,6 +100,9 @@ If your locale language translates `you` or `your` to a specific gender, then pl
 ### Translating Commands
 
 The commands strings in `commands.po` must be translated as one word and all lowercase.
+If one word is impossible, then you can use `-` instead of spaces ` `, for example:
+
+> `a command` -> `a-command`
 
 <br>
 
