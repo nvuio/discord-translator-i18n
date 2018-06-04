@@ -220,7 +220,7 @@ msgid "To disable this in certain channels, do the following:"
 msgstr "Um dies in bestimmten Kanälen zu deaktivieren, mache Folgendes:"
 
 msgid "Channel Settings > Topic Description > Write %s and save."
-msgstr "Kanal-Bearbeiten > Thema des Kanals > Schreibe %s und speichere."
+msgstr "Kanal bearbeiten > Thema des Kanals > Schreibe %s und speichere."
 
 msgid "Translate Custom Message"
 msgstr "Benutzerdefinierte Nachricht übersetzen"
