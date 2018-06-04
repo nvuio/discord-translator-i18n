@@ -443,7 +443,7 @@ msgid ""
 "have to do is write %s anywhere inside the channel's topic description."
 msgstr ""
 "Du kannst wählen, ob der Bot die Befehle in diesem Kanal automatisch löschen "
-"soll. Dafuer musst du nur %s irgendwo in die Themenbeschreibung "
+"soll. Dafür musst du nur %s irgendwo in die Themenbeschreibung "
 "des Kanals schreiben."
 
 msgid ""
