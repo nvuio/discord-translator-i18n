@@ -157,3 +157,6 @@ msgstr "wysłać"
 
 msgid "receive"
 msgstr "otrzymywać"
+
+msgid "misc"
+msgstr "różne"

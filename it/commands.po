@@ -157,3 +157,6 @@ msgstr "mandare"
 
 msgid "receive"
 msgstr "ricevere"
+
+msgid "misc"
+msgstr "miscellaneo"
