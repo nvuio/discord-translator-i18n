@@ -92,7 +92,9 @@ msgid "Groups Quota"
 msgstr "Gruppen-Quote"
 
 msgid "More info on our **[website](%s)**, or the **[support server](%s)**."
-msgstr "Mehr Informationen auf unserer **[Webseite](%s)** oder dem **[Support-Server](%s)**."
+msgstr ""
+"Mehr Informationen auf unserer **[Webseite](%s)** oder dem **[Support-Server]"
+"(%s)**."
 
 msgid "Linked Channels per Group Quota"
 msgstr "Verlinkte Kanäle pro Gruppen-Quote"
@@ -573,7 +575,7 @@ msgid "Discounts on premium plans"
 msgstr "Rabatte auf Premium-Pläne"
 
 msgid "The detected language is **%s** ( %s / `%s` )."
-msgstr "Die erkannte Sprache ist **%s** ( %s / `%s`)."
+msgstr "Die erkannte Sprache ist **%s** ( %s / `%s` )."
 
 msgid "Command Prefix"
 msgstr "Befehl-Präfix"
@@ -606,13 +608,13 @@ msgid "Server's text style has been updated to **%s**"
 msgstr "Der Text-Stil des Servers wurde zu **%s** geändert"
 
 msgid "Server's current prefix is **`%s`**"
-msgstr "Das aktuelle Präfix des Servers ist **%s**"
+msgstr "Das aktuelle Präfix des Servers ist **`%s`**"
 
 msgid "To change prefix, type:"
 msgstr "Um das Präfix zu ändern, tippe:"
 
 msgid "Server's prefix has been updated to **`%s`**"
-msgstr "Das Präfix des Servers wurde zu **%s** geändert"
+msgstr "Das Präfix des Servers wurde zu **`%s`** geändert"
 
 msgid "Linked Channels"
 msgstr "Verlinkte Kanäle"

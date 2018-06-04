@@ -147,3 +147,6 @@ msgstr ""
 
 msgid "receive"
 msgstr ""
+
+msgid "misc"
+msgstr ""
