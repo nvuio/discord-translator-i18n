@@ -26,7 +26,7 @@ msgstr "Fehlende Argumente"
 
 msgid "Missing valid languages and text for translation, please edit to fix."
 msgstr ""
-"Es fehlen gültige Sprachen und Text für die Übersetzung, bitte bearbeiten, um dies "
+"Es fehlen gültige Sprachen und ein Text für die Übersetzung. Bitte bearbeiten, um dies "
 "zu ändern."
 
 msgid "Missing Text"
@@ -40,7 +40,7 @@ msgid ""
 "Please edit your command to include text."
 msgstr ""
 "Um eine Nachricht zu übersetzen *benötigst* du eine Nachricht!\n"
-"Bitte erweitere deinen Befehl, um einen Text."
+"Bitte erweitere deinen Befehl um einen Text."
 
 msgid "Invalid languages argument"
 msgstr "Ungültiges Sprachen-Argument"
