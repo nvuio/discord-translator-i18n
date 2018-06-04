@@ -85,7 +85,7 @@ msgid "group"
 msgstr "groupe"
 
 msgid "groups"
-msgstr "sgroupe"
+msgstr "groupes"
 
 msgid "stop"
 msgstr "arrêter"
