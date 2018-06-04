@@ -92,7 +92,7 @@ msgid "Groups Quota"
 msgstr "Gruppen-Quote"
 
 msgid "More info on our **[website](%s)**, or the **[support server](%s)**."
-msgstr "Mehr Informationen auf unserer **[Webseite](%s)**."
+msgstr "Mehr Informationen auf unserer **[Webseite](%s)** oder dem **[Support-Server](%s)**."
 
 msgid "Linked Channels per Group Quota"
 msgstr "Verlinkte Kanäle pro Gruppen-Quote"
@@ -215,10 +215,10 @@ msgstr ""
 "reagierst. Zum Beispiel: %s, %s, %s, %s"
 
 msgid "To disable this in certain channels, do the following:"
-msgstr "Um diesen in bestimmten Kanälen zu deaktivieren, mache Folgendes:"
+msgstr "Um dies in bestimmten Kanälen zu deaktivieren, mache Folgendes:"
 
 msgid "Channel Settings > Topic Description > Write %s and save."
-msgstr "Kanal-Einstellungen > Themen-Beschreibung > Schreibe %s und speichere."
+msgstr "Kanal-Bearbeiten > Thema des Kanals > Schreibe %s und speichere."
 
 msgid "Translate Custom Message"
 msgstr "Benutzerdefinierte Nachricht übersetzen"
@@ -441,8 +441,8 @@ msgid ""
 "have to do is write %s anywhere inside the channel's topic description."
 msgstr ""
 "Du kannst wählen, ob der Bot die Befehle in diesem Kanal automatisch löschen "
-"soll. Alles, was du tun musst, ist, %s irgendwo innerhalb der "
-"Themenbeschreibung des Kanals hinzuzufügen."
+"soll. Dafuer musst du nur %s irgendwo in die Themenbeschreibung "
+"des Kanals schreiben."
 
 msgid ""
 "This will delete all commands/messages including: help commands, settings, "
@@ -750,7 +750,7 @@ msgstr "%ss aktuelle Sprache ist **%s**"
 
 msgctxt "channel"
 msgid "Updated %s's language to **%s**"
-msgstr "Die Sprache von %s wurde auf **%s** aktualisiert"
+msgstr "Die Sprache von %s wurde auf **%s** geändert"
 
 msgctxt "channel"
 msgid "%s's current group is **%s**"
