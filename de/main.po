@@ -416,7 +416,7 @@ msgid "Stats"
 msgstr "Statistiken"
 
 msgid "(bot invite link)"
-msgstr "(Bot Einladungslink)"
+msgstr "(Bot-Einladungslink)"
 
 msgid "(official server)"
 msgstr "(offizieller Server)"
@@ -461,7 +461,7 @@ msgid ""
 "By default, Translator will ignore all messages by bots, this is a common "
 "practice to avoid unpredictable behaviours and response-loops."
 msgstr ""
-"Standardmäßig ignoriert Translator alle Nachrichten von Bots, dies ist eine "
+"Standardmäßig ignoriert Translator alle Nachrichten von Bots. Dies ist eine "
 "gängige Praxis, um unvorhersehbare Verhaltensweisen und Antwortschleifen zu "
 "vermeiden."
 
@@ -497,7 +497,7 @@ msgid "Set servers's custom prefix"
 msgstr "Benutzerdefiniertes Präfix des Servers festlegen"
 
 msgid "Set servers's default style"
-msgstr "Festlegen des Standardstils des Servers"
+msgstr "Standardstil des Servers festlegen"
 
 msgid "View server's automatic groups"
 msgstr "Automatische Gruppen des Servers anzeigen"
@@ -570,7 +570,7 @@ msgid "Access to beta features"
 msgstr "Zugang zu den Beta-Funktionen"
 
 msgid "Discounts on premium plans"
-msgstr "Rabatte auf Premiumpläne"
+msgstr "Rabatte auf Premium-Pläne"
 
 msgid "The detected language is **%s** ( %s / `%s` )."
 msgstr "Die erkannte Sprache ist **%s** ( %s / `%s`)."
@@ -669,7 +669,7 @@ msgstr "Nur empfangen"
 msgctxt "quota"
 msgid "Would you like to extend it? Consider advanced **Premium** plans."
 msgstr ""
-"Möchtest du es verlängern? Betrachte die fortgeschrittene **Premium**-Pläne."
+"Möchtest du es verlängern? Betrachte die fortgeschrittenen **Premium**-Pläne."
 
 msgctxt "voice"
 msgid "Please wait for bot to finish speaking the current TTS message.."
@@ -762,7 +762,7 @@ msgstr "%s wurde der Gruppe **%s** hinzugefügt."
 
 msgctxt "channel"
 msgid "%s's current mode is **%s**"
-msgstr "der aktuelle Modus von %s ist **%s**"
+msgstr "Der aktuelle Modus von %s ist **%s**"
 
 msgctxt "channel"
 msgid "%s's auto mode has been updated to **%s**"
@@ -802,7 +802,7 @@ msgstr "Automatische Übersetzung von Kanälen"
 
 msgctxt "feature"
 msgid "Automatic translations of specific users"
-msgstr "Automatische Übersetzung von bestimmten Nutzen"
+msgstr "Automatische Übersetzung von bestimmten Nutzern"
 
 msgctxt "feature"
 msgid "Supports custom prefixes"

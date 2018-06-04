@@ -100,7 +100,7 @@ msgstr ""
 
 # Unklar, was hier genau gemeint ist
 msgid "Explain yourself"
-msgstr "Erkläre dich"
+msgstr "Was machst du da"
 
 # Unklarer Kontext
 msgid "One does not simply translate to `Auto`"
