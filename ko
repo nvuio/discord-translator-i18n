@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.0.7\n"
+
+msgid "t"
+msgstr "t"
+
+msgid "translate"
+msgstr "번역"
+
+msgid "translator"
+msgstr "번역기"
+
+msgid "about"
+msgstr "정보"
+
+msgid "help"
+msgstr "도움말"
+
+msgid "commands"
+msgstr "명령어들"
+
+msgid "version"
+msgstr "버전"
+
+msgid "invite"
+msgstr "초대"
+
+msgid "install"
+msgstr "설치"
+
+msgid "join"
+msgstr "참가"
+
+msgid "contact"
+msgstr "문의"
+
+msgid "list"
+msgstr "리스트"
+
+msgid "language"
+msgstr "언어"
+
+msgid "languages"
+msgstr "언어들"
+
+msgid "vip"
+msgstr "vip"
+
+msgid "perks"
+msgstr "권한들"
+
+msgid "custom"
+msgstr "특정된"
+
+msgid "last"
+msgstr "지난"
+
+msgid "detect"
+msgstr "감지"
+
+msgid "voice"
+msgstr "보이스"
+
+msgid "speak"
+msgstr "말하기"
+
+msgid "settings"
+msgstr "설정"
+
+msgid "server"
+msgstr "체널"
+
+msgid "group"
+msgstr "그룹"
+
+msgid "groups"
+msgstr "그룹들"
+
+msgid "stop"
+msgstr "정지"
+
+msgid "style"
+msgstr "폰트"
+
+msgid "mode"
+msgstr "모드"
+
+msgid "set"
+msgstr "설정"
+
+msgid "delete"
+msgstr "삭제"
+
+msgid "remove"
+msgstr "제거"
+
+msgid "rename"
+msgstr "닉넴변경"
+
+msgid "basics"
+msgstr "기본"
+
+msgid "bot"
+msgstr "봇"
+
+msgid "bots"
+msgstr "봇들"
+
+msgid "react"
+msgstr "반응"
+
+msgid "reaction"
+msgstr "반응"
+
+msgid "emoji"
+msgstr "이모티콘"
+
+msgid "user"
+msgstr "유저"
+
+msgid "delete-commands"
+msgstr "커멘드지우기"
+
+msgid "prefix"
+msgstr "시작명령어"
+
+msgid "allow"
+msgstr "허용"
+
+msgid "ban"
+msgstr "벤"
+
+msgid "unban"
+msgstr "언벤"
