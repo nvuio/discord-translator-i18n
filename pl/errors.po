@@ -260,7 +260,7 @@ msgstr "Połączenia Głosowe nie powiodło się"
 
 msgid ""
 "Bot could not join the voice channel, please check if it has the neccessary "
-"permissins."
+"permissions."
 msgstr ""
 "Bot nie mógł połączyć się na kanał głosowy, proszę sprawdzić czy ma niezbędne "
 "uprawnienia."

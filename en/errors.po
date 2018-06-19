@@ -220,7 +220,7 @@ msgstr ""
 
 msgid ""
 "Bot could not join the voice channel, please check if it has the neccessary "
-"permissins."
+"permissions."
 msgstr ""
 
 msgid "Voice Channel Full"

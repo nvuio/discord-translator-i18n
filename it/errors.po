@@ -207,7 +207,7 @@ msgstr "Il tuo server ha raggiunto la quota di traduzione **%s** di **%s** carat
 msgid "Voice Connection Failed"
 msgstr "Connessione vocale fallita"
 
-msgid "Bot could not join the voice channel, please check if it has the neccessary permissins."
+msgid "Bot could not join the voice channel, please check if it has the neccessary permissions."
 msgstr "Il bot non ha potuto unirsi al canale vocale, per favore controlla se ha i permessi necessari."
 
 msgid "Voice Channel Full"

@@ -272,7 +272,7 @@ msgstr "Connexion vocale échouée"
 
 msgid ""
 "Bot could not join the voice channel, please check if it has the neccessary "
-"permissins."
+"permissions."
 msgstr ""
 "Le bot ne peut pas rejoindre ce salon vocal, merci de vérifier s'il a les "
 "permissions nécessaires."

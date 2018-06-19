@@ -276,7 +276,7 @@ msgstr "Sprachverbindung fehlgeschlagen"
 
 msgid ""
 "Bot could not join the voice channel, please check if it has the neccessary "
-"permissins."
+"permissions."
 msgstr ""
 "Bot konnte dem Sprachkanal nicht beitreten, bitte prüfe, ob er die notwendigen "
 "Berechtigungen hat."
