@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "**Embed Links** permission is required, please fix or tell an admin."
+msgstr "**링크** 권한이 필요합니다. 관리자에게 문의해주세요"
+
+msgid "Interactions via Direct/Private messages with bot have been **disabled**."
+msgstr "봇이 다이렉트 메시지를 보내거나 받을 수 있는 기능이 비활성화되었습니다"
+
+msgid "Missing Arguments"
+msgstr "추가 명령어가 없습니다"
+
+msgid "Missing valid languages and text for translation, please edit to fix."
+msgstr "번역이 가능한 언어와 텍스트가 빠졌습니다. 고치시려면 편집해주세요"
+
+msgid "Missing Text"
+msgstr "빠진 텍스트가 발견되었습니다"
+
+msgid "Please provide some text for language detection."
+msgstr "언어 감지를 위해 아무 텍스트를 작성해주세요"
+
+msgid ""
+"To translate a message, you *need* a message!\n"
+"Please edit your command to include text."
+msgstr ""
+"이 텍스트를 번역하려면, 그 **텍스트**가 필요합니다\n"
+"텍스트를 포함하며 커멘드를 편집해주세요"
+
+msgid "Invalid languages argument"
+msgstr "없는 언어 커멘드 변수입니다"
+
+msgid "Incorrect format for from/to argument, please edit to fix."
+msgstr ""
+"잘못된 번역될 언어/번역할 언어 커멘드 변수입니다. 해결하시려면 편집을 해주세요"
+
+msgid "Missing Permissions"
+msgstr "권한 없음"
+
+msgid "Please fix that if you're an administrator."
+msgstr "만약 당신이 관리자라면 이 오류를 고쳐주세요"
+
+msgid ""
+"Bot does not have **Manage Roles** or **Manage Nicknames** permissions on this "
+"server."
+msgstr "현재 이 봇은 **역할 배정** 또는 **별명 변경** 권한이 없습니다"
+
+msgid ""
+"Bot cannot assign the role **%s** because it is beyond the bot's highest role. "
+"You can fix it by **moving** the bot's primary role (`%s`) higher in the roles "
+"list."
+msgstr ""
+"이 봇은 요청하시는 역할 **%s** 은 봇의 상위에 위치해있으므로 배정할 수 없습니다. "
+"봇의 역할 순위를 최고로 만든다면 이 커멘드가 작용됩니다."
+
+msgid "Invalid Channel"
+msgstr "없는 채널입니다"
+
+msgid ""
+"The channel %s seems to be either **invalid** or **unreachable** in your server. "
+"Contact an administrator for support."
+msgstr ""
+"이 채널은 존재하지 않거나 봇이 들어갈 권한이 없습니다. 관리자에게 문의해주세요"
+
+msgid "Invalid Language(s)"
+msgstr "없는 언어입니다"
+
+msgid "Translator could not recognize the following as valid languages:"
+msgstr "알수 없는 언어입니다:"
+
+msgid "Missing Language"
+msgstr "언어가 빠졌습니다"
+
+msgid ""
+"Please specify a **valid language** for translation (Can be ISO code or name)."
+msgstr "번역 하시려면 그 언어를 정의해주세요 (ISO 코드나 언어 이름 가능)"
+
+msgid "Explain yourself"
+msgstr "자기 자신을 설명해주세요"
+
+msgid "One does not simply translate to `Auto`"
+msgstr "`자동 번역` 그룹에 번역할 수 없습니다"
+
+msgid "Bad Text Format"
+msgstr "텍스트 포맷이 잘못 됬습니다"
+
+msgid "The supplied translation text has an invalid format."
+msgstr "번역문이 없는 텍스트 포맷을 포함하고 있습니다"
+
+msgid "Please report the issue at the official **[support server](%s)**."
+msgstr "뭔가 알아낸 오류나 버그가 발견되면 공식 **[지원 채널]**(%s)에 제출해주세요"
+
+msgid "Bad User"
+msgstr "잘못된 유저입니다"
+
+msgid "Some bots and banned users are not allowed to be auto translated."
+msgstr "어떤 봇들이랑 벤 먹은 유저는 자동 번역을 할 수 없습니다"
+
+msgid ""
+"If this is a mistake, please report the issue at the official **[support server]"
+"(%s)**."
+msgstr ""
+"만약 이게 실수(수학 실수 말고요) 였다면, 공식 **[지원 서버](%s)**에 신고해주세요"
+
+msgid "Invalid Translation Data"
+msgstr "없는 번역 데이터입니다"
+
+msgid "Looks like something went wrong while processing your request."
+msgstr "어... 좀 알 수 없는 오류가 났어요..."
+
+msgid "Text is too looong"
+msgstr "텍스트가 너무 길어어어...."
+
+msgid "Could you please split your message into smaller chunks? Thanks!"
+msgstr "좀 더 짧은 문장으로 만들어주세요"
+
+msgid "Google is Angry"
+msgstr "구글 오류 발생"
+
+msgid "Translation refused by Google."
+msgstr "번역이 구글에 인해 거절되었습니다"
+
+msgid "Role Assignment Failed"
+msgstr "역할 지급에 실패했습니다"
+
+msgid "Could not update user's role due to a Discord error."
+msgstr "디스코드에 오류가 발생해 이 유저의 역할을 배급할 수 없습니다."
+
+msgid "Send Error"
+msgstr "메시지 전송에 에러가 발생했습니다"
+
+msgid "Discord refused to deliver message."
+msgstr "디스코드가 메세지를 보내는 것을 막았습니다"
+
+msgid "Flag Reaction Limit"
+msgstr "국기 반응모드 제한되있습니다"
+
+msgid ""
+"That message has been translated to too many languages and cannot be translated "
+"any further..."
+msgstr ""
+"그 텍스트는 너무 많은 언어로 번역되서 더 이상 번역 하기에는 너무 어렵네요 ㅠㅠ"
+
+msgid "Missing Access to History"
+msgstr "메세지 히스토리에 접근 할수 업습니다"
+
+msgid ""
+"The bot cannot view **message history** here. Please enable that to properly "
+"translate old messages written in this channel."
+msgstr ""
+"이 봇은 현재 **메세지 히스토리**를 확인할 수 없습니다. 전에 있는 메세지들을 번역"
+"하시려면 히스토리를 볼 수 있는 권한을 부여해주세요"
+
+msgid "Command Disabled (%s)"
+msgstr "커멘드가 비활성화 되어있습니다 (%s)"
+
+msgid ""
+"The `last` translation command has been disabled in favour of **reactions** and "
+"**automatic** translations, and also to prevent abuse."
+msgstr "이전번역 커멘드가 깃발 반응과 자동 번역 커멘드로 대채되었습니다"
+
+msgid "Invalid Channels in Group"
+msgstr "그룹안에 존재하지 않는 채널입니다"
+
+msgid "Could **not** auto translate to the following channels:"
+msgstr "이 채널들에 자동 번역이 안 됨:"
+
+msgid ""
+"Please make sure the bot has **read**, **send**, **embed links** and **history** "
+"permissions in all channels."
+msgstr ""
+"봇이 **읽기**, **보내기**, **고정 링크** 그리고 **히스토리 보기** 권한이 모든 채"
+"널에 있는지 확인 해드리기 바랍니다"
+
+msgid "The `%s` command is reserved for server **moderators** and **admins** only."
+msgstr "커멘드 `%s`는 **부관리자**나 **관리자**만 실행 할 수 있습니다"
+
+msgid "The `%s` command is reserved for server **administrators** only."
+msgstr "커멘드 `%s`는 서버 **관리자**들만 사용 가능 합니다"
+
+msgid "This channel is **not** part of any automatic translation group."
+msgstr "이 채널은 자동 번역 그룹에 속해있지 **않**습니다"
+
+msgid "Please make sure the name is %d to %d characters long."
+msgstr "그룹 이름이 %d부터 %d글자인지 확인 해드리기 바랍니다"
+
+msgid "Invalid Auto Mode"
+msgstr "존재하지 않는 자동번역 모드"
+
+msgid "Invalid Style"
+msgstr "존재하지 않는 텍스트 스타일입니다"
+
+msgid "`%s` is **not** a valid text style. The allowed styles are:"
+msgstr "`%s`는 존재하지 `않는` 텍스트 스타일 입니다. 사용 가능한 폰트들은:"
+
+msgid "Nickname Error"
+msgstr "닉네임 (별명) 오류"
+
+msgid ""
+"Could not change the user's nickname while setting custom language. This usually "
+"happens if the user is an **admin** or **server owner**."
+msgstr ""
+"특정 언어를 설정하고 있을때 유져의 별명은 변경할수 없습니다. 이 오류는 유저가 **"
+"관리자**이거나 **방장**일 경유 많이 발생합니다"
+
+msgid ""
+"In this case, change the user's nickname manually to add `--lang` at end like "
+"the following example:"
+msgstr "이런 경우엔, 유저의 닉네임 뒤에 `--[언어 (영어로)]`를 붙여주세요"
+
+msgid "Bad Request"
+msgstr "번역 요청 없음"
+
+msgid "Could not handle your request."
+msgstr "요청 사항 실행 불가능함"
+
+msgid "Bad Data"
+msgstr "데이터 없음"
+
+msgid "Could not handle your request due to an internal error."
+msgstr "내부 오류로 인해 요청 사항 실행 불가"
+
+msgid "Your server has reached its **maxiumum allowed** auto groups quota."
+msgstr "현재 자동 번역 가능방이 **없습니다**"
+
+msgid "The group **`%s`** has reached its **maximum** allowed linked channels."
+msgstr "그룹 **%s**은(는) **최대** 허용치"
+
+msgid "Your server has reached its **%s** translation quota of **%s** characters."
+msgstr "당신 서버에 **%s**개의 번역 할당량인 **%s** 개의 문자에 도달했습니다."
+
+msgid "Voice Connection Failed"
+msgstr "보이스 채널 연결 실패"
+
+msgid ""
+"Bot could not join the voice channel, please check if it has the neccessary "
+"permissions."
+msgstr ""
+"현재 봇이 보이스 채널에 들어갈 수 없습니다. 접근을 위한 필요한 역할이 있는지 확인"
+"해주세요"
+
+msgid "Voice Channel Full"
+msgstr "보이스 채팅 꽉 참"
+
+msgid "Bot could not join the voice channel, because it is **full**!"
+msgstr "지금 보이스 채팅방이 **아주 꽉 차서** 참가 할수 없습니다"
+
+msgid ""
+"You have to be **connected** to a **Voice Channel**  for transmitting translated "
+"TTS messages."
+msgstr "보이스 채널로 **연결*되있어야 TTS(Text-to-speech)를 할 수 있습니다"
+
+msgid "Text to Speech Failed"
+msgstr "TTS 실패"
+
+msgid "Could not proccess your TTS request."
+msgstr "TTS요청 사항 실행 불가"
+
+msgid "Missing Voice Permissions"
+msgstr "보이스 채팅 접근 권한 없음"
+
+msgid ""
+"Please make sure the bot has **Speak** and **Connect** permissions for the Voice "
+"Channel."
+msgstr "봇이 **말하기** 와 **연결하기** 권한이 보이스 채널에 있는지 확인해주세요"
+
+msgid "But wait!"
+msgstr "잠만요!"
+
+msgid "It seems that **%s** is already set for **%s**."
+msgstr "아무래도 언어(%s)은(는) 이미 **%s**에 정해진것 같습니다"
+
+msgid "Free Service Disabled"
+msgstr "무료 버전 기간일 만료됨"
+
+msgid ""
+"The free translation service of Discord Translator has ended, to use the bot, "
+"you must __pay__ for a premium plan."
+msgstr ""
+"무료 번역 서비스가 종료되었습니다. 계속 이요아시려면, 프리미엄 플랜을 위한 __지불"
+"__이 필요합니다"
+
+msgid "Text to Speech Disabled"
+msgstr "TTS 비활성화됨"
+
+msgid ""
+"This experimental feature has been disabled due to bad performance. It will be "
+"added back once the lag issues are resolved."
+msgstr ""
+"이 기능은 안 좋은 성능으로 인해 비활성화 되었습니다. 만약 고쳐진다면 다시 활성화 "
+"할 것입니다"
+
+msgid "This channel is **not** linked to an automatic group."
+msgstr "이 채널은 자동 번역 그룹에 연결 되지 **않았습니다**"
+
+msgid "Attention:"
+msgstr "주의:"
+
+msgid "This server has reached its maximum allowed character translation quota."
+msgstr "이 서버는 번역 가능 문자 수 제한을 초과했습니다"
+
+msgid "The bot will not translate any more messages."
+msgstr "이제 더 이상 봇이 번역을 하지 않을 것입니다"
+
+msgid "Consider renewing or extending your premium plan."
+msgstr "프리미엄 플랜 재구독하거나 구독 기간을 연장하는 걸 한 번 생각 해보세요"
+
+msgctxt "direct messages"
+msgid "DMs Disabled"
+msgstr "다이렉트 메세지 비활성화됨"
+
+msgctxt "channel"
+msgid "Bot does not have **read**/**write**/**embed** permissions at %s"
+msgstr "이 봇은 현재 **읽기**/**입력**/**링크** 권한이 %s에 없습니다"
+
+msgctxt "admin"
+msgid ""
+"If you are one, and still having issues, please report to the **[support server]"
+"(%s)**."
+msgstr "만약 오류를 가지고 계속 문제가 있으면, **[공식 서버](%s)**에 제출해주세요"
+
+msgctxt "auto"
+msgid "Channel not part of Group"
+msgstr "채널이 그룹에 속해있지 않음"
+
+msgctxt "auto"
+msgid "Invalid Group Name"
+msgstr "존재하지 않는 그룹 이름"
+
+msgctxt "name"
+msgid "`%s` is **not** a valid group name."
+msgstr "`%s`는 존재하지 않는 그룹 이름입니다"
+
+msgctxt "command"
+msgid "Invalid Prefix"
+msgstr "틀린 명령문 시작 기호"
+
+msgctxt "command"
+msgid "`%s` is **not** a valid prefix code."
+msgstr "`%s`는 존재하지 **않는** 명령문 시작 기호입니다"
+
+msgctxt "mode"
+msgid "`%s` is **not** a valid mode for auto translation. The allowed modes are:"
+msgstr "`%s`는 존재하지 않는 자동 번역 모드 입니다. 사용가능한 모드들은:"

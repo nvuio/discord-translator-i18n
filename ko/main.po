@@ -1,0 +1,865 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Translation 0.0.1a\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Me\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"X-Generator: Poedit 2.0.8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Prefer talking with a human?"
+msgstr "도움이 필요하신가요?"
+
+msgid "We'll help you at the official server"
+msgstr "저희 공식 채널에 오시면 도와드리겠습니다"
+
+msgid "Join the official Translator bot server"
+msgstr "번역 봇 공식 채널에 들어오세요"
+
+msgid "Get help, report bugs or submit feedback"
+msgstr "도움을 받고, 버그를 신고하거나 피드백을 남기세요"
+
+msgid "Here's the link to add **Translator** to your server:"
+msgstr "이 링크를 눌러서 봇을 채널에 추가하세요:"
+
+msgid "Keep all required permissions intact for full functionality."
+msgstr "전체 기능을 사용하려면 필요한 모든 권한을 그대로 유지하십시오."
+
+msgid "Current bot version is %s"
+msgstr "현재 봇의 버전은 %s입니다"
+
+msgid "updates history"
+msgstr "업데이트 내역"
+
+msgid "changelog"
+msgstr "변경 내역"
+
+msgid ""
+"For more info on this command, write %s\n"
+" Or visit the **[wiki](%s)** or join the **[support server](%s)**."
+msgstr ""
+"이 커멘드에 대한 더 많은 정보는 %s을 입력하거나\n"
+" **[위키](%s)**를 찾아가세요. 또 다른 방법으로는 **[공식 채널](%s)**에 들어가서 "
+"지원을 요청하세요"
+
+msgid "This message will self-destruct in 1 minute"
+msgstr "이 메시지는 1분후에 삭제됩니다"
+
+msgid "This message will self-destruct in %d minutes"
+msgstr "이 메시지는 %s분후에 삭제됩니다"
+
+msgid ""
+"Need help with bot? Check out the **[wiki](%s)** or join the **[official server]"
+"(%s)**!"
+msgstr ""
+"봇에 대해 궁금한 점은, **[위키](%s)**를 보시거나 **[공식 채널](%s)]**에 들어가세"
+"요"
+
+msgid "Valid Example"
+msgstr "예시"
+
+msgid "Valid Examples"
+msgstr "예시들"
+
+msgid "For a full list of supported languages, [click here](%s)."
+msgstr "지원되는 모든 언어를 보시려면 [여기](%s)를 누르세요"
+
+msgid "If you need help with that, you can visit the **[support server](%s)**."
+msgstr "여기에 도움이 필요하신 경우, **[지원 채널](%s)**에 들어와서 질문하세요"
+
+msgid "Do you want it back? Share your opinion at the **[support server](%s)**."
+msgstr ""
+"비활성화된 기능을 다시 활성화 화고싶으면, **[공식 채널](%s)**에 의견을 남겨주세"
+"요"
+
+msgid "Mods/Admins Command"
+msgstr "모드/관리자 전용 커멘드"
+
+msgid "Admins Only"
+msgstr "관리자 전용"
+
+msgid "Change  **%s**  to  **%s**"
+msgstr "**%s**에서 **%s**로"
+
+msgid "Groups Quota"
+msgstr "그룹 할당량"
+
+msgid "More info on our **[website](%s)**, or the **[support server](%s)**."
+msgstr ""
+"더 많은 정보는 **[홈페이지](%s)** 또는 **[공식 채널](%s)**에서 보실 수 있습니다"
+
+msgid "Linked Channels per Group Quota"
+msgstr "한 그룹에 연결된 채널들의 할당량"
+
+msgid "Server Quota"
+msgstr "서버 할당량"
+
+msgid "Channel Information"
+msgstr "채널 정보"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Text Style"
+msgstr "텍스트 스타일"
+
+msgid "Translations"
+msgstr "번역"
+
+msgid "messages"
+msgstr "메세지들"
+
+msgid "Automatic Translation"
+msgstr "자동 번역문"
+
+msgid "Auto Group"
+msgstr "자동 번역 그룹"
+
+msgid "Auto Groups"
+msgstr "자동 번역 그룹들"
+
+msgid "Auto Mode"
+msgstr "자동 번역 모드"
+
+msgid "no change"
+msgstr "변경 없음"
+
+msgid "To change language, type:"
+msgstr "언어를 변경하시려면, 다음을 입력하세요:"
+
+msgid "Example:"
+msgstr "예시:"
+
+msgid "Linked Channels in Group"
+msgstr "그룹에 연결된 채널들"
+
+msgid "To change group, type:"
+msgstr "그룹을 변경하시려면, 다음을 입력하세요:"
+
+msgid "To change mode, type:"
+msgstr "모드를 변경하시려면, 다음을 입력하세요:"
+
+msgid "To change style, type:"
+msgstr "텍스트 폰트를 변경하시려면, 다음을 입력하세요:"
+
+msgid "%s's text style has been updated to **%s**."
+msgstr "%s의 폰트가 %s의 폰트로 변경되었습니다"
+
+msgid "Automatic group **%s** has been deleted."
+msgstr "자동 번역 그룹 **%s**이 삭제 되었습니다"
+
+msgid ""
+"Discord Translator is the most powerful translation bot for Discord.\n"
+"Based on *Google Cloud Translate* and *Discord.js*."
+msgstr ""
+"디스코드 번역 봇은 디스코드에서 번역 봇으로는 제일 강력한 봇입니다\n"
+"*구글 클라우드 번역* 과 *디스코드 자바스크립트*의 기반으로 제작되었습니다"
+
+msgid "Read Wiki"
+msgstr "위키 읽기"
+
+msgid "Tech support server"
+msgstr "기술적 지원 채널"
+
+msgid "Translate Text"
+msgstr "택스트 번역"
+
+msgid "Translate Channel (Automatic)"
+msgstr "번역되는 채널(자동)"
+
+msgid "Translate User (Automatic)"
+msgstr "번역되는 유저 (자동)"
+
+msgid "Statistics"
+msgstr "상태"
+
+msgid "Server Settings"
+msgstr "서버 설정"
+
+msgid "Text to Speech"
+msgstr "텍스트 말하기 (TTS)"
+
+msgid "Translate by Reacting"
+msgstr "반응 추가로 번역"
+
+msgid "Translate Other Bots"
+msgstr "다른 봇 번역"
+
+msgid "Premium Plans"
+msgstr "프리미엄 계약들"
+
+msgid "Report Bugs / Request Features"
+msgstr "버그 신고하기 / 기능 요청"
+
+msgid "Translate Last Message(s)"
+msgstr "이전 메세지(들) 번역하기"
+
+msgid ""
+"This command has been disabled as of v.1.0 to prevent abuse.\n"
+"If you want it back please let us know at the support server.."
+msgstr ""
+"이 커멘드는 악용을 방지하기 위해 버전 1.0부터 비활성화 되었습니다.\n"
+"만약 이 커멘드가 사용이 가능해지는걸 원하시면 공식 채널에서 지원을 받으세요\\"
+
+msgid ""
+"Translates a message in the server when you react to it with a flag emoji. For "
+"example: %s, %s, %s, %s"
+msgstr ""
+"반응을 어떤 나라의 국기로 달면, 그 국가의 언어로 번역을 합니다. 예를 들어서: "
+"%s, %s, %s, %s가 있습니다"
+
+msgid "To disable this in certain channels, do the following:"
+msgstr "특정 채널에서 이 커멘드를 비활성화 시키려면, 다음을 따라주세요:"
+
+msgid "Channel Settings > Topic Description > Write %s and save."
+msgstr "채널 설정 > 주제 설명 > %s을 입력하고 저장"
+
+msgid "Translate Custom Message"
+msgstr "입력된 텍스트를 번역합니다"
+
+msgid "Translates a custom message entered by user."
+msgstr "다른 유저가 입력한 텍스트를 번역합니다"
+
+msgid "#channel"
+msgstr "#채널"
+
+msgid "message"
+msgstr "텍스트 (또는 메시지)"
+
+msgid "language(s) to translate to"
+msgstr "번역될 언어"
+
+msgid "explicitly translate from this language"
+msgstr "이 언어에서 노골적인 의미로 번역됬습니다"
+
+msgid "forward message to specific channel"
+msgstr "특정 채널로 메시지 보내기"
+
+msgid "TTS Text to Speech Translation (Experimental)"
+msgstr "텍스트 말하기 (TTS) (실험적인 기능)"
+
+msgid ""
+"Translates a custom message entered by user and speaks it in the user's "
+"connected voice channel."
+msgstr ""
+"유저에 의해 입력된 텍스트는 유저가 연결 되있는 보이스 채널에 번역문을 말합니다"
+
+msgid "Examples"
+msgstr "예시들"
+
+msgid "Command"
+msgstr "커멘드"
+
+msgid "Parameters"
+msgstr "확장변수들"
+
+msgid "Make sure bot has **Connect** and **Speak** permissions."
+msgstr "봇이 **연결** 과 **말하기** 권한이 있는지 확인 해주세요"
+
+msgid "Make sure you are **connected** to a Voice Channel before writing command."
+msgstr "커멘드를  전에 당신이 음성 채널에 연결되었는지 확인해주세요"
+
+msgid "View list of **Supported Voice languages**"
+msgstr "**지원 되는 TTS 언어들**의 리스트 .보기"
+
+msgid "Auto Translate Channel (Single)"
+msgstr "자동 번역 채널 (한 개)"
+
+msgid ""
+"Add **auto-translate** inside the channel's topic description, or at the end of "
+"channel name, to automatically translate all messages in that channel to the "
+"default language."
+msgstr ""
+"자동 번역을 원하는 채널이 자동 번역을 활성화 하기 위해서는 **자동-번역**은 그 채"
+"널의 주제에 넣거나 채널 이름의 끝에 붙여주시기 바랍니다"
+
+msgid "Auto Translate Multiple Channels"
+msgstr "여러 채널들을 자동 번역 합니다"
+
+msgid ""
+"Translate new messages in channel and forward them to linked channels in the "
+"same automatic group. Supports custom modes*."
+msgstr ""
+"새 메시지를 번역헤 동일한 자동 그룹에서 연결된 채널들로 전달합니다. 특정 모드들"
+"도 지원 합니다"
+
+msgid "Current Channel Info"
+msgstr "현재 채널 정보"
+
+msgid "Set channel's language"
+msgstr "채널 언어 설정"
+
+msgid "Set auto group"
+msgstr "자동 번역 그룹 설정"
+
+msgid "Stop/remove group"
+msgstr "그룹 정지/삭제"
+
+msgid "Set sending mode"
+msgstr "_전송_모드 설정"
+
+msgid "Set channel text style"
+msgstr "채널 텍스트 스타일 설정"
+
+msgid "Shortcut command"
+msgstr "줄인 커멘드"
+
+msgid ""
+"**Modes** set a channel to send messages only, receive only or be fully "
+"synchronized (both send and receive)."
+msgstr ""
+"**모드들**이 이 채널을 _전송_만, _수신_만, 또는 모든 기능 (_전송_ & _수신_) 모드"
+"로 설정 했습니다"
+
+msgid "Auto Translate Users"
+msgstr "유저 자동 번역"
+
+msgid ""
+"Automatically translates any new messages by specific users in the server (same "
+"channel)."
+msgstr "동일한 채널에서 특정 유저의 모든 메시지를 자동 번역합니다"
+
+msgid "Translate user to channel's default language"
+msgstr "유저를 채널의 기본 언어로 번역하기"
+
+msgid "Translate user to specific language"
+msgstr "유저를 특정 언어로 번역하기"
+
+msgid "For example:"
+msgstr "예를 들어서:"
+
+msgid "Ban Users"
+msgstr "유저 벤"
+
+msgid ""
+"This requires the bot to have **Manage Roles** and **Manage Nicknames** "
+"permissions."
+msgstr "이것은 봇이 **역할 관리** 와 **닉네임 관리** 권한이 필요합니다"
+
+msgid "Allow Other Bots"
+msgstr "다른 봇 번역 허용"
+
+msgid ""
+"To allow translation of other bots, simply create a new role called %s and "
+"assign it to the bots you want. (Use at your own risk)"
+msgstr ""
+"다른 봇의 번역을 허용하시려면, %s이라는 새로운 역할을 만들고, 원하는 봇에 추가"
+"를 하세요 (위험을 무릅쓰고 사용해드리기 바랍니다)"
+
+msgid "Stop Channel Automatic Translation"
+msgstr "자동 번역 중지"
+
+msgid "Go to channel and write:"
+msgstr "채널로 가신후, 다음을 적으세요:"
+
+msgid "or"
+msgstr "또는"
+
+msgid "Alternatively, change the channel's mode"
+msgstr "대채적으론, 채널의 자동 번역 모드를 변경하세요"
+
+msgid "(receives translated messages only)"
+msgstr "(본역된 메시지만 받기)"
+
+msgid "(sends translated messages only)"
+msgstr "(번역된 메시지만 보내기)"
+
+msgid "Stop User Automatic Translation"
+msgstr "유저 메시지 자동 번역 중지"
+
+msgid "Ban User from using Translator"
+msgstr "번역 봇 사용으로 유저 벤"
+
+msgid "Stop translating other Bots"
+msgstr "다른 봇 번역 중지"
+
+msgid "Simply remove the `%s` role from the other bots."
+msgstr "다른 봇의 `%s`역할을 제거하세요"
+
+msgid "Ignore specific messages"
+msgstr "특정 메시지 번역 하지 않기"
+
+msgid "Ignore specific words"
+msgstr "특정 단어들 번역 하지 않기"
+
+msgid "Miscellaneous Commands"
+msgstr "기타 커멘드들"
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "Info"
+msgstr "정보"
+
+msgid "Links"
+msgstr "링크"
+
+msgid "Stats"
+msgstr "상태"
+
+msgid "(bot invite link)"
+msgstr "(봇 초대 링크)"
+
+msgid "(official server)"
+msgstr "(공식 채널)"
+
+msgid "Detect Language of Message"
+msgstr "메시지의 언어 감지"
+
+msgid ""
+"You can detect the language of a message by reacting to it with a **globe** "
+"emoji (%s).\n"
+"Alternatively, you can use the `%s` command:"
+msgstr ""
+"메시지에 **지구본** 으로 반응 추가해서 국가 언어를 확인 할 수 있습니다 (%s)\n"
+"대채적으론 커멘드 `%s`를 사용하셔도 무방합니다"
+
+msgid "Auto Delete Bot Commands"
+msgstr "커멘드 자동 삭제"
+
+msgid ""
+"You can choose to have the bot auto delete commands in the channel. All you "
+"have to do is write %s anywhere inside the channel's topic description."
+msgstr ""
+"봇이 커멘드를 자동으로 삭제하게 만들도록 할 수 있습니다. 그냥 %s을 그 채널의 주"
+"제에 아무데나 넣으세요"
+
+msgid ""
+"This will delete all commands/messages including: help commands, settings, "
+"stats and translate commands for example:"
+msgstr ""
+"이것은 모든 커멘드/메시지들을 삭제 할것입니다. 그 중에서 도움말, 설정, 상태 그리"
+"고 번역 커멘드도 포함합니다. 예를 들어서:"
+
+msgid "and"
+msgstr "그리고"
+
+msgid "Translate other Bots"
+msgstr "다른 봇 번역"
+
+msgid ""
+"By default, Translator will ignore all messages by bots, this is a common "
+"practice to avoid unpredictable behaviours and response-loops."
+msgstr ""
+"기본 설정에 의해, 다른 봇들의 모든 메시지들은 번역이 안 될 것입니다. 이것은 다"
+"른 봇들의 예측 불가능한 행동들이나 출력-반복 버그를 피하기 위한 최선의 방법입니"
+"다"
+
+msgid ""
+"With that said, if you still wish to translate messages by other bots, you can "
+"do so by creating a member **role** called **can-translate** then assign it to "
+"the bots you wish to translate."
+msgstr ""
+"진심으로 원하신다면, 그리고 다른 봇들의 메시지들이 번역 되기를 바라신다면, **번"
+"역-가능** (안 되면 **can-translate**) 이라는 **역할**을 만들고, 원하는 봇에 추가"
+"하세요"
+
+msgid "Disable/Stop"
+msgstr "비활성화/중지"
+
+msgid "Simply remove the %s role from the bots. Or delete the role itself."
+msgstr "봇의 %s역할을 삭재하거나 스스로 삭제 시키게 하세요"
+
+msgid "Use at your own risk and report if you experience issues."
+msgstr "문제를 겪었다면 위험을 무릅쓰고 신고하세요"
+
+msgid "Server commands are available only to server administrators."
+msgstr "서버 커멘드들은 서버의 관리자들만 사용할 수 있습니다"
+
+msgid "Current Server Info"
+msgstr "현재 서버 정보"
+
+msgid "Set servers's default language"
+msgstr "서버의 기본 언어 설정"
+
+msgid "Set servers's custom prefix"
+msgstr "서버의 명령어 시작 기호 설정"
+
+msgid "Set servers's default style"
+msgstr "서버의 기본 텍스트 스타일 설정"
+
+msgid "View server's automatic groups"
+msgstr "서버의 자동 번역 그룹 보여주기"
+
+msgid "Supported Languages"
+msgstr "지원되는 언어들"
+
+msgid "For a detailed list, visit the **[wiki page](%s)**."
+msgstr "더 구체적인 리스트는, **[위키](%s)**를 방문해주세요"
+
+msgid "Bot Info"
+msgstr "봇 정보"
+
+msgid "Bot Version"
+msgstr "봇 버전"
+
+msgid "Bot Language"
+msgstr "봇 언어"
+
+msgid "Global Translation Stats"
+msgstr "전국 언어 번역 상태"
+
+msgid "Total Shards"
+msgstr "총 개수"
+
+msgid "Total Servers"
+msgstr "총 서버 개수"
+
+msgid "Total Channels"
+msgstr "총 채널 개수"
+
+msgid ""
+"If you enjoy using this bot then please consider helping with its growth by "
+"various promotional actions listed below:"
+msgstr ""
+"이 봇을 사용하는 것을 좋아 하시면, 저희 개발자들의 성장 촉진을 위한 활동을 해주"
+"시면 감사드리겠습니다, 방법은 이 리스트에 적혀있습니다:"
+
+msgid "How you can help"
+msgstr "무엇을 도와드릴까요?"
+
+msgid "Upvote bot on [DBL](%s)"
+msgstr "[DBL](%s)에 봇을 Upvote하세요"
+
+msgid "Follow and share bot on [Twitter](%s)"
+msgstr "[트위터](%s)에서 팔로우하고 봇을 공유하세요"
+
+msgid "Follow and review bot on [Botlist.co](%s)"
+msgstr "[Botlist.co](%s)에서 팔로우하고 후기를 남기세요"
+
+msgid "Make a [video review](%s)"
+msgstr "[동영상 후기](%s) 만들기"
+
+msgid "Share bot on [social media](%s)"
+msgstr "[SNS](%s)에 봇 공유하기"
+
+msgid "Join [translation team](%s)"
+msgstr "[번역 팀](%s) 참가하기"
+
+msgid "Other [ads/promotional acts](%s)"
+msgstr "다른 [광고들/상업적 목적인 행동들] (%s)"
+
+msgid "Supporters will be given VIP status and interesting perks"
+msgstr "지원자들은 VIP와 재미있는 특권을 줍니다"
+
+msgid "Special roles on the official bot server"
+msgstr "공식 봇 채널에서 특정 역할 부여"
+
+msgid "Access to beta features"
+msgstr "베타 테스트 기능 접근"
+
+msgid "Discounts on premium plans"
+msgstr "프리미엄 계획 할인"
+
+msgid "The detected language is **%s** ( %s / `%s` )."
+msgstr "감지된 언어는 **%s** (%s / `%s`)입니다"
+
+msgid "Command Prefix"
+msgstr "커멘드 시작 기호"
+
+msgid "Channels"
+msgstr "채널들"
+
+msgid "Character Quotas / Limits"
+msgstr "글자 수 제한"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Month"
+msgstr "월"
+
+msgid "Total"
+msgstr "총"
+
+msgid "Server's default language is **%s**"
+msgstr "서버의 기본 언어는 **%s**입니다"
+
+msgid "Updated server's language to **%s**"
+msgstr "서버의 언어가 **%s**로 번경됬습니다"
+
+msgid "Server's current text style is **%s**"
+msgstr "서버의 현재 텍스트 스타일은 **%s**입니다"
+
+msgid "Server's text style has been updated to **%s**"
+msgstr "서버의 텍스트 스타일이 **%s**로 변경되었습니다"
+
+msgid "Server's current prefix is **`%s`**"
+msgstr "현재 서버의 커멘드 시작 기호는 **`%s`**입니다"
+
+msgid "To change prefix, type:"
+msgstr "커멘드 시작 기호 / 프리픽스를 변경하시려면 다음을 입력하세요"
+
+msgid "Server's prefix has been updated to **`%s`**"
+msgstr "서버의 커멘드 시작 기호가 **%s**로 변경되었습니다"
+
+msgid "Linked Channels"
+msgstr "연결된 채널들"
+
+msgid "This server does **not** have any automatic translation groups"
+msgstr "이 서버는 자동 번역 채널이 **아무것도** 없습니다"
+
+msgid "To create an automatic group, type:"
+msgstr "자동 번역 그룹을 만들려면, 다음을 입력하세요:"
+
+msgid "List of Server Auto Groups"
+msgstr "자동 번역 그룹들 리스트"
+
+msgid "No Limit"
+msgstr "제한 없음"
+
+msgid "Will not work in **auto-translated** channels"
+msgstr "**자동 번역된**채널들에 작동하지 않을 것입니다"
+
+msgid "Will not work in **ignored / blocked** channels"
+msgstr "**음소거 / 차단**된 채널들에 작동하지 않을 것입니다"
+
+msgid "Will not work if user has %s role"
+msgstr "유저가 %s역할이 있으면 작동하지 않을 것입니다"
+
+msgctxt "example"
+msgid "Hello World"
+msgstr "안녕 세상"
+
+msgctxt "example"
+msgid "result:"
+msgstr "결과:"
+
+msgctxt "example"
+msgid "I love you"
+msgstr "사랑해"
+
+msgctxt "example"
+msgid "how are you?"
+msgstr "안녕?"
+
+msgctxt "auto mode"
+msgid "Send and Receive"
+msgstr "전송 || 수신"
+
+msgctxt "auto mode"
+msgid "Send only"
+msgstr "_전송_만"
+
+msgctxt "auto mode"
+msgid "Receive only"
+msgstr "_수신_만"
+
+msgctxt "quota"
+msgid "Would you like to extend it? Consider advanced **Premium** plans."
+msgstr ""
+"번역 가능한 글자 수를 더 확장 하고 싶나요? 한번 더 업그레이드된 **프리미엄** 계"
+"획 신청 하는것을 생각해보세요"
+
+msgctxt "voice"
+msgid "Please wait for bot to finish speaking the current TTS message.."
+msgstr "TTS 메시지를 다 말하기 까지 기다려 주시기 바랍니다"
+
+msgctxt "user"
+msgid "%s said:"
+msgstr "%s:"
+
+msgctxt "user"
+msgid "Messages by %s will now be auto translated to **%s**"
+msgstr "%s의 메시지들은 **%s**로 자동 번역 될 것입니다"
+
+msgctxt "to"
+msgid "channel's default language"
+msgstr "채널의 기본 언어"
+
+msgctxt "user"
+msgid "**Stopped** auto translating messages by %s."
+msgstr "%s로 의해 자동 번역이 **멈췄습니다**"
+
+msgctxt "user"
+msgid "%s is **not** being auto translated."
+msgstr "%s가 자동 번역 되지 **않고** 있습니다"
+
+msgctxt "user"
+msgid "%s is already banned from using **Translator** bot."
+msgstr "%s은(는) 이미 **번역 봇**애 의해 벤 되었습니다"
+
+msgctxt "user"
+msgid "%s has been **banned** from using the **Translator** bot."
+msgstr "%s는 **번역 봇**의 부적절한 사용으로 *벤* 되었습니다"
+
+msgctxt "user"
+msgid "%s is now allowed to use **Translator** bot."
+msgstr "%s는 이제 **번역 봇**을 사용할 수 있습니다"
+
+msgctxt "user"
+msgid "%s is already allowed to use **Translator** bot."
+msgstr "%s는 이미 **번역 봇**을 사용할 수 있도록 허용됬습니다"
+
+msgctxt "value"
+msgid "%s - Server Default"
+msgstr "%s - 기본 서버"
+
+msgctxt "value"
+msgid "(default)"
+msgstr "(기본)"
+
+msgctxt "value"
+msgid "Not Set"
+msgstr "설정되지 않음"
+
+msgctxt "value"
+msgid "new language"
+msgstr "새로운 언어"
+
+msgctxt "value"
+msgid "group name"
+msgstr "그룹 이름"
+
+msgctxt "channels"
+msgid "%d linked"
+msgstr "%d 연결됨"
+
+msgctxt "messages"
+msgid "Translated"
+msgstr "번역된 메시지"
+
+msgctxt "channel"
+msgid "%s **updated**:"
+msgstr "%s **업데이트**됨"
+
+msgctxt "channel"
+msgid "%s's current language is **%s**"
+msgstr "%s의 현재 언어는 **%s**입니다"
+
+msgctxt "channel"
+msgid "Updated %s's language to **%s**"
+msgstr "%s의 언어가 **%s**로 업데이트 됨"
+
+msgctxt "channel"
+msgid "%s's current group is **%s**"
+msgstr "%s의 현재 그룹은 **%s**입니다"
+
+msgctxt "channel"
+msgid "%s has been added to the **%s** group."
+msgstr "%s가 **%s** 그룹에 추가 되었습니다"
+
+msgctxt "channel"
+msgid "%s's current mode is **%s**"
+msgstr "%s의 현재 모드는 **%s**입니다"
+
+msgctxt "channel"
+msgid "%s's auto mode has been updated to **%s**"
+msgstr "%s의 자동 모드가 **%s**로 변경 됬거나 업데이트 됬습니다"
+
+msgctxt "channel"
+msgid "%s's current text style is **%s**"
+msgstr "%s의 텍스트 스타일은 **%s**입니다"
+
+msgctxt "channel"
+msgid "%s has been removed from auto group."
+msgstr "%s가 자동 번역 그룹에서 삭제 되었습니다"
+
+msgctxt "auto"
+msgid "Group has been renamed to **%s**"
+msgstr "그룹 이름이 **%s**로 변경되었습니다"
+
+msgctxt "auto"
+msgid "Total Groups"
+msgstr "연결된 그룹들"
+
+msgctxt "feature"
+msgid "Translate custom messages"
+msgstr "특정 메시지들 번역 지원"
+
+msgctxt "feature"
+msgid "Translate messages by reacting with a flag emoji"
+msgstr "국기 이모지로 반응 추가해 텍스트 번역 지원"
+
+msgctxt "feature"
+msgid "Translate to multiple languages at once"
+msgstr "한 번에 여러 언어로 번역 가능"
+
+msgctxt "feature"
+msgid "Automatic translation of channels"
+msgstr "특정 채널의 자동 번역 지원"
+
+msgctxt "feature"
+msgid "Automatic translations of specific users"
+msgstr "특정 유저의 자동 번역 지원"
+
+msgctxt "feature"
+msgid "Supports custom prefixes"
+msgstr "특정 커멘드 시작 기호 (프리픽스) 지원"
+
+msgctxt "feature"
+msgid "Supports 110+ languages"
+msgstr "110개 이상의 언어 지원"
+
+msgctxt "feature"
+msgid "Disable"
+msgstr "비활성화"
+
+msgctxt "website"
+msgid "Certified by %s"
+msgstr "%s에 의해 증명됨"
+
+msgctxt "company"
+msgid "Made with `❤` by %s"
+msgstr "%s가 `♥`와 함께 만듬"
+
+msgctxt "language"
+msgid "to"
+msgstr "~에게"
+
+msgctxt "language"
+msgid "from"
+msgstr "~에서"
+
+msgctxt "function"
+msgid "Stopping"
+msgstr "멈추는중"
+
+msgctxt "notice"
+msgid "Important"
+msgstr "중요"
+
+msgctxt "mention"
+msgid "@user"
+msgstr "@유저"
+
+msgctxt "keyword"
+msgid "Any message ending with `%s` or `%s` will be ignored by the bot."
+msgstr "`%s`나`%s`로 끝나는 텍스트는 봇에 의해 번역되지 않을 것입니다"
+
+msgctxt "brackets"
+msgid "Any words inside %s or %s will be ignored by the bot."
+msgstr "%s나%s에 들어가 있는 단어는 봇에 의해 번역되지 않을 것입니다"
+
+msgctxt "command"
+msgid "Default Prefix"
+msgstr "기본 커멘드 호출 기호 (프리픽스)"
+
+msgctxt "translated"
+msgid "Characters Today"
+msgstr "오늘 번역 된 글자 수"
+
+msgctxt "translated"
+msgid "Characters this Month"
+msgstr "이번 달에 번역 된 글자 수"
+
+msgctxt "translated"
+msgid "Characters Total"
+msgstr "번역 된 총 글자 수"
+
+msgctxt "translated"
+msgid "Messages Total"
+msgstr "번역 된 총 글자 수"
+
+msgctxt "premium"
+msgid "Plan"
+msgstr "계획"
+
+msgctxt "characters"
+msgid "Per Message"
+msgstr "메세지 당"
