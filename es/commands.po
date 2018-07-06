@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "t"
+msgstr "t"
+
+msgid "translate"
+msgstr "traducir"
+
+msgid "translator"
+msgstr "traductor"
+
+msgid "about"
+msgstr "acerca"
+
+msgid "help"
+msgstr "ayuda"
+
+msgid "commands"
+msgstr "comandos"
+
+msgid "version"
+msgstr "versión"
+
+msgid "invite"
+msgstr "invitar"
+
+msgid "install"
+msgstr "instalar"
+
+msgid "join"
+msgstr "unirse"
+
+msgid "contact"
+msgstr "contacto"
+
+msgid "list"
+msgstr "lista"
+
+msgid "language"
+msgstr "idioma"
+
+msgid "languages"
+msgstr "idiomas"
+
+msgid "vip"
+msgstr "vip"
+
+msgid "perks"
+msgstr "beneficios"
+
+msgid "custom"
+msgstr "personalizada"
+
+msgid "last"
+msgstr "último"
+
+msgid "detect"
+msgstr "detectar"
+
+msgid "voice"
+msgstr "voz"
+
+msgid "speak"
+msgstr "hablar"
+
+msgid "settings"
+msgstr "ajustes"
+
+msgid "server"
+msgstr "servidor"
+
+msgid "group"
+msgstr "grupo"
+
+msgid "groups"
+msgstr "grupos"
+
+msgid "stop"
+msgstr "detener"
+
+msgid "style"
+msgstr "estilo"
+
+msgid "mode"
+msgstr "modo"
+
+msgid "set"
+msgstr "seleccionar"
+
+msgid "delete"
+msgstr "borrar"
+
+msgid "remove"
+msgstr "remover"
+
+msgid "rename"
+msgstr "renombrar"
+
+msgid "basics"
+msgstr "basicos"
+
+msgid "bot"
+msgstr "robot"
+
+msgid "bots"
+msgstr "robots"
+
+msgid "react"
+msgstr "reaccionar"
+
+msgid "reaction"
+msgstr "reacción"
+
+msgid "emoji"
+msgstr "emoji"
+
+msgid "user"
+msgstr "usuario"
+
+msgid "delete-commands"
+msgstr "eliminar-comando"
+
+msgid "prefix"
+msgstr "prefijo"
+
+msgid "allow"
+msgstr "permitir"
+
+# In spanish we don't have a direct word for ban and unban, so i used the word block and unblock
+#, fuzzy
+msgid "ban"
+msgstr "bloquear"
+
+#, fuzzy
+msgid "unban"
+msgstr "desbloquear"
+
+msgid "channel"
+msgstr "canal"
+
+msgid "auto"
+msgstr "automático"
+
+msgid "both"
+msgstr "ambos"
+
+msgid "send"
+msgstr "enviar"
+
+msgid "receive"
+msgstr "recibir"
+
+msgid "misc"
+msgstr "varios"

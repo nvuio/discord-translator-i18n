@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "**Embed Links** permission is required, please fix or tell an admin."
+msgstr ""
+"**Enlaces incrustados**, es requerida una autorización, por favor reparar o "
+"notificar a un administrador."
+
+msgid "Interactions via Direct/Private messages with bot have been **disabled**."
+msgstr ""
+"Interacciones via mensajes directos/privados entre ambos han sido "
+"**desabilitados**."
+
+msgid "Missing Arguments"
+msgstr "Argumento faltante"
+
+msgid "Missing valid languages and text for translation, please edit to fix."
+msgstr ""
+"Falta el lenguaje válido y el texto para la traducción, por favor editar para "
+"arreglar."
+
+msgid "Missing Text"
+msgstr "Texto faltante"
+
+msgid "Please provide some text for language detection."
+msgstr "Por favor proveer de texto para detectar el idioma."
+
+msgid ""
+"To translate a message, you *need* a message!\n"
+"Please edit your command to include text."
+msgstr ""
+"¡Para traducir un mensaje, tu *necesitas* un mensaje!\n"
+"Por favor edita tu comando para incluir texto."
+
+msgid "Invalid languages argument"
+msgstr "Argumento invalido de los idiomas"
+
+msgid "Incorrect format for from/to argument, please edit to fix."
+msgstr ""
+"Formato incorrecto para desde/a del argumento, por favor editar para corregir."
+
+msgid "Missing Permissions"
+msgstr "Permisos faltantes"
+
+msgid "Please fix that if you're an administrator."
+msgstr "Por favor reparar si eres un administrador."
+
+msgid ""
+"Bot does not have **Manage Roles** or **Manage Nicknames** permissions on this "
+"server."
+msgstr ""
+"El robot no tiene permisos de **Roles administrativos** o **Sobrenombres "
+"administrativos** en este servidor."
+
+msgid ""
+"Bot cannot assign the role **%s** because it is beyond the bot's highest role. "
+"You can fix it by **moving** the bot's primary role (`%s`) higher in the roles "
+"list."
+msgstr ""
+"El robot no puede asignar el rol **%s** porque es superior a su rol más alto. "
+"Puedes repararlo **moviendo** el rol primario del robot (`%s`) al punto más alto "
+"de la lista."
+
+msgid "Invalid Channel"
+msgstr "Canal invalido"
+
+msgid ""
+"The channel %s seems to be either **invalid** or **unreachable** in your server. "
+"Contact an administrator for support."
+msgstr ""
+"El canal %s parece ser ya sea **invalido** o **inalcanzable** en tu servidor. "
+"Contacta un administrador para soporte."
+
+msgid "Invalid Language(s)"
+msgstr "Idioma(s) inválido(s)"
+
+msgid "Translator could not recognize the following as valid languages:"
+msgstr "El traductor no pudo reconocer los siguientes como idiomas válidos:"
+
+msgid "Missing Language"
+msgstr "Idioma faltante"
+
+msgid ""
+"Please specify a **valid language** for translation (Can be ISO code or name)."
+msgstr ""
+"Por favor especificar un **idioma válido** para traducción (puede ser código ISO "
+"o nombre)."
+
+msgid "Explain yourself"
+msgstr "Explicate"
+
+msgid "One does not simply translate to `Auto`"
+msgstr "Uno simplemente no traduce a `Automático`"
+
+msgid "Bad Text Format"
+msgstr "Mal formato de texto"
+
+msgid "The supplied translation text has an invalid format."
+msgstr "La traducción del texto proporcionado tiene un formato inválido."
+
+msgid "Please report the issue at the official **[support server](%s)**."
+msgstr "Por favor reporta este problema al **[servidor de soporte](%s)** oficial."
+
+# The translation reffers that they put a wrong user
+#, fuzzy
+msgid "Bad User"
+msgstr "Usuario incorrecto"
+
+msgid "Some bots and banned users are not allowed to be auto translated."
+msgstr ""
+"Algunos robots y usuarios bloqueados no tienen permitido traducción automática."
+
+msgid ""
+"If this is a mistake, please report the issue at the official **[support server]"
+"(%s)**."
+msgstr ""
+"Si es un error, por favor reportar este problema al **[servidor de soporte]"
+"(%s)** oficial."
+
+msgid "Invalid Translation Data"
+msgstr "Datos inválidos de traducción"
+
+msgid "Looks like something went wrong while processing your request."
+msgstr "Parece que algo salió mal mientras se procesaba tu solicitud."
+
+msgid "Text is too looong"
+msgstr "El texto es muuuy laaaaargo"
+
+msgid "Could you please split your message into smaller chunks? Thanks!"
+msgstr "¿Podrías dividir tu mensaje en partes más pequeñas? ¡Gracias!"
+
+msgid "Google is Angry"
+msgstr "Google está enojado"
+
+msgid "Translation refused by Google."
+msgstr "Traducción rechazada por Google."
+
+msgid "Role Assignment Failed"
+msgstr "Asignación del rol fallido"
+
+msgid "Could not update user's role due to a Discord error."
+msgstr "No se pudo actualizar el rol del usuario debido a un error de Discord."
+
+msgid "Send Error"
+msgstr "Enviar error"
+
+msgid "Discord refused to deliver message."
+msgstr "Discord se negó a enviar el mensaje."
+
+msgid "Flag Reaction Limit"
+msgstr "Bandera límite de reacción"
+
+msgid ""
+"That message has been translated to too many languages and cannot be translated "
+"any further..."
+msgstr ""
+"Ese mensaje ha sido traducido a muchos idiomas y no puede traducirse más..."
+
+msgid "Missing Access to History"
+msgstr "Historia de acceso faltante"
+
+msgid ""
+"The bot cannot view **message history** here. Please enable that to properly "
+"translate old messages written in this channel."
+msgstr ""
+"El robot no puede ver aquí la **historia del mensaje**. Por favor habilitarlo "
+"para traducir correctamente mensajes antiguos escritos en este canal."
+
+msgid "Command Disabled (%s)"
+msgstr "Comando deshabilitado (%s)"
+
+msgid ""
+"The `last` translation command has been disabled in favour of **reactions** and "
+"**automatic** translations, and also to prevent abuse."
+msgstr ""
+"El `último` comando de traducción ha sido deshabilitado en favor a "
+"**reacciones** y traducciones **automáticas**, y también para prevenir abuso."
+
+msgid "Invalid Channels in Group"
+msgstr "Canales inválidos en el grupo"
+
+msgid "Could **not** auto translate to the following channels:"
+msgstr "Podrías **no** auto traducir los siguientes canales:"
+
+msgid ""
+"Please make sure the bot has **read**, **send**, **embed links** and **history** "
+"permissions in all channels."
+msgstr ""
+"Por favor asegúrese que el robot tiene los permisos **leído**, **enviado**, "
+"**incurstado enlaces** e **historia** en todos los canales."
+
+msgid "The `%s` command is reserved for server **moderators** and **admins** only."
+msgstr ""
+"El comando `%s` está reservado sólo para **moderadores** y **administradores** "
+"del servidor."
+
+msgid "The `%s` command is reserved for server **administrators** only."
+msgstr "El comando `%s` está reservado sólo para **administradores** del servidor."
+
+msgid "This channel is **not** part of any automatic translation group."
+msgstr "Este canal **no** es parte de un ningún grupo de traducción automática."
+
+msgid "Please make sure the name is %d to %d characters long."
+msgstr "Por favor asegúrese que el nombre sea de %d a %d caracteres de largo."
+
+msgid "Invalid Auto Mode"
+msgstr "Modo automático inválido"
+
+msgid "Invalid Style"
+msgstr "Estilo inválido"
+
+msgid "`%s` is **not** a valid text style. The allowed styles are:"
+msgstr "`%s` **no** es un estilo de texto válido. Los estilos permitidos son:"
+
+msgid "Nickname Error"
+msgstr "Error de sobrenombre"
+
+msgid ""
+"Could not change the user's nickname while setting custom language. This usually "
+"happens if the user is an **admin** or **server owner**."
+msgstr ""
+"No se pudo cambiar el sobrenombre del usuario mientras se configuraba el idioma "
+"personalizado. Esto sucede usualmente si el usuario es un **admin** o "
+"**propietario del servidor**."
+
+msgid ""
+"In this case, change the user's nickname manually to add `--lang` at end like "
+"the following example:"
+msgstr ""
+"En este caso, cambie el sobrenombre del usuario manualmente para agregar `--"
+"lang` al final, como en el siguiente ejemplo:"
+
+msgid "Bad Request"
+msgstr "Solicitud fallida"
+
+msgid "Could not handle your request."
+msgstr "No se pudo manejar su solicitud."
+
+msgid "Bad Data"
+msgstr "Datos inválidos"
+
+msgid "Could not handle your request due to an internal error."
+msgstr "No se pudo manejar su solicitud debido a un error interno."
+
+msgid "Your server has reached its **maxiumum allowed** auto groups quota."
+msgstr "Tu servido ha alcanzado su cuota **máxima permitida** de auto grupos."
+
+msgid "The group **`%s`** has reached its **maximum** allowed linked channels."
+msgstr ""
+"El grupo **`%s`** ha alcanzado el **máximo** de canales enlazados permitidos."
+
+msgid "Your server has reached its **%s** translation quota of **%s** characters."
+msgstr ""
+"Tu servidor ha alcanzado su **%s** cuota de traducciones **%s** de caracteres."
+
+msgid "Voice Connection Failed"
+msgstr "Conexión de voz fallida"
+
+msgid ""
+"Bot could not join the voice channel, please check if it has the neccessary "
+"permissions."
+msgstr ""
+"No se pudo unir al canal de voz, por favor revise si tiene los permisos "
+"necesarios."
+
+msgid "Voice Channel Full"
+msgstr "Canal de voz lleno"
+
+msgid "Bot could not join the voice channel, because it is **full**!"
+msgstr "El robot no pudo unir el canal de voz, ¡porque está **lleno**!"
+
+msgid ""
+"You have to be **connected** to a **Voice Channel**  for transmitting translated "
+"TTS messages."
+msgstr ""
+"Debes estar **conectado** a un **Canal de voz** para transmitir mensajes TTS "
+"traducidos."
+
+msgid "Text to Speech Failed"
+msgstr "Texto a voz fallido"
+
+msgid "Could not proccess your TTS request."
+msgstr "No se pudo procesar tu solicitud TTS."
+
+msgid "Missing Voice Permissions"
+msgstr "Faltan los permisos de voz"
+
+msgid ""
+"Please make sure the bot has **Speak** and **Connect** permissions for the Voice "
+"Channel."
+msgstr ""
+"Por favor asegúrese que el robot tiene los permisos **Hablar** y **Conectar** en "
+"el canal de voz."
+
+msgid "But wait!"
+msgstr "¡Espera!"
+
+msgid "It seems that **%s** is already set for **%s**."
+msgstr "Parece que **%s** ya ha sido asignado para **%s**."
+
+msgid "Free Service Disabled"
+msgstr "Servicio gratuito deshabilitado"
+
+msgid ""
+"The free translation service of Discord Translator has ended, to use the bot, "
+"you must __pay__ for a premium plan."
+msgstr ""
+"El servicio gratuito de traducción del Traductor de Discord ha finalizado, para "
+"usar el robot, debes __pagar__ para un plan premium."
+
+msgid "Text to Speech Disabled"
+msgstr "Texto a voz deshabilitado"
+
+msgid ""
+"This experimental feature has been disabled due to bad performance. It will be "
+"added back once the lag issues are resolved."
+msgstr ""
+"Esta opción experimental ha sido deshabilitada debido a un mal desempeño. Será "
+"agregada de nuevo cuando el problema del retardo sea solucionado."
+
+msgid "This channel is **not** linked to an automatic group."
+msgstr "Este canal **no** está vinculado a un grupo automático."
+
+msgid "Attention:"
+msgstr "Atención:"
+
+msgid "This server has reached its maximum allowed character translation quota."
+msgstr ""
+"Este servidor ha alcanzado la cuota máxima permitida de caracteres a traducir."
+
+msgid "The bot will not translate any more messages."
+msgstr "El robot no traducirá mas mensajes."
+
+msgid "Consider renewing or extending your premium plan."
+msgstr "Considere renovar o extender su plan premium."
+
+msgctxt "direct messages"
+msgid "DMs Disabled"
+msgstr "Mensajes directos deshabilitados"
+
+msgctxt "channel"
+msgid "Bot does not have **read**/**write**/**embed** permissions at %s"
+msgstr "El robot no tiene permisos de **leer**/**escribir**/**incrustar** en %s"
+
+msgctxt "admin"
+msgid ""
+"If you are one, and still having issues, please report to the **[support server]"
+"(%s)**."
+msgstr ""
+"Si eres uno, y aún tienes problemas, por favor reportarlo al **[servidor de "
+"soporte](%s)**."
+
+msgctxt "auto"
+msgid "Channel not part of Group"
+msgstr "Este canal no es parte del grupo"
+
+msgctxt "auto"
+msgid "Invalid Group Name"
+msgstr "Nombre inválido del grupo"
+
+msgctxt "name"
+msgid "`%s` is **not** a valid group name."
+msgstr "`%s` **no** es un nombre válido de grupo."
+
+msgctxt "command"
+msgid "Invalid Prefix"
+msgstr "Profijo inválido"
+
+msgctxt "command"
+msgid "`%s` is **not** a valid prefix code."
+msgstr "`%s` **no** es un código de prefijo válido."
+
+msgctxt "mode"
+msgid "`%s` is **not** a valid mode for auto translation. The allowed modes are:"
+msgstr "`%s` **no** es un modo válido para auto traducción. Los permitidos son:"
