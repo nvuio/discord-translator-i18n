@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "Afrikaans"
+msgstr "アフリカーンス語"
+
+msgid "Albanian"
+msgstr "アルバニア語"
+
+msgid "Amharic"
+msgstr "アムハラ語"
+
+msgid "Arabic"
+msgstr "アラビア語"
+
+msgid "Armenian"
+msgstr "アルメニア語"
+
+msgid "Azerbaijani"
+msgstr "アゼルバイジャン語"
+
+msgid "Basque"
+msgstr "バスク語"
+
+msgid "Belarusian"
+msgstr "ベラルーシ語"
+
+msgid "Bengali"
+msgstr "ベンガル語"
+
+msgid "Bosnian"
+msgstr "ボスニア語"
+
+msgid "Bulgarian"
+msgstr "ブルガリア語"
+
+msgid "Catalan"
+msgstr "カタロニア語"
+
+msgid "Cebuano"
+msgstr "セブアノ語"
+
+msgid "Chichewa"
+msgstr "チチェワ語"
+
+msgid "Simplified Chinese"
+msgstr "簡体字中国語"
+
+msgid "Traditional Chinese"
+msgstr "繁体字中国語"
+
+msgid "Corsican"
+msgstr "コルシカ語"
+
+msgid "Croatian"
+msgstr "クロアチア語"
+
+msgid "Czech"
+msgstr "チェコ語"
+
+msgid "Danish"
+msgstr "デンマーク語"
+
+msgid "Dutch"
+msgstr "オランダ語"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Esperanto"
+msgstr "エスペラント語"
+
+msgid "Estonian"
+msgstr "エストニア語"
+
+msgid "Tagalog"
+msgstr "タガログ語"
+
+msgid "Finnish"
+msgstr "フィンランド語"
+
+msgid "French"
+msgstr "フランス語"
+
+msgid "Frisian"
+msgstr "フリジア語"
+
+msgid "Galician"
+msgstr "ガリシア語"
+
+msgid "Georgian"
+msgstr "ジョージア語"
+
+msgid "German"
+msgstr "ドイツ語"
+
+msgid "Greek"
+msgstr "ギリシャ語"
+
+msgid "Gujarati"
+msgstr "グジャラート語"
+
+msgid "Haitian"
+msgstr "ハイチ語"
+
+msgid "Hausa"
+msgstr "ハウサ語"
+
+msgid "Hawaiian"
+msgstr "ハワイ語"
+
+msgid "Hebrew"
+msgstr "ヘブライ語"
+
+msgid "Hindi"
+msgstr "ヒンディー語"
+
+msgid "Hmong"
+msgstr "モン語"
+
+msgid "Hungarian"
+msgstr "ハンガリー語"
+
+msgid "Icelandic"
+msgstr "アイスランド語"
+
+msgid "Igbo"
+msgstr "イグボ語"
+
+msgid "Indonesian"
+msgstr "インドネシア語"
+
+msgid "Irish"
+msgstr "アイルランド語"
+
+msgid "Italian"
+msgstr "イタリア語"
+
+msgid "Japanese"
+msgstr "日本語"
+
+msgid "Javanese"
+msgstr "ジャワ語"
+
+msgid "Kannada"
+msgstr "カンナダ語"
+
+msgid "Kazakh"
+msgstr "カザフ語"
+
+msgid "Khmer"
+msgstr "クメール語"
+
+msgid "Korean"
+msgstr "韓国語"
+
+msgid "Kurdish"
+msgstr "クルド語"
+
+msgid "Kyrgyz"
+msgstr "キルギス語"
+
+msgid "Lao"
+msgstr "ラーオ語"
+
+msgid "Latin"
+msgstr "ラテン語"
+
+msgid "Latvian"
+msgstr "ラトビア語"
+
+msgid "Lithuanian"
+msgstr "リトアニア語"
+
+msgid "Luxembourgish"
+msgstr "ルクセンブルク語"
+
+msgid "Macedonian"
+msgstr "マケドニア語"
+
+msgid "Malagasy"
+msgstr "マダガスカル語"
+
+msgid "Malay"
+msgstr "マレー語"
+
+msgid "Malayalam"
+msgstr "マラヤーラム語"
+
+msgid "Maltese"
+msgstr "マルタ語"
+
+msgid "Māori"
+msgstr "マオリ語"
+
+msgid "Marathi"
+msgstr "マラティ語"
+
+msgid "Mongolian"
+msgstr "モンゴル語"
+
+msgid "Burmese"
+msgstr "ビルマ語"
+
+msgid "Nepali"
+msgstr "ネパール語"
+
+msgid "Norwegian"
+msgstr "ノルウェー語"
+
+msgid "Pashto"
+msgstr "パシュトー語"
+
+msgid "Persian"
+msgstr "ペルシア語"
+
+msgid "Polish"
+msgstr "ポーランド語"
+
+msgid "Portuguese"
+msgstr "ポルトガル語"
+
+msgid "Punjabi"
+msgstr "パンジャーブ語"
+
+msgid "Romanian"
+msgstr "ルーマニア語"
+
+msgid "Russian"
+msgstr "ロシア語"
+
+msgid "Samoan"
+msgstr "サモアン語"
+
+msgid "Gaelic Scottish"
+msgstr "スコットランド・ゲール語"
+
+msgid "Serbian"
+msgstr "セルビア語"
+
+msgid "Sotho Southern"
+msgstr "南ソト語"
+
+msgid "Shona"
+msgstr "ショナ語"
+
+msgid "Sindhi"
+msgstr "シンディ語"
+
+msgid "Sinhala"
+msgstr "シンハラ語"
+
+msgid "Slovak"
+msgstr "スロバキア語"
+
+msgid "Slovene"
+msgstr "スロベニア語"
+
+msgid "Somali"
+msgstr "ソマリ語"
+
+msgid "Spanish"
+msgstr "スペイン語"
+
+msgid "Sundanese"
+msgstr "スンダ語"
+
+msgid "Swahili"
+msgstr "スワヒリ語"
+
+msgid "Swedish"
+msgstr "スウェーデン語"
+
+msgid "Tajik"
+msgstr "タジク語"
+
+msgid "Tamil"
+msgstr "タミル語"
+
+msgid "Telugu"
+msgstr "テルグ語"
+
+msgid "Thai"
+msgstr "タイ語"
+
+msgid "Turkish"
+msgstr "トルコ語"
+
+msgid "Ukrainian"
+msgstr "ウクライナ語"
+
+msgid "Urdu"
+msgstr "ウルドゥー語"
+
+msgid "Uzbek"
+msgstr "ウズベキスタン語"
+
+msgid "Vietnamese"
+msgstr "ベトナム語"
+
+msgid "Welsh"
+msgstr "ウェールズ語"
+
+msgid "Xhosa"
+msgstr "コサ語"
+
+msgid "Yiddish"
+msgstr "イディッシュ語"
+
+msgid "Yoruba"
+msgstr "ヨルバ語"
+
+msgid "Zulu"
+msgstr "ズールー語"

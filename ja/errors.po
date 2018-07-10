@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "**Embed Links** permission is required, please fix or tell an admin."
+msgstr "**埋め込みリンク** 権限が必要です。修正するか、管理者に伝えてください。"
+
+msgid "Interactions via Direct/Private messages with bot have been **disabled**."
+msgstr ""
+"ボットとのダイレクト/プライベートによるメッセージのやり取りは**無効**になっていま"
+"す。"
+
+msgid "Missing Arguments"
+msgstr "引数がありません"
+
+msgid "Missing valid languages and text for translation, please edit to fix."
+msgstr "有効な言語と翻訳のテキストがありません。編集して修正してください。"
+
+msgid "Missing Text"
+msgstr "テキストがありません"
+
+msgid "Please provide some text for language detection."
+msgstr "言語を検出するためのテキストを入力してください。"
+
+msgid ""
+"To translate a message, you *need* a message!\n"
+"Please edit your command to include text."
+msgstr ""
+"メッセージを翻訳するには、メッセージが*必要*です！\n"
+"テキストを含むようにコマンドを編集してください。"
+
+msgid "Invalid languages argument"
+msgstr "無効な言語の引数"
+
+msgid "Incorrect format for from/to argument, please edit to fix."
+msgstr "from/to引数の形式が正しくありません。編集して修正してください。"
+
+msgid "Missing Permissions"
+msgstr "権限がありません"
+
+msgid "Please fix that if you're an administrator."
+msgstr "あなたが管理者の場合は修正してください。"
+
+msgid ""
+"Bot does not have **Manage Roles** or **Manage Nicknames** permissions on this "
+"server."
+msgstr ""
+"Botにはこのサーバーの **役職の管理** または **ニックネームの管理** 権限はありませ"
+"ん。"
+
+msgid ""
+"Bot cannot assign the role **%s** because it is beyond the bot's highest role. "
+"You can fix it by **moving** the bot's primary role (`%s`) higher in the roles "
+"list."
+msgstr ""
+"BotはBotの現在の権限より高い権限 **%s** を割り当てることができません。役職リスト"
+"でBotの主要な役職を **動かす** ことで修正できます。"
+
+msgid "Invalid Channel"
+msgstr "チャンネルが無効です"
+
+msgid ""
+"The channel %s seems to be either **invalid** or **unreachable** in your server. "
+"Contact an administrator for support."
+msgstr ""
+"チャンネル %s は、ご使用のサーバーで **無効** または **到達不可** のいずれかのよ"
+"うです。サポートについては、管理者にお問い合わせください。"
+
+msgid "Invalid Language(s)"
+msgstr "言語が無効です。"
+
+msgid "Translator could not recognize the following as valid languages:"
+msgstr "Translatorは以下を有効な言語として認識できませんでした："
+
+msgid "Missing Language"
+msgstr "言語がありません"
+
+msgid ""
+"Please specify a **valid language** for translation (Can be ISO code or name)."
+msgstr ""
+"翻訳には **有効な言語** を指定してください（ISOコードまたは名前が使用可能）。"
+
+msgid "Explain yourself"
+msgstr "どういうことか説明してくれ"
+
+msgid "One does not simply translate to `Auto`"
+msgstr "`自動`翻訳は簡単にできるものではない"
+
+msgid "Bad Text Format"
+msgstr "不正なテキスト形式"
+
+msgid "The supplied translation text has an invalid format."
+msgstr "指定された翻訳テキストの形式が無効です。"
+
+msgid "Please report the issue at the official **[support server](%s)**."
+msgstr "公式**[サポートサーバー] (%s)**に問題を報告してください。"
+
+msgid "Bad User"
+msgstr "良くないユーザー"
+
+msgid "Some bots and banned users are not allowed to be auto translated."
+msgstr ""
+"ボットや禁止されているユーザーの中に、自動翻訳が許可されていないものが含まれてい"
+"ます。"
+
+msgid ""
+"If this is a mistake, please report the issue at the official **[support server]"
+"(%s)**."
+msgstr ""
+"これが間違いの場合は、公式**[サポートサーバー](%s)**に問題を報告してください。"
+
+msgid "Invalid Translation Data"
+msgstr "翻訳データが無効です"
+
+msgid "Looks like something went wrong while processing your request."
+msgstr "あなたの要求した処理は何かが間違っているようです。"
+
+msgid "Text is too looong"
+msgstr "テキストがながーーーいです"
+
+msgid "Could you please split your message into smaller chunks? Thanks!"
+msgstr "メッセージを小分けにしてください。どうも！"
+
+msgid "Google is Angry"
+msgstr "Googleはご立腹です"
+
+msgid "Translation refused by Google."
+msgstr "翻訳がGoogleに拒否されました。"
+
+msgid "Role Assignment Failed"
+msgstr "役職の割当に失敗しました"
+
+msgid "Could not update user's role due to a Discord error."
+msgstr "Discordのエラーによりユーザーの役職を更新できませんでした。"
+
+msgid "Send Error"
+msgstr "送信エラー"
+
+msgid "Discord refused to deliver message."
+msgstr "Discordはメッセージを届けるのを嫌がりました。"
+
+msgid "Flag Reaction Limit"
+msgstr "フラッグリアクション上限"
+
+msgid ""
+"That message has been translated to too many languages and cannot be translated "
+"any further..."
+msgstr ""
+"そのメッセージはあまりにも多くの言語に翻訳されているので、これ以上翻訳できませ"
+"ん..."
+
+msgid "Missing Access to History"
+msgstr "履歴へのアクセス権限がありません"
+
+msgid ""
+"The bot cannot view **message history** here. Please enable that to properly "
+"translate old messages written in this channel."
+msgstr ""
+"ボットは**メッセージの履歴**を見ることはできません。このチャンネルで書かれた古い"
+"メッセージを正しく翻訳するにはこの機能を有効にしてください。"
+
+msgid "Command Disabled (%s)"
+msgstr "コマンド無効 (%s)"
+
+msgid ""
+"The `last` translation command has been disabled in favour of **reactions** and "
+"**automatic** translations, and also to prevent abuse."
+msgstr ""
+"`最後`の翻訳コマンドは**リアクション**や**自動**翻訳の乱用防止のために無効化され"
+"ています。"
+
+msgid "Invalid Channels in Group"
+msgstr "グループ内の無効なチャンネル"
+
+msgid "Could **not** auto translate to the following channels:"
+msgstr "次のチャンネルに自動翻訳できま**せんでした** :"
+
+msgid ""
+"Please make sure the bot has **read**, **send**, **embed links** and **history** "
+"permissions in all channels."
+msgstr ""
+"ボットが全てのチャンネルで**メッセージを読む**、**メッセージを送信**、**埋め込み"
+"リンク**、**メッセージ履歴を読む**の全ての権限を持っていることを確認してくださ"
+"い。"
+
+msgid "The `%s` command is reserved for server **moderators** and **admins** only."
+msgstr ""
+"`%s`コマンドはサーバーの**モデレーター**と**管理者**のとっておきのコマンドです。"
+
+msgid "The `%s` command is reserved for server **administrators** only."
+msgstr "`%s`コマンドはサーバー**管理者**だけのとっておきのコマンドです。"
+
+msgid "This channel is **not** part of any automatic translation group."
+msgstr "このチャンネルは自動翻訳グループの一部に入っていま**せん**。"
+
+msgid "Please make sure the name is %d to %d characters long."
+msgstr "名前が%dから%d文字であることを確認してください。"
+
+msgid "Invalid Auto Mode"
+msgstr "無効な自動モード"
+
+msgid "Invalid Style"
+msgstr "無効なスタイル"
+
+msgid "`%s` is **not** a valid text style. The allowed styles are:"
+msgstr ""
+"`%s`は有効なスタイル**ではありません**。許可されているスタイルは次のとおりです :"
+
+msgid "Nickname Error"
+msgstr "ニックネームエラー"
+
+msgid ""
+"Could not change the user's nickname while setting custom language. This usually "
+"happens if the user is an **admin** or **server owner**."
+msgstr ""
+"カスタム言語の設定中にユーザーのニックネームを変更できませんでした。これは通常、"
+"ユーザーが**管理者**か**サーバーの所有者**だった場合に発生します。"
+
+msgid ""
+"In this case, change the user's nickname manually to add `--lang` at end like "
+"the following example:"
+msgstr ""
+"この場合、次の例のように最後に`--lang`を追加するようにユーザーのニックネームを手"
+"動で変更してください :"
+
+msgid "Bad Request"
+msgstr "要求形式が正しくありません"
+
+msgid "Could not handle your request."
+msgstr "あなたの要求を処理できませんでした。"
+
+msgid "Bad Data"
+msgstr "良くないデータ"
+
+msgid "Could not handle your request due to an internal error."
+msgstr "内部エラーが原因でリクエストを処理できませんでした。"
+
+msgid "Your server has reached its **maxiumum allowed** auto groups quota."
+msgstr "サーバーが許可されている**最大許容**自動グループ割当数に達しました。"
+
+msgid "The group **`%s`** has reached its **maximum** allowed linked channels."
+msgstr "グループ**`%s`**は**最大**許容のリンクされたチャンネル数に達しました。"
+
+msgid "Your server has reached its **%s** translation quota of **%s** characters."
+msgstr "サーバーが**%s**文字の**%s**翻訳割当数に達しています。"
+
+msgid "Voice Connection Failed"
+msgstr "音声接続に失敗しました"
+
+msgid ""
+"Bot could not join the voice channel, please check if it has the neccessary "
+"permissions."
+msgstr ""
+"ボットがボイスチャンネルに参加できませんでした。必要な権限が割り当てられているか"
+"確認してください。"
+
+msgid "Voice Channel Full"
+msgstr "ボイスチャンネルがいっぱいです"
+
+msgid "Bot could not join the voice channel, because it is **full**!"
+msgstr "ボットはボイスチャンネルが**いっぱい**なので参加できませんでした！"
+
+msgid ""
+"You have to be **connected** to a **Voice Channel**  for transmitting translated "
+"TTS messages."
+msgstr ""
+"翻訳されたTTSメッセージを送信するには、**ボイスチャンネル**に**接続**する必要があ"
+"ります。"
+
+msgid "Text to Speech Failed"
+msgstr "テキスト読み上げに失敗"
+
+msgid "Could not proccess your TTS request."
+msgstr "TTSリクエストを処理できませんでした。"
+
+msgid "Missing Voice Permissions"
+msgstr "音声の権限がありません"
+
+msgid ""
+"Please make sure the bot has **Speak** and **Connect** permissions for the Voice "
+"Channel."
+msgstr ""
+"ボットにボイスチャンネルの**発言**と**接続**権限があることを確認してください。"
+
+msgid "But wait!"
+msgstr "チョット待って！"
+
+msgid "It seems that **%s** is already set for **%s**."
+msgstr "**%s**はすでに**%s**が設定されているようです。"
+
+msgid "Free Service Disabled"
+msgstr "無料サービス無効"
+
+msgid ""
+"The free translation service of Discord Translator has ended, to use the bot, "
+"you must __pay__ for a premium plan."
+msgstr ""
+"Discord Translatorの無料翻訳サービスが終了しました。ボットを使用するにはプレミア"
+"ムプランを__購入__する必要があります。"
+
+msgid "Text to Speech Disabled"
+msgstr "読み上げ機能無効"
+
+msgid ""
+"This experimental feature has been disabled due to bad performance. It will be "
+"added back once the lag issues are resolved."
+msgstr ""
+"この実験的な機能は、パフォーマンスが悪いため無効になっています。ラグの問題が解決"
+"されると追加されます。"
+
+msgid "This channel is **not** linked to an automatic group."
+msgstr "このチャンネルは自動グループにリンクされて**いません**。"
+
+msgid "Attention:"
+msgstr "注意 :"
+
+msgid "This server has reached its maximum allowed character translation quota."
+msgstr "このサーバーは最大翻訳可能文字数クオーターに達しました。"
+
+msgid "The bot will not translate any more messages."
+msgstr "ボットはこれ以上メッセージを翻訳しません。"
+
+msgid "Consider renewing or extending your premium plan."
+msgstr "プレミアムプランを更新、または延長することを検討してください。"
+
+msgctxt "direct messages"
+msgid "DMs Disabled"
+msgstr "DM無効"
+
+msgctxt "channel"
+msgid "Bot does not have **read**/**write**/**embed** permissions at %s"
+msgstr ""
+"ボットは%sで**メッセージを読む**/**メッセージを送信**/**埋め込みリンク**の権限を"
+"持っていません"
+
+msgctxt "admin"
+msgid ""
+"If you are one, and still having issues, please report to the **[support server]"
+"(%s)**."
+msgstr "もし、まだ問題がある場合は、**[サポートサーバー](%s)**に報告してください。"
+
+msgctxt "auto"
+msgid "Channel not part of Group"
+msgstr "チャンネルはグループの一部ではない"
+
+msgctxt "auto"
+msgid "Invalid Group Name"
+msgstr "無効なグループ名"
+
+msgctxt "name"
+msgid "`%s` is **not** a valid group name."
+msgstr "`%s`は有効なグループ名**ではありません**。"
+
+msgctxt "command"
+msgid "Invalid Prefix"
+msgstr "無効な接頭辞"
+
+msgctxt "command"
+msgid "`%s` is **not** a valid prefix code."
+msgstr "`%s`は有効な接頭符号**ではありません**。"
+
+msgctxt "mode"
+msgid "`%s` is **not** a valid mode for auto translation. The allowed modes are:"
+msgstr ""
+"`%s`は自動翻訳の有効なモード**ではありません**。許可されているモードは次のとおり"
+"です :"

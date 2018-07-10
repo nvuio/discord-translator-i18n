@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "t"
+msgstr "t"
+
+msgid "translate"
+msgstr "翻訳"
+
+msgid "translator"
+msgstr "翻訳者"
+
+msgid "about"
+msgstr "約"
+
+msgid "help"
+msgstr "ヘルプ"
+
+msgid "commands"
+msgstr "コマンド"
+
+msgid "version"
+msgstr "バージョン"
+
+msgid "invite"
+msgstr "招待する"
+
+msgid "install"
+msgstr "インストール"
+
+msgid "join"
+msgstr "参加する"
+
+msgid "contact"
+msgstr "コンタクト"
+
+msgid "list"
+msgstr "リスト"
+
+msgid "language"
+msgstr "言語"
+
+msgid "languages"
+msgstr "複数の言語"
+
+msgid "vip"
+msgstr "vip"
+
+msgid "perks"
+msgstr "特典"
+
+msgid "custom"
+msgstr "カスタム"
+
+msgid "last"
+msgstr "ラスト"
+
+msgid "detect"
+msgstr "検出する"
+
+msgid "voice"
+msgstr "ボイス"
+
+msgid "speak"
+msgstr "話す"
+
+msgid "settings"
+msgstr "セッティング"
+
+msgid "server"
+msgstr "サーバー"
+
+msgid "group"
+msgstr "グループ"
+
+msgid "groups"
+msgstr "すべてのグループ"
+
+msgid "stop"
+msgstr "ストップ"
+
+msgid "style"
+msgstr "スタイル"
+
+msgid "mode"
+msgstr "モード"
+
+msgid "set"
+msgstr "セット"
+
+msgid "delete"
+msgstr "デリート"
+
+msgid "remove"
+msgstr "除去する"
+
+msgid "rename"
+msgstr "名前の変更"
+
+msgid "basics"
+msgstr "基本"
+
+msgid "bot"
+msgstr "ボット"
+
+msgid "bots"
+msgstr "複数のボット"
+
+msgid "react"
+msgstr "反応する"
+
+msgid "reaction"
+msgstr "反応"
+
+msgid "emoji"
+msgstr "絵文字"
+
+msgid "user"
+msgstr "ユーザー"
+
+msgid "delete-commands"
+msgstr "デリートコマンド"
+
+msgid "prefix"
+msgstr "接頭辞"
+
+msgid "allow"
+msgstr "許す"
+
+msgid "ban"
+msgstr "追放する"
+
+msgid "unban"
+msgstr "追放取り消し"
+
+msgid "channel"
+msgstr "チャンネル"
+
+msgid "auto"
+msgstr "自動"
+
+msgid "both"
+msgstr "どちらも"
+
+msgid "send"
+msgstr "送信する"
+
+msgid "receive"
+msgstr "受け取る"
+
+msgid "misc"
+msgstr "その他"
