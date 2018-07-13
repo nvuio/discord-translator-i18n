@@ -252,7 +252,7 @@ msgstr "Datos inválidos"
 msgid "Could not handle your request due to an internal error."
 msgstr "No se pudo manejar su solicitud debido a un error interno."
 
-msgid "Your server has reached its **maxiumum allowed** auto groups quota."
+msgid "Your server has reached its **maximum allowed** auto groups quota."
 msgstr "Tu servido ha alcanzado su cuota **máxima permitida** de auto grupos."
 
 msgid "The group **`%s`** has reached its **maximum** allowed linked channels."

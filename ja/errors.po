@@ -244,7 +244,7 @@ msgstr "良くないデータ"
 msgid "Could not handle your request due to an internal error."
 msgstr "内部エラーが原因でリクエストを処理できませんでした。"
 
-msgid "Your server has reached its **maxiumum allowed** auto groups quota."
+msgid "Your server has reached its **maximum allowed** auto groups quota."
 msgstr "サーバーが許可されている**最大許容**自動グループ割当数に達しました。"
 
 msgid "The group **`%s`** has reached its **maximum** allowed linked channels."

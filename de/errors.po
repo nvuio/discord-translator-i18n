@@ -260,7 +260,7 @@ msgid "Could not handle your request due to an internal error."
 msgstr ""
 "Deine Anfrage konnte aufgrund eines internen Fehlers nicht bearbeitet werden."
 
-msgid "Your server has reached its **maxiumum allowed** auto groups quota."
+msgid "Your server has reached its **maximum allowed** auto groups quota."
 msgstr "Dein Server hat die Quote an **maximal erlaubten** Auto-Gruppen erreicht."
 
 msgid "The group **`%s`** has reached its **maximum** allowed linked channels."

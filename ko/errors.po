@@ -229,7 +229,7 @@ msgstr "데이터 없음"
 msgid "Could not handle your request due to an internal error."
 msgstr "내부 오류로 인해 요청 사항 실행 불가"
 
-msgid "Your server has reached its **maxiumum allowed** auto groups quota."
+msgid "Your server has reached its **maximum allowed** auto groups quota."
 msgstr "현재 자동 번역 가능방이 **없습니다**"
 
 msgid "The group **`%s`** has reached its **maximum** allowed linked channels."
