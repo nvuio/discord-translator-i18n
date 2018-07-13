@@ -895,7 +895,7 @@ msgstr "maximum"
 
 msgctxt "privacy and terms"
 msgid "By using this bot, you agree to the %s and %s."
-msgstr "Wenn du diesen Bot benutzt, dann stimmst du %s und %s zu."
+msgstr "Wenn du diesen Bot benutzt, dann stimmst du der %s und den %s zu."
 
 msgid "Privacy Policy"
 msgstr "Datenschutzerklärung"
