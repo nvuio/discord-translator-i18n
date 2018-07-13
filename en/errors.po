@@ -322,3 +322,7 @@ msgstr ""
 msgctxt "mode"
 msgid "`%s` is **not** a valid mode for auto translation. The allowed modes are:"
 msgstr ""
+
+msgctxt ""
+msgid "Sending translations through Webhooks requires the bot to have the following permissions: **Manage Webhooks** and **Manage Messages**"
+msgstr ""

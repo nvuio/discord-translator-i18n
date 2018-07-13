@@ -24,3 +24,6 @@ msgstr ""
 
 msgid "Block"
 msgstr ""
+
+msgid "Webhook"
+msgstr ""

@@ -813,3 +813,32 @@ msgstr ""
 msgctxt "characters"
 msgid "Per Message"
 msgstr ""
+
+msgid "maximum"
+msgstr ""
+
+msgctxt "privacy and terms"
+msgid "By using this bot, you agree to the %s and %s."
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Terms of Service"
+msgstr ""
+
+msgid "Translate Webhooks"
+msgstr ""
+
+msgid "Translate other Bots & Webhooks"
+msgstr ""
+
+msgid "Simply add %s to the channel's topic description box to enable translation of all Webhooks in that channel."
+msgstr ""
+
+msgid "The style setting allows you to customize the appearance of the translated messages, here is a list of available styles (click to preview):"
+msgstr ""
+
+msgctxt "translated"
+msgid "Characters Remaining"
+msgstr ""
