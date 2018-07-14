@@ -14,6 +14,9 @@ msgstr ""
 msgid "Box - Top Avatar"
 msgstr "Pudło - Górny Awatar"
 
+msgid "Box - Top Avatar 2"
+msgstr "Pudło - Górny Awatar 2"
+
 msgid "Box - Bottom Avatar"
 msgstr "Pudło - Dolny Awatar"
 
@@ -28,6 +31,9 @@ msgstr "Kompaktowy"
 
 msgid "Oneliner"
 msgstr "Jednoliniowy"
+
+msgid "Oneliner 2"
+msgstr "Jednoliniowy 2"
 
 msgid "Header"
 msgstr "Nagłówek"

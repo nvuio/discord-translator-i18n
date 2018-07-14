@@ -15,6 +15,9 @@ msgstr ""
 msgid "Box - Top Avatar"
 msgstr "Box - Avatar oben"
 
+msgid "Box - Top Avatar 2"
+msgstr "Box - Avatar oben 2"
+
 msgid "Box - Bottom Avatar"
 msgstr "Box - Avatar unten"
 
@@ -29,6 +32,9 @@ msgstr "Kompakt"
 
 msgid "Oneliner"
 msgstr "Einzeiler"
+
+msgid "Oneliner 2"
+msgstr "Einzeiler 2"
 
 msgid "Header"
 msgstr "Kopfzeile"
