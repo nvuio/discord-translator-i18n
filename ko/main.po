@@ -237,7 +237,7 @@ msgid "language(s) to translate to"
 msgstr "번역될 언어"
 
 msgid "explicitly translate from this language"
-msgstr "이 언어에서 노골적인 의미로 번역됬습니다"
+msgstr "번역할 문장의 언어"
 
 msgid "forward message to specific channel"
 msgstr "특정 채널로 메시지 보내기"
