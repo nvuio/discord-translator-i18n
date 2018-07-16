@@ -42,4 +42,4 @@ msgid "Block"
 msgstr "ブロック"
 
 msgid "Webhook"
-msgstr ""
+msgstr "ウェブフック"

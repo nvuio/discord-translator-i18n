@@ -871,34 +871,39 @@ msgid "Per Message"
 msgstr "メッセージあたり"
 
 msgid "maximum"
-msgstr ""
+msgstr "最大"
 
 msgctxt "privacy and terms"
 msgid "By using this bot, you agree to the %s and %s."
-msgstr ""
+msgstr "このボットを使用すると、%sと%sに同意したことになります。"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "個人情報保護方針"
 
 msgid "Terms of Service"
-msgstr ""
+msgstr "利用規約"
 
 msgid "Translate Webhooks"
-msgstr ""
+msgstr "Webhookを翻訳"
 
 msgid "Translate other Bots & Webhooks"
-msgstr ""
+msgstr "他のボットとWebhookを翻訳する"
 
 msgid ""
 "Simply add %s to the channel's topic description box to enable translation "
 "of all Webhooks in that channel."
 msgstr ""
+"チャンネルトピックに%sを追加するだけで、そのチャンネルの全てのWebhookを翻訳で"
+"きるようになります。"
 
 msgid ""
 "The style setting allows you to customize the appearance of the translated "
 "messages, here is a list of available styles (click to preview):"
 msgstr ""
+"スタイル設定では、翻訳されたメッセージの外観をカスタマイズすることができま"
+"す。ここに利用可能なスタイルのリストが書いてあります（クリックしてプレ"
+"ビュー）："
 
 msgctxt "translated"
 msgid "Characters Remaining"
-msgstr ""
+msgstr "残りの文字数"
