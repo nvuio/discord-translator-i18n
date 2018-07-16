@@ -885,34 +885,39 @@ msgid "Per Message"
 msgstr "Por mensaje"
 
 msgid "maximum"
-msgstr ""
+msgstr "máximo"
 
 msgctxt "privacy and terms"
 msgid "By using this bot, you agree to the %s and %s."
-msgstr ""
+msgstr "Al usar este robot, apruebas los %s y %s."
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Políticas de privacidad"
 
 msgid "Terms of Service"
-msgstr ""
+msgstr "Términos del servicio"
 
 msgid "Translate Webhooks"
-msgstr ""
+msgstr "Traducir Webhooks"
 
 msgid "Translate other Bots & Webhooks"
-msgstr ""
+msgstr "Traducir otros Robots y Webhooks"
 
 msgid ""
 "Simply add %s to the channel's topic description box to enable translation "
 "of all Webhooks in that channel."
 msgstr ""
+"Simplemente agrega %s al tema de descripción del canal para habilitar la "
+"traducción de todos los Webhooks en ese canal."
 
 msgid ""
 "The style setting allows you to customize the appearance of the translated "
 "messages, here is a list of available styles (click to preview):"
 msgstr ""
+"Las configuraciones de estilo te permiten personalizar la apariencia de los "
+"mensajes traducidos, aquí tienes una lista de los estilos disponibles (haz "
+"clic para una vista previa):"
 
 msgctxt "translated"
 msgid "Characters Remaining"
-msgstr ""
+msgstr "Caracteres restantes"
