@@ -33,10 +33,10 @@ msgid "Current bot version is %s"
 msgstr "L'attuale versione del bot è %s"
 
 msgid "updates history"
-msgstr "Aggiorna cronologia"
+msgstr "aggiorna cronologia"
 
 msgid "changelog"
-msgstr "Changelog"
+msgstr "changelog"
 
 msgid ""
 "For more info on this command, write %s\n"
@@ -234,7 +234,7 @@ msgid "message"
 msgstr "messaggio"
 
 msgid "language(s) to translate to"
-msgstr "Lingua/e da tradurre in"
+msgstr "lingua/e da tradurre in"
 
 msgid "explicitly translate from this language"
 msgstr "tradurre esplicitamente da questa lingua"
@@ -651,7 +651,7 @@ msgstr "Ti voglio bene"
 
 msgctxt "example"
 msgid "how are you?"
-msgstr "Come stai?"
+msgstr "come stai?"
 
 msgctxt "auto mode"
 msgid "Send and Receive"
@@ -723,11 +723,11 @@ msgstr "Non Impostato"
 
 msgctxt "value"
 msgid "new language"
-msgstr "Nuova lingua"
+msgstr "nuova lingua"
 
 msgctxt "value"
 msgid "group name"
-msgstr "Nome del gruppo"
+msgstr "nome del gruppo"
 
 msgctxt "channels"
 msgid "%d linked"
@@ -879,34 +879,39 @@ msgid "Per Message"
 msgstr "Per Messaggio"
 
 msgid "maximum"
-msgstr ""
+msgstr "massimo"
 
 msgctxt "privacy and terms"
 msgid "By using this bot, you agree to the %s and %s."
-msgstr ""
+msgstr "Usando questo bot acetti la nostra %s e i nostri %s."
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politica sulla Privacy"
 
 msgid "Terms of Service"
-msgstr ""
+msgstr "Termini di Servizio"
 
 msgid "Translate Webhooks"
-msgstr ""
+msgstr "Traduci i Webhook"
 
 msgid "Translate other Bots & Webhooks"
-msgstr ""
+msgstr "Traduci altri Bot & Webhook"
 
 msgid ""
 "Simply add %s to the channel's topic description box to enable translation "
 "of all Webhooks in that channel."
 msgstr ""
+"Semplicemente aggiungi %s al box della descrizione del canale per abilitare "
+"la traduzione di tutti i Webhook in quel canale."
 
 msgid ""
 "The style setting allows you to customize the appearance of the translated "
 "messages, here is a list of available styles (click to preview):"
 msgstr ""
+"Le impostazioni dello stile ti consentono di modificare il look del "
+"messaggio tradotto, qui di seguito c'è una lista di tutti gli stili "
+"disponibili (clicca per una anteprima):"
 
 msgctxt "translated"
 msgid "Characters Remaining"
-msgstr ""
+msgstr "Caratteri rimanenti"
