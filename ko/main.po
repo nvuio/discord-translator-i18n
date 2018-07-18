@@ -546,7 +546,7 @@ msgid "Join [translation team](%s)"
 msgstr "[번역 팀](%s) 참가하기"
 
 msgid "Other [ads/promotional acts](%s)"
-msgstr "다른 [광고들/상업적 목적인 행동들] (%s)"
+msgstr "기타 [광고들/상업적 목적인 행동들] (%s)"
 
 msgid "Supporters will be given VIP status and interesting perks"
 msgstr "지원자들은 VIP와 재미있는 특권을 줍니다"
@@ -822,7 +822,7 @@ msgstr "~에서"
 
 msgctxt "function"
 msgid "Stopping"
-msgstr "멈추는중"
+msgstr "정지 방법"
 
 msgctxt "notice"
 msgid "Important"
