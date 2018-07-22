@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+
+msgid "Box - Top Avatar"
+msgstr "格子-上边的头像"
+
+msgid "Box - Top Avatar 2"
+msgstr "格子-上边的头像2"
+
+msgid "Box - Bottom Avatar"
+msgstr "格子-下边的头像"
+
+msgid "Box - No Avatar"
+msgstr "格子-无头像"
+
+msgid "Box - Big Avatar"
+msgstr "格子-大头像"
+
+msgid "Compact"
+msgstr "紧凑"
+
+msgid "Oneliner"
+msgstr "一行"
+
+msgid "Oneliner 2"
+msgstr "一行2"
+
+msgid "Header"
+msgstr "页头"
+
+msgid "Block"
+msgstr "块"
+
+msgid "Webhook"
+msgstr "Webhook"

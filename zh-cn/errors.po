@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+
+msgid "**Embed Links** permission is required, please fix or tell an admin."
+msgstr "**嵌入链接**需要许可，请修复或告诉管理员。"
+
+msgid ""
+"Interactions via Direct/Private messages with bot have been **disabled**."
+msgstr "通过直接/私有消息与机器人进行的交互已被**禁用**。"
+
+msgid "Missing Arguments"
+msgstr "缺失论点"
+
+msgid "Missing valid languages and text for translation, please edit to fix."
+msgstr "缺少用于翻译的有效语言和字体，请编辑以修复。"
+
+msgid "Missing Text"
+msgstr "缺失字体"
+
+msgid "Please provide some text for language detection."
+msgstr "请提供一些字体用于语言检测。"
+
+msgid ""
+"To translate a message, you *need* a message!\n"
+"Please edit your command to include text."
+msgstr ""
+"若要翻译一条消息，你将**需要**一条消息！\n"
+"请编辑您的命令，也包括字体。"
+
+msgid "Invalid languages argument"
+msgstr "无效语言论点"
+
+msgid "Incorrect format for from/to argument, please edit to fix."
+msgstr "从/到论点的格式不正确，请编辑以修复。"
+
+msgid "Missing Permissions"
+msgstr "缺失权限"
+
+msgid "Please fix that if you're an administrator."
+msgstr "如果你是管理员的话请修一下。"
+
+msgid ""
+"Bot does not have **Manage Roles** or **Manage Nicknames** permissions on "
+"this server."
+msgstr "机器人在此服务器上没有**管理角色**或**管理昵称**权限。"
+
+msgid ""
+"Bot cannot assign the role **%s** because it is beyond the bot's highest "
+"role. You can fix it by **moving** the bot's primary role (`%s`) higher in "
+"the roles list."
+msgstr ""
+"机器人不能指定角色**%s**，因为它超出了机器人的最高角色。您可以通过在角色列表"
+"中将机器人的主要角色(`%s`)更高的位置移动**来修复它**。"
+
+msgid "Invalid Channel"
+msgstr "无效频道"
+
+msgid ""
+"The channel %s seems to be either **invalid** or **unreachable** in your "
+"server. Contact an administrator for support."
+msgstr ""
+"在您的服务器中，频道%s似乎是**无效的**或**不可访问的**。请与管理员联系以获得"
+"支持。"
+
+msgid "Invalid Language(s)"
+msgstr "无效的各种语言"
+
+msgid "Translator could not recognize the following as valid languages:"
+msgstr "翻译员或许会不能辨别以下的有效语言："
+
+msgid "Missing Language"
+msgstr "缺失语言"
+
+msgid ""
+"Please specify a **valid language** for translation (Can be ISO code or "
+"name)."
+msgstr "请为翻译指定**有效语言**(可以是ISO代码或名称)。"
+
+msgid "Explain yourself"
+msgstr "请您自己解释"
+
+msgid "One does not simply translate to `Auto`"
+msgstr "一个人不能简单地翻译成`自动`"
+
+msgid "Bad Text Format"
+msgstr "不好的字体格式"
+
+msgid "The supplied translation text has an invalid format."
+msgstr "被提交的翻译文本拥有无效格式。"
+
+msgid "Please report the issue at the official **[support server](%s)**."
+msgstr "请在官方**[支持服务器](%s)**上报告此问题。"
+
+msgid "Bad User"
+msgstr "劣质用户"
+
+msgid "Some bots and banned users are not allowed to be auto translated."
+msgstr "一些机器人和被禁止的用户不允许被自动翻译。"
+
+msgid ""
+"If this is a mistake, please report the issue at the official **[support "
+"server](%s)**."
+msgstr "如果这是一个错误，请在官方**[支持服务器](%s)**报告问题。"
+
+msgid "Invalid Translation Data"
+msgstr "无效的翻译资讯"
+
+msgid "Looks like something went wrong while processing your request."
+msgstr "看来当您的请求被处理的当儿出现了一些差错。"
+
+msgid "Text is too looong"
+msgstr "字体太长了"
+
+msgid "Could you please split your message into smaller chunks? Thanks!"
+msgstr "您能把您的信息分成小部分吗？谢谢！"
+
+msgid "Google is Angry"
+msgstr "谷歌以生气"
+
+msgid "Translation refused by Google."
+msgstr "翻译以被谷歌回绝。"
+
+msgid "Role Assignment Failed"
+msgstr "角色分配失败"
+
+msgid "Could not update user's role due to a Discord error."
+msgstr "由于Discord的一项错误，无法更新用户角色。"
+
+msgid "Send Error"
+msgstr "发送错误"
+
+msgid "Discord refused to deliver message."
+msgstr "Discord拒绝发送讯息。"
+
+msgid "Flag Reaction Limit"
+msgstr "被标记表情包的限制/极限"
+
+msgid ""
+"That message has been translated to too many languages and cannot be "
+"translated any further..."
+msgstr "这条信息已经被翻译成太多的语言，以不能再被翻译了。。。"
+
+msgid "Missing Access to History"
+msgstr "缺少对历史的访问权限"
+
+msgid ""
+"The bot cannot view **message history** here. Please enable that to properly "
+"translate old messages written in this channel."
+msgstr ""
+"此机器人无法在此查看**消息历史**。请启用此功能以正确翻译此频道中编写的旧邮"
+"件。"
+
+msgid "Command Disabled (%s)"
+msgstr "命令以被删除（%s）"
+
+msgid ""
+"The `last` translation command has been disabled in favour of **reactions** "
+"and **automatic** translations, and also to prevent abuse."
+msgstr "`之前`翻译命令已被禁用，以利于**反应**和**自动**翻译，并防止滥用。"
+
+msgid "Invalid Channels in Group"
+msgstr "群组中的无效频道"
+
+msgid "Could **not** auto translate to the following channels:"
+msgstr "**无法**自动翻译到下列频道："
+
+msgid ""
+"Please make sure the bot has **read**, **send**, **embed links** and "
+"**history** permissions in all channels."
+msgstr "请确保机器人在所有频道中具有**发送**、**嵌入链接**和**历史**权限。"
+
+msgid ""
+"The `%s` command is reserved for server **moderators** and **admins** only."
+msgstr "`%s`命令仅保留给服务器**主持人**和**管理员**。"
+
+msgid "The `%s` command is reserved for server **administrators** only."
+msgstr "`%s`命令仅保留给服务器**管理员**。"
+
+msgid "This channel is **not** part of any automatic translation group."
+msgstr "此频道**不是**任何自动翻译组的部分。"
+
+msgid "Please make sure the name is %d to %d characters long."
+msgstr "请确保名称为%d到%d字符长。"
+
+msgid "Invalid Auto Mode"
+msgstr "无效的自动模式"
+
+msgid "Invalid Style"
+msgstr "无效格式"
+
+msgid "`%s` is **not** a valid text style. The allowed styles are:"
+msgstr "`%s`**不是**有效的文本样式。被允许的样式是："
+
+msgid "Nickname Error"
+msgstr "昵称错误"
+
+msgid ""
+"Could not change the user's nickname while setting custom language. This "
+"usually happens if the user is an **admin** or **server owner**."
+msgstr ""
+"无法在设置自定义语言时更改用户的昵称。如果用户是**管理员**或**服务器拥有者"
+"**，则通常会发生这种情况。"
+
+msgid ""
+"In this case, change the user's nickname manually to add `--lang` at end "
+"like the following example:"
+msgstr "在这种情况下，手动更改用户的昵称，在末尾添加 `--lang`，如下示例所示："
+
+msgid "Bad Request"
+msgstr "不良请求"
+
+msgid "Could not handle your request."
+msgstr "无法处理您的请求。"
+
+msgid "Bad Data"
+msgstr "不良数据"
+
+msgid "Could not handle your request due to an internal error."
+msgstr "由于内部错误，无法处理您的请求。"
+
+msgid "Your server has reached its **maximum allowed** auto groups quota."
+msgstr "您的服务器已达到其**最大允许的**自动群组配额。"
+
+msgid "The group **`%s`** has reached its **maximum** allowed linked channels."
+msgstr "群组**`%s`**已达到其**最大**允许的链接频道。"
+
+msgid ""
+"Your server has reached its **%s** translation quota of **%s** characters."
+msgstr "您的服务器已达到其**%s**转换配额**%s**字符。"
+
+msgid "Voice Connection Failed"
+msgstr "语音连接失败"
+
+msgid ""
+"Bot could not join the voice channel, please check if it has the neccessary "
+"permissions."
+msgstr "机器人无法加入语音频道，请检查它是否具有必要的权限。"
+
+msgid "Voice Channel Full"
+msgstr "语音频道已满"
+
+msgid "Bot could not join the voice channel, because it is **full**!"
+msgstr "机器人无法加入语音频道，因为它已**满**！"
+
+msgid ""
+"You have to be **connected** to a **Voice Channel**  for transmitting "
+"translated TTS messages."
+msgstr "您必须**连接**到一个**语音频道**来传输翻译后的TTS消息。"
+
+msgid "Text to Speech Failed"
+msgstr "语篇转换失败"
+
+msgid "Could not proccess your TTS request."
+msgstr "无法处理您的TTS请求。"
+
+msgid "Missing Voice Permissions"
+msgstr "缺少语音权限"
+
+msgid ""
+"Please make sure the bot has **Speak** and **Connect** permissions for the "
+"Voice Channel."
+msgstr "请确保机器人拥有语音频道的**讲**和**连接**权限。"
+
+msgid "But wait!"
+msgstr "但是请等一等！"
+
+msgid "It seems that **%s** is already set for **%s**."
+msgstr "似乎**%s**已经设置为**%s**。"
+
+msgid "Free Service Disabled"
+msgstr "免费服务以被删除"
+
+msgid ""
+"The free translation service of Discord Translator has ended, to use the "
+"bot, you must __pay__ for a premium plan."
+msgstr ""
+"Discord译者的免费翻译服务已经结束，如要使用机器人，您必须__支付__保费计划。"
+
+msgid "Text to Speech Disabled"
+msgstr "字体转语音以被禁用"
+
+msgid ""
+"This experimental feature has been disabled due to bad performance. It will "
+"be added back once the lag issues are resolved."
+msgstr ""
+"由于性能差，此实验功能已被禁用。\n"
+"一旦滞后问题得到解决，它将被添加回去。"
+
+msgid "This channel is **not** linked to an automatic group."
+msgstr "此频道**不能**链接到自动群组。"
+
+msgid "Attention:"
+msgstr "请注意："
+
+msgid ""
+"This server has reached its maximum allowed character translation quota."
+msgstr "此服务器已达到其允许的最大字符翻译配额。"
+
+msgid "The bot will not translate any more messages."
+msgstr "此机器人不会再翻译任何讯息。"
+
+msgid "Consider renewing or extending your premium plan."
+msgstr "考虑更新或延长你的保费计划。"
+
+msgctxt "direct messages"
+msgid "DMs Disabled"
+msgstr "DMs 已被禁止"
+
+msgctxt "channel"
+msgid "Bot does not have **read**/**write**/**embed** permissions at %s"
+msgstr "机器人在%s没有**读**/**写**/**嵌入**权限"
+
+msgctxt "admin"
+msgid ""
+"If you are one, and still having issues, please report to the **[support "
+"server](%s)**."
+msgstr "如果您是其中之一，并且仍然有问题，请向**[支持服务器](%s)**报告。"
+
+msgctxt "auto"
+msgid "Channel not part of Group"
+msgstr "频道不是群组的一部分"
+
+msgctxt "auto"
+msgid "Invalid Group Name"
+msgstr "无效的群组名字"
+
+msgctxt "name"
+msgid "`%s` is **not** a valid group name."
+msgstr "`%s`**不是**一个有效的群组名字。"
+
+msgctxt "command"
+msgid "Invalid Prefix"
+msgstr "无效前缀"
+
+msgctxt "command"
+msgid "`%s` is **not** a valid prefix code."
+msgstr "`%s`是**不是**有效的前缀代码。"
+
+msgctxt "mode"
+msgid ""
+"`%s` is **not** a valid mode for auto translation. The allowed modes are:"
+msgstr "`%s`不是自动翻译的有效模式。所允许的模式是："
+
+msgctxt ""
+msgid ""
+"Sending translations through Webhooks requires the bot to have the following "
+"permissions: **Manage Webhooks** and **Manage Messages**"
+msgstr ""
+"通过Webhooks发送翻译需要机器人具有以下权限：**管理Webhooks **和**管理消息**"

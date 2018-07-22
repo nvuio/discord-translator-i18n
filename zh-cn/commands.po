@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 2.0.9\n"
+
+msgid "t"
+msgstr "t"
+
+msgid "translate"
+msgstr "翻译"
+
+msgid "translator"
+msgstr "翻译员"
+
+msgid "about"
+msgstr "有关"
+
+msgid "help"
+msgstr "帮助"
+
+msgid "commands"
+msgstr "命令"
+
+msgid "version"
+msgstr "版本"
+
+msgid "invite"
+msgstr "邀请"
+
+msgid "install"
+msgstr "安装"
+
+msgid "join"
+msgstr "加入/参与"
+
+msgid "contact"
+msgstr "联系"
+
+msgid "list"
+msgstr "列表"
+
+msgid "language"
+msgstr "语言"
+
+msgid "languages"
+msgstr "各种语言"
+
+msgid "vip"
+msgstr "贵宾会员"
+
+msgid "perks"
+msgstr "津贴"
+
+msgid "custom"
+msgstr "自定式"
+
+msgid "last"
+msgstr "之前的"
+
+msgid "detect"
+msgstr "检测/探测"
+
+msgid "voice"
+msgstr "声音"
+
+msgid "speak"
+msgstr "语音"
+
+msgid "settings"
+msgstr "设定"
+
+msgid "server"
+msgstr "服务器"
+
+msgid "group"
+msgstr "群组"
+
+msgid "groups"
+msgstr "多种群组"
+
+msgid "stop"
+msgstr "终止"
+
+msgid "style"
+msgstr "类型"
+
+msgid "mode"
+msgstr "模式"
+
+msgid "set"
+msgstr "定"
+
+msgid "delete"
+msgstr "删除"
+
+msgid "remove"
+msgstr "移除"
+
+msgid "rename"
+msgstr "重新命名"
+
+msgid "basics"
+msgstr "基本/基础"
+
+msgid "bot"
+msgstr "机器人"
+
+msgid "bots"
+msgstr "多个机器人"
+
+msgid "react"
+msgstr "应对"
+
+msgid "reaction"
+msgstr "反应"
+
+msgid "emoji"
+msgstr "表情包"
+
+msgid "user"
+msgstr "用户"
+
+msgid "delete-commands"
+msgstr "删除-命令"
+
+msgid "prefix"
+msgstr "字首"
+
+msgid "allow"
+msgstr "允许"
+
+msgid "ban"
+msgstr "封号"
+
+msgid "unban"
+msgstr "解除封号"
+
+msgid "channel"
+msgstr "频道"
+
+msgid "auto"
+msgstr "自动"
+
+msgid "both"
+msgstr "都"
+
+msgid "send"
+msgstr "发"
+
+msgid "receive"
+msgstr "接收"
+
+msgid "misc"
+msgstr "杂项"
