@@ -1,0 +1,885 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Prefer talking with a human?"
+msgstr "情願與人力溝通？"
+
+msgid "We'll help you at the official server"
+msgstr "我們會在官方服務器幫助您"
+
+msgid "Join the official Translator bot server"
+msgstr "請加入我們的官方機器人翻譯服務器"
+
+msgid "Get help, report bugs or submit feedback"
+msgstr "請求幫助，舉辦漏洞或提交反饋"
+
+msgid "Here's the link to add **Translator** to your server:"
+msgstr "這裡就是把**翻譯員**加入到您服務器的鏈接："
+
+msgid "Keep all required permissions intact for full functionality."
+msgstr "為了正常操作, 請保持所有需要的完整權限。"
+
+msgid "Current bot version is %s"
+msgstr "此機器人版本為 %s"
+
+msgid "updates history"
+msgstr "更新歷史"
+
+msgid "changelog"
+msgstr "更換登入"
+
+msgid ""
+"For more info on this command, write %s\n"
+" Or visit the **[wiki](%s)** or join the **[support server](%s)**."
+msgstr ""
+"請寫 %s, 就可得到有關此命令的訊息\n"
+"或訪問**[維基](%s)**或加入**[求助服務器](%s)**."
+
+msgid "This message will self-destruct in 1 minute"
+msgstr "此信息將在1分鐘後自動銷毀"
+
+msgid "This message will self-destruct in %d minutes"
+msgstr "此信息將在%d分鐘後自動銷毀"
+
+msgid ""
+"Need help with bot? Check out the **[wiki](%s)** or join the **[official "
+"server](%s)**!"
+msgstr "需要機器人的幫助嗎？拜訪**[wiki](%s)**或加入**[官方服務器](%s)**!"
+
+msgid "Valid Example"
+msgstr "有效的列子"
+
+msgid "Valid Examples"
+msgstr "多種有效的例子"
+
+msgid "For a full list of supported languages, [click here](%s)."
+msgstr "為了得到各種被支持的語言列表,[請點擊這](%s)。"
+
+msgid "If you need help with that, you can visit the **[support server](%s)**."
+msgstr "如果您需要幫助，請訪問**[被支持服務器](%s)**。"
+
+msgid ""
+"Do you want it back? Share your opinion at the **[support server](%s)**."
+msgstr "你需要此物歸還？請在該**[被支持服務器](%s)**分享您的意見。"
+
+msgid "Mods/Admins Command"
+msgstr "管理員命令"
+
+msgid "Admins Only"
+msgstr "只鹹魚管理員"
+
+msgid "Change  **%s**  to  **%s**"
+msgstr "更換 **%s** 成 **%s**"
+
+msgid "Groups Quota"
+msgstr "群組限額"
+
+msgid "More info on our **[website](%s)**, or the **[support server](%s)**."
+msgstr "有關我們**[網站](%s)**更多訊息，或是與**[被支持服務器](%s)**的訊息。"
+
+msgid "Linked Channels per Group Quota"
+msgstr "每個群組鏈接的頻道限額"
+
+msgid "Server Quota"
+msgstr "服務器限額"
+
+msgid "Channel Information"
+msgstr "頻道訊息"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Text Style"
+msgstr "文字格式"
+
+msgid "Translations"
+msgstr "各種翻譯"
+
+msgid "messages"
+msgstr "各種信息"
+
+msgid "Automatic Translation"
+msgstr "自動翻譯"
+
+msgid "Auto Group"
+msgstr "自動式群組"
+
+msgid "Auto Groups"
+msgstr "多種自動式群組"
+
+msgid "Auto Mode"
+msgstr "自動模式"
+
+msgid "no change"
+msgstr "無更改"
+
+msgid "To change language, type:"
+msgstr "若要更換語言，請輸入："
+
+msgid "Example:"
+msgstr "列子："
+
+msgid "Linked Channels in Group"
+msgstr "以與群組鏈接的各種頻道"
+
+msgid "To change group, type:"
+msgstr "若要更換群組，請輸入："
+
+msgid "To change mode, type:"
+msgstr "若要更改模式，請輸入："
+
+msgid "To change style, type:"
+msgstr "若要更改格式，請輸入："
+
+msgid "%s's text style has been updated to **%s**."
+msgstr "%s 的字體格式已被更新為**%s**。"
+
+msgid "Automatic group **%s** has been deleted."
+msgstr "自動式群組**%s**已被刪除。"
+
+msgid ""
+"Discord Translator is the most powerful translation bot for Discord.\n"
+"Based on *Google Cloud Translate* and *Discord.js*."
+msgstr ""
+"Discord翻譯員是Discord最強大的機器人翻譯員。\n"
+"依照*谷歌動態翻譯*與*Discord.js*."
+
+msgid "Read Wiki"
+msgstr "請參考維基"
+
+msgid "Tech support server"
+msgstr "技術支援服務器"
+
+msgid "Translate Text"
+msgstr "翻譯該字體"
+
+msgid "Translate Channel (Automatic)"
+msgstr "翻譯頻道（自動式）"
+
+msgid "Translate User (Automatic)"
+msgstr "翻譯用戶（自動式）"
+
+msgid "Statistics"
+msgstr "統計"
+
+msgid "Server Settings"
+msgstr "服務器設定"
+
+msgid "Text to Speech"
+msgstr "文字轉語音"
+
+msgid "Translate by Reacting"
+msgstr "反應翻譯"
+
+msgid "Translate Other Bots"
+msgstr "翻譯其他機器人"
+
+msgid "Premium Plans"
+msgstr "獨特優惠"
+
+msgid "Report Bugs / Request Features"
+msgstr "舉報漏洞/提議功能"
+
+msgid "Translate Last Message(s)"
+msgstr "翻譯前的訊息(多個）"
+
+msgid ""
+"This command has been disabled as of v.1.0 to prevent abuse.\n"
+"If you want it back please let us know at the support server.."
+msgstr ""
+"此命令已被禁止，這是為了版本1.0後，防止被濫用\n"
+"若您需要該命令再次被准許，請在支援服務器留言。"
+
+msgid ""
+"Translates a message in the server when you react to it with a flag emoji. "
+"For example: %s, %s, %s, %s"
+msgstr ""
+"當您使用標誌表情符號對該訊息做出反應是，請在該服務器中翻譯該消息，列如： %s,"
+"%s,%s,%s"
+
+msgid "To disable this in certain channels, do the following:"
+msgstr "若要在某頻道（多個）刪除該事項，請完成以下步驟："
+
+msgid "Channel Settings > Topic Description > Write %s and save."
+msgstr "頻道設定》話題描述》輸入%s與儲存。"
+
+msgid "Translate Custom Message"
+msgstr "翻譯自定式訊息"
+
+msgid "Translates a custom message entered by user."
+msgstr "翻譯一個被用戶輸入的自定式訊息。"
+
+msgid "#channel"
+msgstr "#頻道"
+
+msgid "message"
+msgstr "訊息"
+
+msgid "language(s) to translate to"
+msgstr "多種語言被翻譯為"
+
+msgid "explicitly translate from this language"
+msgstr "明確的從此語言翻譯"
+
+msgid "forward message to specific channel"
+msgstr "轉發該訊息去特定頻道"
+
+msgid "TTS Text to Speech Translation (Experimental)"
+msgstr "TTS 字體成致辭翻譯（實驗的）"
+
+msgid ""
+"Translates a custom message entered by user and speaks it in the user's "
+"connected voice channel."
+msgstr "翻譯被用戶輸入的自定式訊息與該用戶在鏈接的語音頻道所說的。"
+
+msgid "Examples"
+msgstr "各種例子"
+
+msgid "Command"
+msgstr "命令"
+
+msgid "Parameters"
+msgstr "參數"
+
+msgid "Make sure bot has **Connect** and **Speak** permissions."
+msgstr "確保機器人擁有**鏈接**與**發言**的權力。"
+
+msgid ""
+"Make sure you are **connected** to a Voice Channel before writing command."
+msgstr "在您發命令前，請確保您以**鏈接**語音頻道。"
+
+msgid "View list of **Supported Voice languages**"
+msgstr "查看**支持的語音語言列表**"
+
+msgid "Auto Translate Channel (Single)"
+msgstr "自動式翻譯頻道（單）"
+
+msgid ""
+"Add **auto-translate** inside the channel's topic description, or at the end "
+"of channel name, to automatically translate all messages in that channel to "
+"the default language."
+msgstr ""
+"在該頻道的標題簡介中添加**自動翻譯**， 或添加在該頻道名字的尾端。這是為了可自"
+"動翻譯該頻道所有的訊息為以被默認的語言。"
+
+msgid "Auto Translate Multiple Channels"
+msgstr "自動翻譯多個頻道"
+
+msgid ""
+"Translate new messages in channel and forward them to linked channels in the "
+"same automatic group. Supports custom modes*."
+msgstr ""
+"翻譯該頻道的新信息，然後再轉發到已連接的頻道在相同的自動群組裡。支持自定義模"
+"式*。"
+
+msgid "Current Channel Info"
+msgstr "該頻道信息"
+
+msgid "Set channel's language"
+msgstr "設定該頻道的默認語言"
+
+msgid "Set auto group"
+msgstr "設定自動群組"
+
+msgid "Stop/remove group"
+msgstr "移除群組"
+
+msgid "Set sending mode"
+msgstr "設定轉發模式"
+
+msgid "Set channel text style"
+msgstr "設定頻道字體格式"
+
+msgid "Shortcut command"
+msgstr "捷徑命令"
+
+msgid ""
+"**Modes** set a channel to send messages only, receive only or be fully "
+"synchronized (both send and receive)."
+msgstr "**多個模式**設定頻道為只可發訊息，接收或被完全同步的（轉發與接收）。"
+
+msgid "Auto Translate Users"
+msgstr "自動翻譯用戶"
+
+msgid ""
+"Automatically translates any new messages by specific users in the server "
+"(same channel)."
+msgstr "自動翻譯任何特定用戶在該服務器的新訊息（或同個頻道）。"
+
+msgid "Translate user to channel's default language"
+msgstr "翻譯用戶為該頻道的默認語言"
+
+msgid "Translate user to specific language"
+msgstr "翻譯用戶為特定語言"
+
+msgid "For example:"
+msgstr "列如："
+
+msgid "Ban Users"
+msgstr "禁封鎖用戶"
+
+msgid ""
+"This requires the bot to have **Manage Roles** and **Manage Nicknames** "
+"permissions."
+msgstr "此機器人需要擁有**管理多種角色**與**更換外號**的權限。"
+
+msgid "Allow Other Bots"
+msgstr "准許其他機器人"
+
+msgid ""
+"To allow translation of other bots, simply create a new role called %s and "
+"assign it to the bots you want. (Use at your own risk)"
+msgstr ""
+"若需准許其他機器人的翻譯，你可造出新角色名為%s，然後把該角色指定給你要的機器"
+"人。"
+
+msgid "Stop Channel Automatic Translation"
+msgstr "停止頻道的自動翻譯功能"
+
+msgid "Go to channel and write:"
+msgstr "渠道頻道，然後寫："
+
+msgid "or"
+msgstr "或"
+
+msgid "Alternatively, change the channel's mode"
+msgstr "你可選擇更換頻道模式"
+
+msgid "(receives translated messages only)"
+msgstr "（只接收已翻譯的訊息）"
+
+msgid "(sends translated messages only)"
+msgstr "（只發送已翻譯的訊息）"
+
+msgid "Stop User Automatic Translation"
+msgstr "禁止用戶自動翻譯"
+
+msgid "Ban User from using Translator"
+msgstr "封鎖用戶使用機器人翻譯員"
+
+msgid "Stop translating other Bots"
+msgstr "停止翻譯其他機器人"
+
+msgid "Simply remove the `%s` role from the other bots."
+msgstr "移除其他機器人的`%s`角色。"
+
+msgid "Ignore specific messages"
+msgstr "無視特定訊息"
+
+msgid "Ignore specific words"
+msgstr "無視特定字眼"
+
+msgid "Miscellaneous Commands"
+msgstr "繁雜命令"
+
+msgid "Help"
+msgstr "求助"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Links"
+msgstr "各種鏈接"
+
+msgid "Stats"
+msgstr "統計"
+
+msgid "(bot invite link)"
+msgstr "（機器人邀請鏈接）"
+
+msgid "(official server)"
+msgstr "（官方服務器）"
+
+msgid "Detect Language of Message"
+msgstr "檢測該訊息的語言格式"
+
+msgid ""
+"You can detect the language of a message by reacting to it with a **globe** "
+"emoji (%s).\n"
+"Alternatively, you can use the `%s` command:"
+msgstr ""
+"您可以通過使用**全局**表情(%s)來檢測消息的語言。\n"
+"或者，您也可以使用`%s`命令："
+
+msgid "Auto Delete Bot Commands"
+msgstr "自動式刪除機器人的多種命令"
+
+msgid ""
+"You can choose to have the bot auto delete commands in the channel. All you "
+"have to do is write %s anywhere inside the channel's topic description."
+msgstr ""
+"您可以選擇在頻道中使用機器人/機器人自動刪除命令。您所要做的就是在頻道的主題描"
+"述中的任何位置編寫%s。"
+
+msgid ""
+"This will delete all commands/messages including: help commands, settings, "
+"stats and translate commands for example:"
+msgstr ""
+"這將刪除所有命令/訊息，包括：幫助命令、設置、統計數據和翻譯命令，例如："
+
+msgid "and"
+msgstr "與"
+
+msgid "Translate other Bots"
+msgstr "翻譯其他機器人"
+
+msgid ""
+"By default, Translator will ignore all messages by bots, this is a common "
+"practice to avoid unpredictable behaviours and response-loops."
+msgstr ""
+"默認情況下，翻譯器會忽略機器人發送的所有消息，這是避免不可預測的行為和響應循"
+"環的常見做法。"
+
+msgid ""
+"With that said, if you still wish to translate messages by other bots, you "
+"can do so by creating a member **role** called **can-translate** then assign "
+"it to the bots you wish to translate."
+msgstr ""
+"話雖如此，如果您仍然希望通過其他機器人翻譯訊息，您可以通過創建名為**角色**名"
+"為**can-translate**的成員來這樣做，然後將其分配給您希望翻譯的機器人。"
+
+msgid "Disable/Stop"
+msgstr "禁止"
+
+msgid "Simply remove the %s role from the bots. Or delete the role itself."
+msgstr "只需從機器人中刪除%s角色。或者刪除角色本身。"
+
+msgid "Use at your own risk and report if you experience issues."
+msgstr "使用時要自行承擔風險，如果遇到問題要報告。"
+
+msgid "Server commands are available only to server administrators."
+msgstr "服務器命令權只限於服務器管理員。"
+
+msgid "Current Server Info"
+msgstr "該服務器的信息"
+
+msgid "Set servers's default language"
+msgstr "設定服務器的默認式語言"
+
+msgid "Set servers's custom prefix"
+msgstr "設定服務器的默認字首"
+
+msgid "Set servers's default style"
+msgstr "設定服務器的默認格式"
+
+msgid "View server's automatic groups"
+msgstr "查看服務器的自動群組"
+
+msgid "Supported Languages"
+msgstr "被支持的各種語言"
+
+msgid "For a detailed list, visit the **[wiki page](%s)**."
+msgstr "有關詳細列表，請訪問**[wiki頁面](%s)**。"
+
+msgid "Bot Info"
+msgstr "機器人信息"
+
+msgid "Bot Version"
+msgstr "機器人版本"
+
+msgid "Bot Language"
+msgstr "機器人語言"
+
+msgid "Global Translation Stats"
+msgstr "全球翻譯統計"
+
+msgid "Total Shards"
+msgstr "總碎片"
+
+msgid "Total Servers"
+msgstr "總共服務器"
+
+msgid "Total Channels"
+msgstr "總共的頻道"
+
+msgid ""
+"If you enjoy using this bot then please consider helping with its growth by "
+"various promotional actions listed below:"
+msgstr ""
+"如果你喜歡使用這個機器人，那麼請考慮通過以下各種推廣活動來幫助它的發展："
+
+msgid "How you can help"
+msgstr "你可以如何幫忙"
+
+msgid "Upvote bot on [DBL](%s)"
+msgstr "對[DBL](%s)投贊成票"
+
+msgid "Follow and share bot on [Twitter](%s)"
+msgstr "在[Twitter]上跟踪並共享機器人t(%s)"
+
+msgid "Follow and review bot on [Botlist.co](%s)"
+msgstr "在[Botlist.co](%s)上跟踪並檢查機器人"
+
+msgid "Make a [video review](%s)"
+msgstr "進行[視頻審查](%s)"
+
+msgid "Share bot on [social media](%s)"
+msgstr "在[社交媒體](%s)上分享機器人"
+
+msgid "Join [translation team](%s)"
+msgstr "加入[翻譯團隊](%s)"
+
+msgid "Other [ads/promotional acts](%s)"
+msgstr "其他[廣告/促銷行為](%s)"
+
+msgid "Supporters will be given VIP status and interesting perks"
+msgstr "支持者將獲得貴賓身份和有趣的優惠"
+
+msgid "Special roles on the official bot server"
+msgstr "官方機器人服務器上的特殊角色"
+
+msgid "Access to beta features"
+msgstr "訪問測試版功能"
+
+msgid "Discounts on premium plans"
+msgstr "優惠計劃折扣"
+
+msgid "The detected language is **%s** ( %s / `%s` )."
+msgstr "檢測到的語言是**%s** ( %s / `%s` )。"
+
+msgid "Command Prefix"
+msgstr "命令的字首"
+
+msgid "Channels"
+msgstr "多種頻道"
+
+msgid "Character Quotas / Limits"
+msgstr "字符配額/限制"
+
+msgid "Today"
+msgstr "今日/今天"
+
+msgid "Month"
+msgstr "月份"
+
+msgid "Total"
+msgstr "總共"
+
+msgid "Server's default language is **%s**"
+msgstr "服務器的默認語言是**%s**"
+
+msgid "Updated server's language to **%s**"
+msgstr "將服務器語言更新為**%s**"
+
+msgid "Server's current text style is **%s**"
+msgstr "服務器的當前字體格式是**%s**"
+
+msgid "Server's text style has been updated to **%s**"
+msgstr "服務器的字體格式已更新為**%s**"
+
+msgid "Server's current prefix is **`%s`**"
+msgstr "服務器的當前前綴是**`%s`**"
+
+msgid "To change prefix, type:"
+msgstr "若需更換字首，請輸入："
+
+msgid "Server's prefix has been updated to **`%s`**"
+msgstr "服務器的前綴已更新為**`%s`**"
+
+msgid "Linked Channels"
+msgstr "鏈接多種頻道"
+
+msgid "This server does **not** have any automatic translation groups"
+msgstr "此服務器沒有任何自動翻譯組"
+
+msgid "To create an automatic group, type:"
+msgstr "若要創建一個自動組，請輸入："
+
+msgid "List of Server Auto Groups"
+msgstr "服務器自動群組列表"
+
+msgid "No Limit"
+msgstr "無限"
+
+msgid "Will not work in **auto-translated** channels"
+msgstr "不會在**自動翻譯**頻道中工作"
+
+msgid "Will not work in **ignored / blocked** channels"
+msgstr "將無法在**被忽略/被禁止的**頻道中工作"
+
+msgid "Will not work if user has %s role"
+msgstr "如果用戶具有%s角色，則無法操作"
+
+msgctxt "example"
+msgid "Hello World"
+msgstr "嗨嘍 世界"
+
+msgctxt "example"
+msgid "result:"
+msgstr "結果/成績："
+
+msgctxt "example"
+msgid "I love you"
+msgstr "我愛你"
+
+msgctxt "example"
+msgid "how are you?"
+msgstr "你好嗎？"
+
+msgctxt "auto mode"
+msgid "Send and Receive"
+msgstr "發送與接收"
+
+msgctxt "auto mode"
+msgid "Send only"
+msgstr "只可發送"
+
+msgctxt "auto mode"
+msgid "Receive only"
+msgstr "只可接收"
+
+msgctxt "quota"
+msgid "Would you like to extend it? Consider advanced **Premium** plans."
+msgstr "你想把它延長嗎？請考慮**高級**計劃。"
+
+msgctxt "voice"
+msgid "Please wait for bot to finish speaking the current TTS message.."
+msgstr "請等待機器人完成對當前TTS訊息的發言。 。"
+
+msgctxt "user"
+msgid "%s said:"
+msgstr "%s 說："
+
+msgctxt "user"
+msgid "Messages by %s will now be auto translated to **%s**"
+msgstr "%s的消息將自動被翻譯為**%s**"
+
+msgctxt "to"
+msgid "channel's default language"
+msgstr "頻道的默認語言"
+
+msgctxt "user"
+msgid "**Stopped** auto translating messages by %s."
+msgstr "**停止**%s自動翻譯訊息。"
+
+msgctxt "user"
+msgid "%s is **not** being auto translated."
+msgstr "%s是**沒**被自動翻譯。"
+
+msgctxt "user"
+msgid "%s is already banned from using **Translator** bot."
+msgstr "%s 已被禁止使用**翻譯員**機器人。"
+
+msgctxt "user"
+msgid "%s has been **banned** from using the **Translator** bot."
+msgstr "%s 已被禁止使用**翻譯員**機器人。"
+
+msgctxt "user"
+msgid "%s is now allowed to use **Translator** bot."
+msgstr "%s 已被准許使用**翻譯員**機器人。"
+
+msgctxt "user"
+msgid "%s is already allowed to use **Translator** bot."
+msgstr "%s 已被准許使用**翻譯員**機器人。"
+
+msgctxt "value"
+msgid "%s - Server Default"
+msgstr "%s-服務器默認"
+
+msgctxt "value"
+msgid "(default)"
+msgstr "（默認）"
+
+msgctxt "value"
+msgid "Not Set"
+msgstr "未設定"
+
+msgctxt "value"
+msgid "new language"
+msgstr "新語言"
+
+msgctxt "value"
+msgid "group name"
+msgstr "群組名字"
+
+msgctxt "channels"
+msgid "%d linked"
+msgstr "%d 已被鏈接"
+
+msgctxt "messages"
+msgid "Translated"
+msgstr "已被翻譯"
+
+msgctxt "channel"
+msgid "%s **updated**:"
+msgstr "%s **已被更新**："
+
+msgctxt "channel"
+msgid "%s's current language is **%s**"
+msgstr "%s 當前的語言是**%s**"
+
+msgctxt "channel"
+msgid "Updated %s's language to **%s**"
+msgstr "%s 的語言已被翻譯為**%s**"
+
+msgctxt "channel"
+msgid "%s's current group is **%s**"
+msgstr "%s當前的群組為**%s**"
+
+msgctxt "channel"
+msgid "%s has been added to the **%s** group."
+msgstr "%s 已被添加到**%s**群組。"
+
+msgctxt "channel"
+msgid "%s's current mode is **%s**"
+msgstr "%s 當前的模式為**%s**"
+
+msgctxt "channel"
+msgid "%s's auto mode has been updated to **%s**"
+msgstr "%s 的自動模式已被更新為**%s**"
+
+msgctxt "channel"
+msgid "%s's current text style is **%s**"
+msgstr "%s 當前的字體格式為**%s**"
+
+msgctxt "channel"
+msgid "%s has been removed from auto group."
+msgstr "%s已從自動群組被刪除。"
+
+msgctxt "auto"
+msgid "Group has been renamed to **%s**"
+msgstr "群組以再次被命名為**%s**"
+
+msgctxt "auto"
+msgid "Total Groups"
+msgstr "總共群組"
+
+msgctxt "feature"
+msgid "Translate custom messages"
+msgstr "翻譯自定義訊息"
+
+msgctxt "feature"
+msgid "Translate messages by reacting with a flag emoji"
+msgstr "通過使用標誌表情符號來翻譯消息"
+
+msgctxt "feature"
+msgid "Translate to multiple languages at once"
+msgstr "一次性翻譯為多種語言"
+
+msgctxt "feature"
+msgid "Automatic translation of channels"
+msgstr "頻道的自動翻譯"
+
+msgctxt "feature"
+msgid "Automatic translations of specific users"
+msgstr "特定用戶的自動翻譯"
+
+msgctxt "feature"
+msgid "Supports custom prefixes"
+msgstr "支持自定義前綴"
+
+msgctxt "feature"
+msgid "Supports 110+ languages"
+msgstr "支持超過110種語言"
+
+msgctxt "feature"
+msgid "Disable"
+msgstr "禁用"
+
+msgctxt "website"
+msgid "Certified by %s"
+msgstr "通過%s的認證"
+
+msgctxt "company"
+msgid "Made with `❤` by %s"
+msgstr "使用%s的`❤`製作"
+
+msgctxt "language"
+msgid "to"
+msgstr "向"
+
+msgctxt "language"
+msgid "from"
+msgstr "來自/從"
+
+msgctxt "function"
+msgid "Stopping"
+msgstr "正在停止"
+
+msgctxt "notice"
+msgid "Important"
+msgstr "重要"
+
+msgctxt "mention"
+msgid "@user"
+msgstr "@用戶"
+
+msgctxt "keyword"
+msgid "Any message ending with `%s` or `%s` will be ignored by the bot."
+msgstr "機器人將忽略以`%s`或`%s`結尾的任何消息。"
+
+msgctxt "brackets"
+msgid "Any words inside %s or %s will be ignored by the bot."
+msgstr "機器人將忽略%s或%s中的任何單詞。"
+
+msgctxt "command"
+msgid "Default Prefix"
+msgstr "默認前綴"
+
+msgctxt "translated"
+msgid "Characters Today"
+msgstr "今天翻譯的字符"
+
+msgctxt "translated"
+msgid "Characters this Month"
+msgstr "本月人物"
+
+msgctxt "translated"
+msgid "Characters Total"
+msgstr "總共人物"
+
+msgctxt "translated"
+msgid "Messages Total"
+msgstr "總共訊息"
+
+msgctxt "premium"
+msgid "Plan"
+msgstr "計劃"
+
+msgctxt "characters"
+msgid "Per Message"
+msgstr "每條訊息"
+
+msgid "maximum"
+msgstr "最大"
+
+msgctxt "privacy and terms"
+msgid "By using this bot, you agree to the %s and %s."
+msgstr "通過使用此機器人，請你同以意%s和%s。"
+
+msgid "Privacy Policy"
+msgstr "隱私政策"
+
+msgid "Terms of Service"
+msgstr "服務條款"
+
+msgid "Translate Webhooks"
+msgstr "翻譯Webhooks"
+
+msgid "Translate other Bots & Webhooks"
+msgstr "翻譯其他機器人和Webhooks"
+
+msgid ""
+"Simply add %s to the channel's topic description box to enable translation "
+"of all Webhooks in that channel."
+msgstr "只需將%s添加到頻道的主題描述框中，即可啟用該頻道中所有Webhook的翻譯。"
+
+msgid ""
+"The style setting allows you to customize the appearance of the translated "
+"messages, here is a list of available styles (click to preview):"
+msgstr "樣式設置允許您自定義已翻譯消息的外觀，這是可用樣式列表（單擊預覽）："
+
+msgctxt "translated"
+msgid "Characters Remaining"
+msgstr "剩餘字符"
