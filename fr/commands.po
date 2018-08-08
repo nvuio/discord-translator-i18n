@@ -151,7 +151,7 @@ msgid "auto"
 msgstr "auto"
 
 msgid "both"
-msgstr "bidirectionnel"
+msgstr "les deux"
 
 msgid "send"
 msgstr "envoyer"
@@ -160,4 +160,4 @@ msgid "receive"
 msgstr "recevoir"
 
 msgid "misc"
-msgstr "divers"
+msgstr "autres"
