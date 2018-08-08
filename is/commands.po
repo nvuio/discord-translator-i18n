@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "t"
+msgstr "t"
+
+msgid "translate"
+msgstr "þýðing"
+
+msgid "translator"
+msgstr "þýðandi"
+
+msgid "about"
+msgstr "um"
+
+msgid "help"
+msgstr "hjálp"
+
+msgid "commands"
+msgstr "skipanir"
+
+msgid "version"
+msgstr "útgáfa"
+
+msgid "invite"
+msgstr "bjóða"
+
+msgid "install"
+msgstr "setja upp"
+
+msgid "join"
+msgstr "taka þátt"
+
+msgid "contact"
+msgstr "hafa samband"
+
+msgid "list"
+msgstr "listi"
+
+msgid "language"
+msgstr "tungumál"
+
+msgid "languages"
+msgstr "tungumál"
+
+msgid "vip"
+msgstr "vip"
+
+msgid "perks"
+msgstr "fríðindi"
+
+msgid "custom"
+msgstr "sérsníða"
+
+msgid "last"
+msgstr "síðasta"
+
+msgid "detect"
+msgstr "finna"
+
+msgid "voice"
+msgstr "rödd"
+
+msgid "speak"
+msgstr "tala"
+
+msgid "settings"
+msgstr "stillingar"
+
+msgid "server"
+msgstr "þjón"
+
+msgid "group"
+msgstr "hópur"
+
+msgid "groups"
+msgstr "hópar"
+
+msgid "stop"
+msgstr "stövða"
+
+msgid "style"
+msgstr "stíll"
+
+msgid "mode"
+msgstr "hamur"
+
+msgid "set"
+msgstr "setja"
+
+msgid "delete"
+msgstr "eyða"
+
+msgid "remove"
+msgstr "fjarlægja"
+
+msgid "rename"
+msgstr "endurnefna"
+
+msgid "basics"
+msgstr "grunnatriði"
+
+msgid "bot"
+msgstr "botti"
+
+msgid "bots"
+msgstr "bottar"
+
+msgid "react"
+msgstr "bregðast við"
+
+msgid "reaction"
+msgstr "viðbrögð"
+
+msgid "emoji"
+msgstr "emoji"
+
+msgid "user"
+msgstr "notandi"
+
+msgid "delete-commands"
+msgstr "eyða-skipunum"
+
+msgid "prefix"
+msgstr "forskeyti"
+
+msgid "allow"
+msgstr "leyfa"
+
+msgid "ban"
+msgstr "banna"
+
+msgid "unban"
+msgstr "afbanna"

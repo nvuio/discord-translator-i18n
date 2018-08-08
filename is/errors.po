@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgid "**Embed Links** permission is required, please fix or tell an admin."
+msgstr ""
+"**Embed Links** leyfi er krafist, vinsamlegast lagaðu eða segðu stjórnanda."
+
+msgid "Interactions via Direct/Private messages with bot have been **disabled**."
+msgstr "Samskipti með beinum/einka skilaboðum hafa verið **disabled**."
+
+msgid "Missing Arguments"
+msgstr "Vantar rök"
+
+msgid "Missing valid languages and text for translation, please edit to fix."
+msgstr ""
+"Vantar gilt tungumál og texti til þýðingar, vinsamlegast breyttu til að laga."
+
+msgid "Missing Text"
+msgstr "Vantar texta"
+
+msgid "Please provide some text for language detection."
+msgstr "Vinsamlegast gefðu upp texta til að greina tungumál."
+
+msgid ""
+"To translate a message, you *need* a message!\n"
+"Please edit your command to include text."
+msgstr ""
+"Til að þýða skilaboð, þú *þarft* skilaboð!\n"
+"Vinsamlegast breyttu skipun þinni til að innihalda texta."
+
+msgid "Invalid languages argument"
+msgstr "Ógild tungumálar rök"
+
+msgid "Incorrect format for from/to argument, please edit to fix."
+msgstr "Rangt snið fyrir frá/til rök, breyttu til að laga það."
+
+msgid "Missing Permissions"
+msgstr "Vantar heimildir"
+
+msgid "Please fix that if you're an administrator."
+msgstr "Vinsamlegast lagaðu þetta ef þú ert stjórnandi."
+
+msgid ""
+"Bot does not have **Manage Roles** or **Manage Nicknames** permissions on this "
+"server."
+msgstr ""
+"Botti hefur ekki **Manage Roles** eða **Manage Nicknames** heimildir á þessum "
+"þjóni."
+
+msgid ""
+"Bot cannot assign the role **%s** because it is beyond the bot's highest role. "
+"You can fix it by **moving** the bot's primary role (`%s`) higher in the roles "
+"list."
+msgstr ""
+"Botti getur ekki úthlutað hlutverkinu **%s** því það er yfir hæsta hlutverk "
+"bottans. Þú getur lagað það með því að **moving** aðal hlutverk bottans."
+
+msgid "Invalid Channel"
+msgstr "Ógild rás"
+
+msgid ""
+"The channel %s seems to be either **invalid** or **unreachable** in your server. "
+"Contact an administrator for support."
+msgstr ""
+"Rásin %s virðist vera annaðhvort  **invalid** eða **unreachable** á þínum þjóni. "
+"Hafðu samband við stjórnanda fyrir stuðning."
+
+msgid "Invalid Language(s)"
+msgstr "Ógilt tungumál"
+
+msgid "Translator could not recognize the following as valid languages:"
+msgstr "Þýðandinn gat ekki þekkt eftirfarandi tungumál:"
+
+msgid "Missing Language"
+msgstr "Vantar tungumál"
+
+msgid ""
+"Please specify a **valid language** for translation (Can be ISO code or name)."
+msgstr ""
+"Vinsamlegast tilgreinið **valid language** til þýðingar (Má vera ISO kóði eða "
+"nafn)"
+
+msgid "Explain yourself"
+msgstr "Útskýrðu"
+
+msgid "One does not simply translate to `Auto`"
+msgstr "Einn þýðir ekki einfaldlega að þýða í `Sjálfvirk`"
+
+msgid "Bad Text Format"
+msgstr "Ógilt textasnið"
+
+msgid "The supplied translation text has an invalid format."
+msgstr "Uppgefinn Þýðingartexti er með ógildu sniði."
+
+msgid "Please report the issue at the official **[support server](%s)**."
+msgstr "Vinsamlegast tilkynnið málið á opinbera **[support server](%s)**."
+
+msgid "Bad User"
+msgstr "Ógildur notandi"
+
+msgid "Some bots and banned users are not allowed to be auto translated."
+msgstr "Sumir bottar og bannaðir notendur mega ekki vera sjálfkrafa þýddir."
+
+msgid ""
+"If this is a mistake, please report the issue at the official **[support server]"
+"(%s)**."
+msgstr ""
+"Ef þetta eru mistök skaltu tilkynna málið á opinbera **[support server](%s)**."
+
+msgid "Invalid Translation Data"
+msgstr "Ógild þýðingargögn"
+
+msgid "Looks like something went wrong while processing your request."
+msgstr "Svo virðist sem eitthvað hafi farið úrskeiðis við vinnslu beiðninnar."
+
+msgid "Text is too looong"
+msgstr "Texti er of langur"
+
+msgid "Could you please split your message into smaller chunks? Thanks!"
+msgstr "Viltu vinsamlegast skipta skilaboðunum í smærri hluta? Takk!"
+
+msgid "Google is Angry"
+msgstr "Google er reiður"
+
+msgid "Translation refused by Google."
+msgstr "Þýðing hafnað af Google."
+
+msgid "Role Assignment Failed"
+msgstr "Úthlutun hlutverka mistókst"
+
+msgid "Could not update user's role duo to a Discord error."
+msgstr "Gat ekki uppfært hlutverk notanda vegan Discord villu"
+
+msgid "Send Error"
+msgstr "Senda villu"
+
+msgid "Discord refused to deliver message."
+msgstr "Discord neitaði að afhenda skeyti."
+
+msgid "Flag Reaction Limit"
+msgstr "Flagg viðbragða takmörk"
+
+msgid ""
+"That message has been translated to too many languages and cannot be translated "
+"any further..."
+msgstr ""
+"Þessi skilaboð hafa verið þýdd á of mörg tungumál og ekki er hægt að þýða þau "
+"oftar."
+
+msgid "Missing Access to History"
+msgstr "Vantar aðgang að sögu"
+
+msgid ""
+"The bot cannot view **message history** here. Please enable that to properly "
+"translate old messages written in this channel."
+msgstr ""
+"Botti getur ekki skoðað **message history** her. Vinsamlegast virkjaðu þetta til "
+"að þýða gömul skilaboð sem hafa verið skrifuð á þessari rás."
+
+msgid "Command Disabled (%s)"
+msgstr "Skipun Óvirk ( %s)"
+
+msgid ""
+"The `last` translation command has been disabled in favour of **reactions** and "
+"**automatic** translations, and also to prevent abuse."
+msgstr ""
+"`síðustu` þýðingarskipunin hefur verið gerð óvirk í þágu **reactions** og "
+"**automatic** þýðingar, og einnig til að koma í veg fyrir misnotkun."
+
+msgid "Invalid Channels in Group"
+msgstr "Ógildar rásir í hóp"
+
+msgid "Could **not** auto translate to the following channels:"
+msgstr "Gat **not** notað sjálfvirkan þýða í eftirfarandi Rásum:"
+
+msgid ""
+"Please make sure the bot has **read**, **send**, **embed links** and **history** "
+"permissions in all channels."
+msgstr ""
+"Vinsamlegast Gakktu úr skugga um að botti hafi **read**, **send**, **embed "
+"links** og **history** heimildir í öllum rásum."
+
+msgid "The `%s` command is reserved for server **moderators** and **admins** only."
+msgstr "Skipunin `%s` er tekin frá fyrir **moderators** og  **admins** eingöngu."
+
+msgid "The `%s` command is reserved for server **administrators** only."
+msgstr "Skipunin `%s` er tekin frá fyrir  **admins** eingöngu."
+
+msgid "This channel is **not** part of any automatic translation group."
+msgstr "Þessi rás er **not** hluti af neinum sjálfvirkum þýðingarhóp."
+
+msgid "Please make sure the name is %d to %d characters long."
+msgstr "Vinsamlegast vertu viss um nafnið sé %d til %d stafir á lengd"
+
+msgid "Invalid Auto Mode"
+msgstr "Ógildur sjálfvirkur hamur"
+
+msgid "Invalid Style"
+msgstr "Ógildur stíll"
+
+msgid "`%s` is **not** a valid text style. The allowed styles are:"
+msgstr "`%s` er **not** gildur texta still. Leyfðir stílar eru:"
+
+msgid "Nickname Error"
+msgstr "Gælunafn Villa"
+
+msgid ""
+"Could not change the user's nickname while setting custom language. This usually "
+"happens if the user is an **admin** or **server owner**."
+msgstr ""
+"Gat ekki breytt gælunafni notandans þegar stillt var sérsniðið tungumál. Þetta "
+"gerist venjulega ef notandinn er **admin** eða **server owner**."
+
+msgid ""
+"In this case, change the user's nickname manually to add `--lang` at end like "
+"the following example:"
+msgstr ""
+"Í þessu tilfelli skaltu breyta gælunafni notandans handvirkt til að bæta við `--"
+"lang` í lok eins og eftirfarandi dæmi:"
+
+msgid "Bad Request"
+msgstr "Ógild  beiðni"
+
+msgid "Could not handle your request."
+msgstr "Ekki er hægt að afgreiða beiðni þína."
+
+msgid "Bad Data"
+msgstr "Ógild gögn"
+
+msgid "Could not handle your request duo to an internal error."
+msgstr "Ekki tókst að meðhöndla beiðni vegna innri villu."
+
+msgid "Your server has reached its **maxiumum allowed** auto groups quota."
+msgstr ""
+"Þjónninn þinn hefur náð **hámarks leyfilegum** kvóta fyrir sjálfvirka hópa."
+
+msgid "The group **`%s`** has reached its **maximum** allowed linked channels."
+msgstr "Hópurinn **`%s`** hefur náð sínu **hámarki** af leyfilegum tengdum rásum."
+
+msgid "Your server has reached its **%s** translation quota of **%s** characters."
+msgstr "Þjónninn þinn hefur náð ** %s ** þýðingar kvóta af ** %s ** stöfum."
+
+msgid "Voice Connection Failed"
+msgstr "Radd tenging mistókst"
+
+msgid ""
+"Bot could not join the voice channel, please check if it has the neccessary "
+"permissins."
+msgstr ""
+"Botti gat ekki tekið þátt í raddrásinni, vinsamlegast athugaðu hvort það hafi "
+"nauðsynleg leyfi."
+
+msgid "Voice Channel Full"
+msgstr "Tall rás full"
+
+msgid "Bot could not join the voice channel, because it is **full**!"
+msgstr "Bot gat ekki tekið þátt í raddrásinni, því hún er **full**!"
+
+msgid ""
+"You have to be **connected** to a **Voice Channel**  for transmitting translated "
+"TTS messages."
+msgstr ""
+"Þú verður að vera **tengdur** við **Voice Channel** til að senda þýdd TTS "
+"skilaboð."
+
+msgid "Text to Speech Failed"
+msgstr "Texti til tals mistókst"
+
+msgid "Could not proccess your TTS request."
+msgstr "Ekki er hægt að afgreiða TTS beiðni."
+
+msgid "Missing Voice Permissions"
+msgstr "Raddheimildir vantar"
+
+msgid ""
+"Please make sure the bot has **Speak** and **Connect** permissions for the Voice "
+"Channel."
+msgstr ""
+"Gakktu úr skugga um að bottinn hafi **Tala** og **Tengd** heimildir fyrir "
+"raddrásina."
+
+msgid "But wait!"
+msgstr "En bíddu!"
+
+msgid "It seems that **%s** is already set for **%s**."
+msgstr "Það virðist sem **%s** sé nú þegar sett fyrir **%s **."
+
+msgid "Free Service Disabled"
+msgstr "Frjáls þjónusta óvirk"
+
+msgid ""
+"The free translation service of Discord Translator has ended, to use the bot, "
+"you must __pay__ for a premium plan."
+msgstr ""
+"Ókeypis þýðingar þjónusta hjá Discord Translator hefur verið lokuð, til að nota "
+"bottan, verður þú að borga fyrir iðgjaldsáætlun."
+
+msgid "Text to Speech Disabled"
+msgstr "Texti til tals óvirkur"
+
+msgid ""
+"This experimental feature has been disabled due to bad performance. It will be "
+"added back once the lag issues are resolved."
+msgstr ""
+"Þessi tilraunareiginleikur hefur verið gerður óvirkur vegna lélegrar "
+"frammistöðu. Verður bætt aftur við þegar búið er að laga frammistöðuna."
+
+msgid "This channel is **not** linked to an automatic group."
+msgstr "Þessi rás er **ekki** hluti af neinum sjálfvirkum þýðingarhóp."
+
+msgid "Attention:"
+msgstr "Athugið:"
+
+msgid "This server has reached its maximum allowed character translation quota."
+msgstr "Þessi þjónn hefur náð hámarksfjölda leyfilegra þýðingar kvóta."
+
+msgid "The bot will not translate any more messages."
+msgstr "Bottinn mun ekki þýða fleiri skilaboð."
+
+msgid "Consider renewing or extending your premium plan."
+msgstr "Íhugaðu að endurnýja eða framlengja iðgjaldsáætlunina þína."
+
+msgctxt "direct messages"
+msgid "DMs Disabled"
+msgstr "DMs óvirk"
+
+msgctxt "channel"
+msgid "Bot does not have **read**/**write**/**embed** permissions at %s"
+msgstr "Bot hefur ekki **read**/**write**/**embed** heimildir á %s"
+
+msgctxt "admin"
+msgid ""
+"If you are one, and still having issues, please report to the **[support server]"
+"(%s)**."
+msgstr ""
+"Ef þú ert einn og hefur ennþá vandamál skaltu tilkynna til **[support server]"
+"(%s)**."
+
+msgctxt "auto"
+msgid "Channel not part of Group"
+msgstr "Rás ekki hluti af hóp"
+
+msgctxt "auto"
+msgid "Invalid Group Name"
+msgstr "Ógilt heiti hóps"
+
+msgctxt "name"
+msgid "`%s` is **not** a valid group name."
+msgstr "` %s` er **ekki** gilt heiti hóps."
+
+msgctxt "command"
+msgid "Invalid Prefix"
+msgstr "Ógilt forskeyti"
+
+msgctxt "command"
+msgid "`%s` is **not** a valid prefix code."
+msgstr "` %s` er **ekki** gilt forskeyti."
+
+msgctxt "mode"
+msgid "`%s` is **not** a valid mode for auto translation. The allowed modes are:"
+msgstr ""
+"` %s` er **ekki** gildur hamur fyrir sjálfvirka þýðingu. Leyfðar stillingar eru:"

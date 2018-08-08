@@ -1,0 +1,825 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgid "Prefer talking with a human?"
+msgstr "Kýstu frekar að tala við manneskju?"
+
+msgid "We'll help you at the official server"
+msgstr "Við munum hjálpa þér á þjóninum okkar"
+
+msgid "Join the official Translator bot server"
+msgstr "Skráðu þig inná opinbera þjónn þýðandans"
+
+msgid "Get help, report bugs or submit feedback"
+msgstr "Fáðu hjálp, tilkynntu villur eða sendu inn athugasemdir"
+
+msgid "Here's the link to add **Translator** to your server:"
+msgstr "Hér er tengilinn til að bæta við **Translator** á þjóninn þinn:"
+
+msgid "Keep all required permissions intact for full functionality."
+msgstr "Haltu öllum nauðsynlegum heimildum fyrir fullrar virkni."
+
+msgid "Current bot version is %s"
+msgstr "Núverandi útgáfa er %s"
+
+msgid "updates history"
+msgstr "uppfærslu saga"
+
+msgid "changelog"
+msgstr "Breytinga saga"
+
+msgid ""
+"For more info on this command, write %s\n"
+" Or visit the **[wiki](%s)** or join the **[support server](%s)**."
+msgstr ""
+"Fyrir frekari upplýsingar um þessa skipun, skrifaðu %s\n"
+"Eða farðu á **[wiki] ( %s)** eða taktu þátt í **[support server](%s)**."
+
+msgid "This message will self-destruct in 1 minute"
+msgstr "Þessi skilaboð munu eyðileggja sjálfan sig á 1 mínútu"
+
+msgid "This message will self-destruct in %d minutes"
+msgstr "Þessi skilaboð eyðileggja sjálfan sig á %d mínútum"
+
+msgid ""
+"Need help with bot? Check out the **[wiki](%s)** or join the **[official server]"
+"(%s)**!"
+msgstr ""
+"Þarftu hjálp við bottan? Skoðaðu **[wiki](%s)** eða taktu þátt á **[official "
+"server](%s)**!"
+
+msgid "Valid Example"
+msgstr "Gilt dæmi"
+
+msgid "Valid Examples"
+msgstr "Gild dæmi"
+
+msgid "For a full list of supported languages, [click here](%s)."
+msgstr "Fyrir fullan lista yfir studd tungumál, [click here](%s)."
+
+msgid "If you need help with that, you can visit the **[support server](%s)**."
+msgstr "Ef þú þarft hjálp við það getur þú heimsótt **[support server](%s)**."
+
+msgid "Do you want it back? Share your opinion at the **[support server](%s)**."
+msgstr "Viltu fá það aftur? Deildu áliti þínu á **[support server](%s)**."
+
+msgid "Mods/Admins Command"
+msgstr "Skipun fyrri Stjórnendur"
+
+msgid "Admins Only"
+msgstr "Aðeins fyrir stjórnendur"
+
+msgid "Change  **%s**  to  **%s**"
+msgstr "Breyta **%s**  í  **%s**"
+
+msgid "Groups Quota"
+msgstr "Kvóti fyrir hópa"
+
+msgid "More info on our **[website](%s)**, or the **[support server](%s)**."
+msgstr "Nánari upplýsingar á **[website](%s)** eða **[support server](%s)**."
+
+msgid "Linked Channels per Group Quota"
+msgstr "Tengdar rásir á fyrir hvern hóp kvóta"
+
+msgid "Server Quota"
+msgstr "Þjóns kvóti"
+
+msgid "Channel Information"
+msgstr "Upplýsingar um rásina"
+
+msgid "Language"
+msgstr "Tungumál"
+
+msgid "Text Style"
+msgstr "Textastíll"
+
+msgid "Translations"
+msgstr "Þýðingar"
+
+msgid "messages"
+msgstr "Skilaboð"
+
+msgid "Automatic Translation"
+msgstr "Sjálfvirk þýðing"
+
+msgid "Auto Group"
+msgstr "Sjálfvirk hópur"
+
+msgid "Auto Groups"
+msgstr "Sjálfvirkir hópar"
+
+msgid "Auto Mode"
+msgstr "Sjálfvirk stilling"
+
+msgid "no change"
+msgstr "engar breytingar"
+
+msgid "To change language, type:"
+msgstr "Til að breyta tungumáli skaltu slá inn:"
+
+msgid "Example:"
+msgstr "Dæmi:"
+
+msgid "Linked Channels in Group"
+msgstr ""
+
+msgid "To change group, type:"
+msgstr ""
+
+msgid "To change mode, type:"
+msgstr ""
+
+msgid "To change style, type:"
+msgstr ""
+
+msgid "%s's text style has been updated to **%s**."
+msgstr ""
+
+msgid "Automatic group **%s** has been deleted."
+msgstr ""
+
+msgid ""
+"Discord Translator is the most powerful translation bot for Discord.\n"
+"Based on *Google Cloud Translate* and *Discord.js*."
+msgstr ""
+
+msgid "Read Wiki"
+msgstr ""
+
+msgid "Tech support server"
+msgstr ""
+
+msgid "Translate Text"
+msgstr ""
+
+msgid "Translate Channel (Automatic)"
+msgstr ""
+
+msgid "Translate User (Automatic)"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Server Settings"
+msgstr ""
+
+msgid "Text to Speech"
+msgstr ""
+
+msgid "Translate by Reacting"
+msgstr ""
+
+msgid "Translate Other Bots"
+msgstr ""
+
+msgid "Premium Plans"
+msgstr "Premium áætlanir"
+
+msgid "Report Bugs / Request Features"
+msgstr ""
+
+msgid "Translate Last Message(s)"
+msgstr ""
+
+msgid ""
+"This command has been disabled as of v.1.0 to prevent abuse.\n"
+"If you want it back please let us know at the support server.."
+msgstr ""
+
+msgid ""
+"Translates a message in the server when you react to it with a flag emoji. For "
+"example: %s, %s, %s, %s"
+msgstr ""
+
+msgid "To disable this in certain channels, do the following:"
+msgstr ""
+
+msgid "Channel Settings > Topic Description > Write %s and save."
+msgstr ""
+
+msgid "Translate Custom Message"
+msgstr ""
+
+msgid "Translates a custom message entered by user."
+msgstr ""
+
+msgid "#channel"
+msgstr "#channel"
+
+msgid "message"
+msgstr "Skilaboð"
+
+msgid "language(s) to translate to"
+msgstr ""
+
+msgid "explicitly translate from this language"
+msgstr ""
+
+msgid "forward message to specific channel"
+msgstr ""
+
+msgid "TTS Text to Speech Translation (Experimental)"
+msgstr ""
+
+msgid ""
+"Translates a custom message entered by user and speaks it in the user's "
+"connected voice channel."
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Make sure bot has **Connect** and **Speak** permissions."
+msgstr ""
+
+msgid "Make sure you are **connected** to a Voice Channel before writing command."
+msgstr ""
+
+msgid "View list of **Supported Voice languages**"
+msgstr ""
+
+msgid "Auto Translate Channel (Single)"
+msgstr ""
+
+msgid ""
+"Add **auto-translate** inside the channel's topic description, or at the end of "
+"channel name, to automatically translate all messages in that channel to the "
+"default language."
+msgstr ""
+
+msgid "Auto Translate Multiple Channels"
+msgstr ""
+
+msgid ""
+"Translate new messages in channel and forward them to linked channels in the "
+"same automatic group. Supports custom modes*."
+msgstr ""
+
+msgid "Current Channel Info"
+msgstr ""
+
+msgid "Set channel's language"
+msgstr ""
+
+msgid "Set auto group"
+msgstr ""
+
+msgid "Stop/remove group"
+msgstr ""
+
+msgid "Set sending mode"
+msgstr ""
+
+msgid "Set channel text style"
+msgstr ""
+
+msgid "Shortcut command"
+msgstr ""
+
+msgid ""
+"**Modes** set a channel to send messages only, receive only or be fully "
+"synchronized (both send and receive)."
+msgstr ""
+
+msgid "Auto Translate Users"
+msgstr ""
+
+msgid ""
+"Automatically translates any new messages by specific users in the server (same "
+"channel)."
+msgstr ""
+
+msgid "Translate user to channel's default language"
+msgstr ""
+
+msgid "Translate user to specific language"
+msgstr ""
+
+msgid "For example:"
+msgstr ""
+
+msgid "Ban Users"
+msgstr ""
+
+msgid ""
+"This requires the bot to have **Manage Roles** and **Manage Nicknames** "
+"permissions."
+msgstr ""
+
+msgid "Allow Other Bots"
+msgstr ""
+
+msgid ""
+"To allow translation of other bots, simply create a new role called %s and "
+"assign it to the bots you want. (Use at your own risk)"
+msgstr ""
+
+msgid "Stop Channel Automatic Translation"
+msgstr ""
+
+msgid "Go to channel and wirte:"
+msgstr ""
+
+msgid "or"
+msgstr "eða"
+
+msgid "Alternatively, change the channel's mode"
+msgstr ""
+
+msgid "(receives translated messages only)"
+msgstr ""
+
+msgid "(sends translated messages only)"
+msgstr ""
+
+msgid "Stop User Automatic Translation"
+msgstr ""
+
+msgid "Ban User from using Translator"
+msgstr ""
+
+msgid "Stop translating other Bots"
+msgstr ""
+
+msgid "Simply remove the `%s` role from the other bots."
+msgstr ""
+
+msgid "Ignore specific messages"
+msgstr ""
+
+msgid "Ignore specific words"
+msgstr ""
+
+msgid "Miscellaneous Commands"
+msgstr "Ýmsar skipanir"
+
+msgid "Help"
+msgstr "Hjálp"
+
+msgid "Info"
+msgstr "Upplýsingar"
+
+msgid "Links"
+msgstr "Hlekkir"
+
+msgid "Stats"
+msgstr "Tölfræði"
+
+msgid "(bot invidation link)"
+msgstr ""
+
+msgid "(official server)"
+msgstr ""
+
+msgid "Detect Language of Message"
+msgstr ""
+
+msgid ""
+"You can detect the language of a message by reacting to it with a **globe** "
+"emoji (%s).\n"
+"Alternatively, you can use the `%s` command:"
+msgstr ""
+
+msgid "Auto Delete Bot Commands"
+msgstr ""
+
+msgid ""
+"You can choose to have the bot auto delete commands in the channel. All you "
+"have to do is write %s anywhere inside the channel's topic description."
+msgstr ""
+
+msgid ""
+"This will delete all commands/messages including: help commands, settings, "
+"stats and translate commands for example:"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "Translate other Bots"
+msgstr ""
+
+msgid ""
+"By default, Translator will ignore all messages by bots, this is a common "
+"practice to avoid unpredictable behaviours and response-loops."
+msgstr ""
+
+msgid ""
+"With that said, if you still wish to translate messages by other bots, you can "
+"do so by creating a member **role** called **can-translate** then assign it to "
+"the bots you wish to translate."
+msgstr ""
+
+msgid "Disable/Stop"
+msgstr "Slökkva / stöðva"
+
+msgid "Simply remove the %s role from the bots. Or delete the role itself."
+msgstr ""
+
+msgid "Use at your own risk and report if you experience issues."
+msgstr ""
+
+msgid "Server commands are available only to server administrators."
+msgstr ""
+
+msgid "Current Server Info"
+msgstr "Núverandi upplýsngar um þjón"
+
+msgid "Set servers's default language"
+msgstr ""
+
+msgid "Set servers's custom prefix"
+msgstr ""
+
+msgid "Set servers's default style"
+msgstr ""
+
+msgid "View server's automatic groups"
+msgstr ""
+
+msgid "Supported Languages"
+msgstr "Studd tungumál"
+
+msgid "For a detailed list, visit the **[wiki page](%s)**."
+msgstr ""
+
+msgid "Bot Info"
+msgstr "Upplýsingar um bottan"
+
+msgid "Bot Version"
+msgstr "Útgáfa bottans"
+
+msgid "Bot Language"
+msgstr "Tungumál bottans"
+
+msgid "Global Translation Stats"
+msgstr ""
+
+msgid "Total Shards"
+msgstr "Samtals hlutar"
+
+msgid "Total Servers"
+msgstr "Samtals þjónar"
+
+msgid "Total Channels"
+msgstr "Samtals rásir"
+
+msgid ""
+"If you enjoy using this bot then please consider helping with its growth by "
+"various promotional actions listed below:"
+msgstr ""
+
+msgid "How you can help"
+msgstr ""
+
+msgid "Upvote bot on [DBL](%s)"
+msgstr ""
+
+msgid "Follow and share bot on [Twitter](%s)"
+msgstr ""
+
+msgid "Follow and review bot on [Botlist.co](%s)"
+msgstr ""
+
+msgid "Make a [video review](%s)"
+msgstr ""
+
+msgid "Share bot on [social media](%s)"
+msgstr ""
+
+msgid "Join [translation team](%s)"
+msgstr ""
+
+msgid "Other [ads/promotional acts](%s)"
+msgstr ""
+
+msgid "Supporters will be given VIP status and interesting perks"
+msgstr ""
+
+msgid "Special roles on the official bot server"
+msgstr ""
+
+msgid "Access to beta features"
+msgstr "Aðgangur að beta aðgerðum"
+
+msgid "Discounts on premium plans"
+msgstr "Afslættir á iðgjaldsáformum"
+
+msgid "The detected language is **%s** ( %s / `%s` )."
+msgstr ""
+
+msgid "Command Prefix"
+msgstr "Skipanaforskeyti"
+
+msgid "Channels"
+msgstr "Rásir"
+
+msgid "Character Quotas / Limits"
+msgstr "Stafa kvóti / mörk"
+
+msgid "Today"
+msgstr "Í dag"
+
+msgid "Month"
+msgstr "Mánuð"
+
+msgid "Total"
+msgstr "Samtals"
+
+msgid "Server's default language is **%s**"
+msgstr ""
+
+msgid "Updated server's language to **%s**"
+msgstr ""
+
+msgid "Server's current text style is **%s**"
+msgstr ""
+
+msgid "Server's text style has been updated to **%s**"
+msgstr ""
+
+msgid "Server's current prefix is **`%s`**"
+msgstr ""
+
+msgid "To change prefix, type:"
+msgstr "Til að breyta forskeyti skaltu slá inn:"
+
+msgid "Server's prefix has been updated to **`%s`**"
+msgstr ""
+
+msgid "Linked Channels"
+msgstr "Tengdar rásir"
+
+msgid "This server does **not** have any automatic translation groups"
+msgstr ""
+
+msgid "To create an automatic group, type:"
+msgstr ""
+
+msgid "List of Server Auto Groups"
+msgstr ""
+
+msgid "No Limit"
+msgstr "Engin takmörk"
+
+msgid "Will not work in **auto-translated** channels"
+msgstr ""
+
+msgid "Will not work in **ignored / blocked** channels"
+msgstr ""
+
+msgid "Will not work if user has %s role"
+msgstr ""
+
+msgctxt "example"
+msgid "Hello World"
+msgstr "Halló heimur!"
+
+msgctxt "example"
+msgid "result:"
+msgstr "Niðurstaða"
+
+msgctxt "example"
+msgid "I love you"
+msgstr "Ég elska þig"
+
+msgctxt "example"
+msgid "how are you?"
+msgstr "hvernig hefurðu það?"
+
+msgctxt "auto mode"
+msgid "Send and Receive"
+msgstr "Senda og taka á móti"
+
+msgctxt "auto mode"
+msgid "Send only"
+msgstr "Senda aðeins"
+
+msgctxt "auto mode"
+msgid "Receive only"
+msgstr "Aðeins taka á mót"
+
+msgctxt "quota"
+msgid "Would you like to extend it? Consider advanced **Premium** plans."
+msgstr ""
+
+msgctxt "voice"
+msgid "Please wait for bot to finish speaking the current TTS message.."
+msgstr ""
+
+msgctxt "user"
+msgid "%s said:"
+msgstr "%s sagði:"
+
+msgctxt "user"
+msgid "Messages by %s will now be auto translated to **%s**"
+msgstr ""
+
+msgctxt "user"
+msgid "**Stopped** auto translating messages by %s."
+msgstr ""
+
+msgctxt "user"
+msgid "%s is **not** being auto translated."
+msgstr ""
+
+msgctxt "user"
+msgid "%s is already banned from using **Translator** bot."
+msgstr ""
+
+msgctxt "user"
+msgid "%s has been **banned** from using the **Translator** bot."
+msgstr ""
+
+msgctxt "user"
+msgid "%s is now allowed to use **Translator** bot."
+msgstr ""
+
+msgctxt "user"
+msgid "%s is already allowed to use **Translator** bot."
+msgstr ""
+
+msgctxt "value"
+msgid "%s - Server Default"
+msgstr "%s - Sjálfgefið af þjóni"
+
+msgctxt "value"
+msgid "(default)"
+msgstr "(sjálfgefið)"
+
+msgctxt "value"
+msgid "Not Set"
+msgstr "ekki sett"
+
+msgctxt "value"
+msgid "new language"
+msgstr "nýtt tungumál"
+
+msgctxt "value"
+msgid "group name"
+msgstr "Nafn hóps"
+
+msgctxt "channels"
+msgid "%d linked"
+msgstr "%d tengd"
+
+msgctxt "messages"
+msgid "Translated"
+msgstr "Þýdd"
+
+msgctxt "channel"
+msgid "%s **updated**:"
+msgstr "%s uppfært."
+
+msgctxt "channel"
+msgid "%s's current language is **%s**"
+msgstr "Núverandi tungumál %s er ** %s **"
+
+msgctxt "channel"
+msgid "Updated %s's language to **%s**"
+msgstr "Uppfært tungumál %s til ** %s **"
+
+msgctxt "channel"
+msgid "%s's current group is **%s**"
+msgstr "Núverandi hópur %s er ** %s **"
+
+msgctxt "channel"
+msgid "%s has been added to the **%s** group."
+msgstr "%s hefur verið bætt við ** %s ** hópinn."
+
+msgctxt "channel"
+msgid "%s's current mode is **%s**"
+msgstr "Núverandi stillingar %s er ** %s **"
+
+msgctxt "channel"
+msgid "%s's auto mode has been updated to **%s**"
+msgstr "Sjálfvirk stilling %s hefur verið uppfærð í ** %s **"
+
+msgctxt "channel"
+msgid "%s's current text style is **%s**"
+msgstr "Núverandi textastíll %s er ** %s **"
+
+msgctxt "channel"
+msgid "%s has been removed from auto group."
+msgstr "%s hefur verið fjarlægt úr sjálfvirka hópnum."
+
+msgctxt "auto"
+msgid "Group has been renamed to **%s**"
+msgstr "Nafni hóps hefur verið breytt í **%s**"
+
+msgctxt "auto"
+msgid "Total Groups"
+msgstr "Samtals hópar"
+
+msgctxt "feature"
+msgid "Translate custom messages"
+msgstr "Þýða sérsniðin skilaboð"
+
+msgctxt "feature"
+msgid "Translate messages by reacting with a flag emoji"
+msgstr "Breyttu skilaboðum með því að bregðast við með fána emoji"
+
+msgctxt "feature"
+msgid "Translate to multiple languages at once"
+msgstr "Þýða til margra tungumála í einu"
+
+msgctxt "feature"
+msgid "Automatic translation of channels"
+msgstr "Sjálfvirk þýðing á rásum"
+
+msgctxt "feature"
+msgid "Automatic translations of specific users"
+msgstr "Sjálfvirk þýðing tiltekinna notenda"
+
+msgctxt "feature"
+msgid "Supports custom prefixes"
+msgstr "Styður sérsniðið forskeyti"
+
+msgctxt "feature"
+msgid "Supports 110+ languages"
+msgstr "Styður 110+ tungumál"
+
+msgctxt "feature"
+msgid "Disable"
+msgstr "Slökkva"
+
+msgctxt "website"
+msgid "Certified by %s"
+msgstr "Gildur af %s"
+
+msgctxt "company"
+msgid "Made with `❤` by %s"
+msgstr "Gert með `❤` eftir %s"
+
+msgctxt "language"
+msgid "to"
+msgstr "til"
+
+msgctxt "language"
+msgid "from"
+msgstr "frá"
+
+msgctxt "function"
+msgid "Stopping"
+msgstr "Stöðva"
+
+msgctxt "notice"
+msgid "Important"
+msgstr "Mikilvægt"
+
+msgctxt "mention"
+msgid "@user"
+msgstr "@notandi"
+
+msgctxt "keyword"
+msgid "Any message ending with `%s` or `%s` will be ignored by the bot."
+msgstr "Öll skilaboð sem endar með ` %s` eða` %s` verða hunsaðar af bottanum."
+
+msgctxt "brackets"
+msgid "Any words inside %s or %s will be ignored by the bot."
+msgstr "Öll orð inni %s eða %s verður hunsuð af bottanum."
+
+msgctxt "command"
+msgid "Default Prefix"
+msgstr "Sjálfgefið forskeyti"
+
+msgctxt "translated"
+msgid "Characters Today"
+msgstr "Stafir í dag"
+
+msgctxt "translated"
+msgid "Characters this Month"
+msgstr "Stafir í þessum mánuði"
+
+msgctxt "translated"
+msgid "Characters Total"
+msgstr "Stafir Samtals"
+
+msgctxt "translated"
+msgid "Messages Total"
+msgstr "Skilaboð Samtals"
+
+msgctxt "premium"
+msgid "Plan"
+msgstr "Plan"
+
+msgctxt "characters"
+msgid "Per Message"
+msgstr "hver skilaboð"
